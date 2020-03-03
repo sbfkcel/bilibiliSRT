@@ -1,0 +1,2217 @@
+1
+00:00:00,000 --> 00:00:03,960
+[MUSIC PLAYING]
+
+2
+00:00:03,960 --> 00:00:10,410
+ 
+
+3
+00:00:10,410 --> 00:00:13,470
+ One thing the game
+designers really should know
+
+4
+00:00:13,470 --> 00:00:15,960
+is that, you know,
+it's about the player.
+
+5
+00:00:15,960 --> 00:00:17,790
+You know, it's a
+player-centered experience.
+
+6
+00:00:17,790 --> 00:00:20,380
+And the player is the one
+driving that experience.
+
+7
+00:00:20,380 --> 00:00:22,670
+You know, it's the difference
+between being on a roller
+
+8
+00:00:22,670 --> 00:00:25,460
+coaster and being in a car,
+behind the steering wheel.
+
+9
+00:00:25,460 --> 00:00:27,960
+Now that player, because they're
+holding the steering wheel,
+
+10
+00:00:27,960 --> 00:00:29,540
+they're responsible
+for where they go.
+
+11
+00:00:29,540 --> 00:00:30,000
+They have choice they
+have decisions to make.
+
+12
+00:00:30,000 --> 00:00:32,910
+They have choice they
+have decisions to make.
+
+13
+00:00:32,910 --> 00:00:35,430
+And because of that,
+they take ownership.
+
+14
+00:00:35,430 --> 00:00:38,910
+And that totally changes their
+relationship to whatever it is.
+
+15
+00:00:38,910 --> 00:00:40,660
+You know, the fact
+that they were the ones
+
+16
+00:00:40,660 --> 00:00:43,500
+to steer left or right, and
+because it went off the cliff,
+
+17
+00:00:43,500 --> 00:00:45,720
+it was their fault, or
+because they, you know,
+
+18
+00:00:45,720 --> 00:00:47,430
+won the lottery, they
+did it because they
+
+19
+00:00:47,430 --> 00:00:48,640
+picked those numbers.
+
+20
+00:00:48,640 --> 00:00:51,550
+So I think that that's the
+first and foremost thing,
+
+21
+00:00:51,550 --> 00:00:53,670
+is that when somebody feels
+like they're in control
+
+22
+00:00:53,670 --> 00:00:56,620
+of a process, they own it.
+
+23
+00:00:56,620 --> 00:01:00,000
+And it now has a fundamentally
+more personal connection
+
+24
+00:01:00,000 --> 00:01:00,360
+And it now has a fundamentally
+more personal connection
+
+25
+00:01:00,360 --> 00:01:02,850
+to them than something
+that's one size
+
+26
+00:01:02,850 --> 00:01:05,720
+fits all, here's the ride,
+get on it, hope you enjoy it.
+
+27
+00:01:05,720 --> 00:01:09,530
+[MUSIC PLAYING]
+
+28
+00:01:09,530 --> 00:01:12,860
+ 
+
+29
+00:01:12,860 --> 00:01:17,240
+Flow is kind of a state that
+the player can get into.
+
+30
+00:01:17,240 --> 00:01:20,060
+And I think of it as
+basically something
+
+31
+00:01:20,060 --> 00:01:22,640
+that's right at the
+limit of your abilities.
+
+32
+00:01:22,640 --> 00:01:24,830
+It's pushing you mentally.
+
+33
+00:01:24,830 --> 00:01:26,520
+But it's not too
+easy, not too hard.
+
+34
+00:01:26,520 --> 00:01:29,090
+If it's too hard, it seems
+random, it seems arbitrary,
+
+35
+00:01:29,090 --> 00:01:30,000
+it's frustrating.
+
+36
+00:01:30,000 --> 00:01:30,340
+it's frustrating.
+
+37
+00:01:30,340 --> 00:01:32,900
+If it's too easy, it's
+predictable, it's boring.
+
+38
+00:01:32,900 --> 00:01:35,390
+Flow is putting you right on
+that edge of your abilities,
+
+39
+00:01:35,390 --> 00:01:36,820
+and really testing them.
+
+40
+00:01:36,820 --> 00:01:38,300
+I used to actually race cars.
+
+41
+00:01:38,300 --> 00:01:39,890
+And there was kind
+of a rule of thumb
+
+42
+00:01:39,890 --> 00:01:41,720
+in racing that if you didn't
+crash 10% of the time,
+
+43
+00:01:41,720 --> 00:01:43,160
+you weren't trying hard enough.
+
+44
+00:01:43,160 --> 00:01:45,710
+You need to design the
+game such that failure is
+
+45
+00:01:45,710 --> 00:01:48,260
+interesting and understandable,
+so that go back and say, aha,
+
+46
+00:01:48,260 --> 00:01:51,590
+now I need to avoid the turtles
+or whatever it is in the game.
+
+47
+00:01:51,590 --> 00:01:54,500
+And then you kind of
+build and grow that model.
+
+48
+00:01:54,500 --> 00:01:56,630
+But also you're
+building your ability
+
+49
+00:01:56,630 --> 00:01:59,510
+to problem-solve and strategize.
+
+50
+00:01:59,510 --> 00:02:00,000
+Every player is can be
+different, different abilities,
+
+51
+00:02:00,000 --> 00:02:02,060
+Every player is can be
+different, different abilities,
+
+52
+00:02:02,060 --> 00:02:04,110
+different skill sets.
+
+53
+00:02:04,110 --> 00:02:06,170
+In a lot of ways, you
+want to make the game such
+
+54
+00:02:06,170 --> 00:02:08,669
+that the player is the one
+adjusting the difficulty.
+
+55
+00:02:08,669 --> 00:02:11,039
+You know, they can choose to
+go a little bit further, try
+
+56
+00:02:11,039 --> 00:02:13,370
+for this harder thing, or
+stick with the easy stuff
+
+57
+00:02:13,370 --> 00:02:14,660
+until they're more comfortable.
+
+58
+00:02:14,660 --> 00:02:17,780
+So in some sense, a lot of it
+can be kind of player-paced.
+
+59
+00:02:17,780 --> 00:02:19,280
+There are more
+advanced systems that
+
+60
+00:02:19,280 --> 00:02:21,570
+are called DDA, or Dynamic
+Difficulty Adjustment,
+
+61
+00:02:21,570 --> 00:02:23,150
+where the computer,
+behind the scenes,
+
+62
+00:02:23,150 --> 00:02:24,410
+is kind of watching
+with the player's doing.
+
+63
+00:02:24,410 --> 00:02:26,280
+And if they're failing
+too much, the computer
+
+64
+00:02:26,280 --> 00:02:28,040
+can actually lower
+the difficulty level,
+
+65
+00:02:28,040 --> 00:02:29,120
+or increase it, you
+know, if they're not
+
+66
+00:02:29,120 --> 00:02:30,000
+being challenged enough.
+
+67
+00:02:30,000 --> 00:02:30,310
+being challenged enough.
+
+68
+00:02:30,310 --> 00:02:32,520
+But in a lot of games, you
+know, by giving the player
+
+69
+00:02:32,520 --> 00:02:34,560
+enough freedom but
+also enticing them
+
+70
+00:02:34,560 --> 00:02:36,140
+to try for the hard
+things-- you know,
+
+71
+00:02:36,140 --> 00:02:37,510
+if you try for
+this harder thing,
+
+72
+00:02:37,510 --> 00:02:38,960
+you might get this
+bigger reward.
+
+73
+00:02:38,960 --> 00:02:41,690
+So at that point, the player can
+kind of choose their own level,
+
+74
+00:02:41,690 --> 00:02:44,240
+and put themself
+in the flow state.
+
+75
+00:02:44,240 --> 00:02:47,590
+[MUSIC PLAYING]
+
+76
+00:02:47,590 --> 00:02:50,940
+ 
+
+77
+00:02:50,940 --> 00:02:54,470
+There is a whole topic known
+as failure-based learning.
+
+78
+00:02:54,470 --> 00:02:57,220
+You know, and-- you know,
+we have this-- you know,
+
+79
+00:02:57,220 --> 00:02:58,720
+failure is a loaded
+term, in that
+
+80
+00:02:58,720 --> 00:03:00,000
+we think of failure as bad.
+
+81
+00:03:00,000 --> 00:03:00,400
+we think of failure as bad.
+
+82
+00:03:00,400 --> 00:03:02,630
+I don't want to fail.
+
+83
+00:03:02,630 --> 00:03:04,210
+There was a great story I heard.
+
+84
+00:03:04,210 --> 00:03:06,940
+It was an art teacher
+in an art class--
+
+85
+00:03:06,940 --> 00:03:08,710
+it was actually a pottery class.
+
+86
+00:03:08,710 --> 00:03:10,300
+And at the beginning
+of this class,
+
+87
+00:03:10,300 --> 00:03:12,700
+the beginning of the year,
+he did divided the class
+
+88
+00:03:12,700 --> 00:03:13,960
+into two halves.
+
+89
+00:03:13,960 --> 00:03:16,690
+And the first half he
+said, OK, your final grade
+
+90
+00:03:16,690 --> 00:03:18,790
+is going to be based upon
+one pot that you make.
+
+91
+00:03:18,790 --> 00:03:21,120
+I want you to make the best
+pot you could possibly make,
+
+92
+00:03:21,120 --> 00:03:23,260
+and your grade is going
+to be based upon that.
+
+93
+00:03:23,260 --> 00:03:25,150
+The other half of the class,
+he said, OK, your grade
+
+94
+00:03:25,150 --> 00:03:26,800
+is going to be based on
+how many pots you make.
+
+95
+00:03:26,800 --> 00:03:28,050
+I don't care how bad they are.
+
+96
+00:03:28,050 --> 00:03:30,000
+Just the more you make,
+the better your grade.
+
+97
+00:03:30,000 --> 00:03:30,480
+Just the more you make,
+the better your grade.
+
+98
+00:03:30,480 --> 00:03:31,900
+At the end of the
+year, of course,
+
+99
+00:03:31,900 --> 00:03:33,850
+it turns out that the
+half of the class that
+
+100
+00:03:33,850 --> 00:03:35,920
+was building the
+most pots were also
+
+101
+00:03:35,920 --> 00:03:37,720
+building the best ones by far.
+
+102
+00:03:37,720 --> 00:03:40,690
+They had built so many bad pots,
+and had iterated so many times,
+
+103
+00:03:40,690 --> 00:03:42,080
+they learned very rapidly.
+
+104
+00:03:42,080 --> 00:03:43,570
+And by the end of
+the class, they
+
+105
+00:03:43,570 --> 00:03:44,940
+were building
+these amazing pots.
+
+106
+00:03:44,940 --> 00:03:47,240
+Whereas the other half that
+was spending all their time
+
+107
+00:03:47,240 --> 00:03:49,470
+thinking about one pot that
+they were going to build,
+
+108
+00:03:49,470 --> 00:03:51,100
+you know, never got anywhere.
+
+109
+00:03:51,100 --> 00:03:53,680
+So it was the failure that
+accelerated their learning
+
+110
+00:03:53,680 --> 00:03:55,220
+on the other half.
+
+111
+00:03:55,220 --> 00:03:56,800
+You know, and when
+players play games,
+
+112
+00:03:56,800 --> 00:04:00,000
+again, they are failing
+most of the time.
+
+113
+00:04:00,000 --> 00:04:00,940
+again, they are failing
+most of the time.
+
+114
+00:04:00,940 --> 00:04:03,910
+And again, if you can
+make it understandable,
+
+115
+00:04:03,910 --> 00:04:08,800
+humorous, enjoyable
+in some way, then that
+
+116
+00:04:08,800 --> 00:04:10,870
+can be an enjoyable
+process, especially when
+
+117
+00:04:10,870 --> 00:04:13,850
+you get past that first
+failure to the next level.
+
+118
+00:04:13,850 --> 00:04:16,279
+[MUSIC PLAYING]
+
+119
+00:04:16,279 --> 00:04:19,680
+[CHARACTERS GROANING AND
+ GRUNTING]
+
+120
+00:04:19,680 --> 00:04:27,950
+ 
+
+121
+00:04:27,950 --> 00:04:30,000
+So as a designer, we're
+constructing this middle model
+
+122
+00:04:30,000 --> 00:04:31,340
+So as a designer, we're
+constructing this middle model
+
+123
+00:04:31,340 --> 00:04:32,540
+in the player.
+
+124
+00:04:32,540 --> 00:04:36,740
+And it's important that we
+ramp that model up smoothly
+
+125
+00:04:36,740 --> 00:04:38,240
+and gradually for the player.
+
+126
+00:04:38,240 --> 00:04:40,580
+You don't want to pile all
+this complexity on them right
+
+127
+00:04:40,580 --> 00:04:41,790
+at the beginning of the game.
+
+128
+00:04:41,790 --> 00:04:42,530
+It's overwhelming.
+
+129
+00:04:42,530 --> 00:04:44,600
+You should actually present
+them a simpler model.
+
+130
+00:04:44,600 --> 00:04:46,700
+They can start building,
+from that simple model,
+
+131
+00:04:46,700 --> 00:04:50,120
+layers and layers of complexity
+onto it in their head
+
+132
+00:04:50,120 --> 00:04:52,240
+as they encounter more and
+more things in the game,
+
+133
+00:04:52,240 --> 00:04:55,950
+either through, you know,
+more elaborate world items,
+
+134
+00:04:55,950 --> 00:05:00,000
+monsters, opponents,
+abilities, tools, whatever.
+
+135
+00:05:00,000 --> 00:05:00,050
+monsters, opponents,
+abilities, tools, whatever.
+
+136
+00:05:00,050 --> 00:05:02,150
+So the designer,
+in some sense, is
+
+137
+00:05:02,150 --> 00:05:05,860
+responsible for ramping that
+model in the player's head.
+
+138
+00:05:05,860 --> 00:05:08,420
+Now, when you're playing
+an interactive experience,
+
+139
+00:05:08,420 --> 00:05:10,000
+you're actually going
+through this set
+
+140
+00:05:10,000 --> 00:05:13,590
+of kind of nested loops
+of success and failure.
+
+141
+00:05:13,590 --> 00:05:15,050
+When you first
+start playing Mario,
+
+142
+00:05:15,050 --> 00:05:16,700
+you start mashing the
+buttons, and you find out
+
+143
+00:05:16,700 --> 00:05:18,680
+that that button makes
+him jump, this control
+
+144
+00:05:18,680 --> 00:05:21,350
+makes him move side to side.
+
+145
+00:05:21,350 --> 00:05:23,700
+About 10 seconds for you
+to kind of figure that out.
+
+146
+00:05:23,700 --> 00:05:25,160
+So there's that
+kind of 10 seconds,
+
+147
+00:05:25,160 --> 00:05:27,320
+I don't know how to control
+Mario, then I succeed,
+
+148
+00:05:27,320 --> 00:05:28,580
+and finally know
+how to control him,
+
+149
+00:05:28,580 --> 00:05:30,000
+which brings me kind of to
+the next level of interaction,
+
+150
+00:05:30,000 --> 00:05:30,950
+which brings me kind of to
+the next level of interaction,
+
+151
+00:05:30,950 --> 00:05:32,230
+which is maybe more a minute.
+
+152
+00:05:32,230 --> 00:05:33,650
+I started encountering
+objects in the world.
+
+153
+00:05:33,650 --> 00:05:34,290
+Is that good?
+
+154
+00:05:34,290 --> 00:05:35,060
+Is that bad?
+
+155
+00:05:35,060 --> 00:05:36,210
+I learn from that.
+
+156
+00:05:36,210 --> 00:05:39,260
+And then you go from kind of a
+very tactical, very granular,
+
+157
+00:05:39,260 --> 00:05:42,590
+to longer and longer loops
+of success and failure.
+
+158
+00:05:42,590 --> 00:05:44,130
+Now, every level,
+you're probably
+
+159
+00:05:44,130 --> 00:05:45,260
+going to encounter failure.
+
+160
+00:05:45,260 --> 00:05:47,970
+And the failure actually
+is something that--
+
+161
+00:05:47,970 --> 00:05:49,760
+most people are spending
+most of their time
+
+162
+00:05:49,760 --> 00:05:53,210
+in a game failing,
+really, at different ways
+
+163
+00:05:53,210 --> 00:05:54,350
+and different loops here.
+
+164
+00:05:54,350 --> 00:05:55,790
+And it's not that you
+don't want the player
+
+165
+00:05:55,790 --> 00:05:57,390
+to encounter
+failure, but you want
+
+166
+00:05:57,390 --> 00:05:59,900
+them to understand
+the failure, and build
+
+167
+00:05:59,900 --> 00:06:00,000
+a model around that failure
+so that next time they
+
+168
+00:06:00,000 --> 00:06:02,030
+a model around that failure
+so that next time they
+
+169
+00:06:02,030 --> 00:06:02,600
+will succeed.
+
+170
+00:06:02,600 --> 00:06:04,210
+That's part of the
+motivation, is now
+
+171
+00:06:04,210 --> 00:06:06,140
+I understand that that's
+good and that's bad.
+
+172
+00:06:06,140 --> 00:06:08,510
+Next time I will not
+get stuck by that.
+
+173
+00:06:08,510 --> 00:06:11,390
+Let me show you an example of
+that on the whiteboard here.
+
+174
+00:06:11,390 --> 00:06:18,710
+ 
+
+175
+00:06:18,710 --> 00:06:20,300
+In a game like "The
+Sims," you know,
+
+176
+00:06:20,300 --> 00:06:22,040
+basically you have
+little characters
+
+177
+00:06:22,040 --> 00:06:23,600
+that you're controlling here.
+
+178
+00:06:23,600 --> 00:06:25,750
+And initially, you need to
+understand first of all,
+
+179
+00:06:25,750 --> 00:06:28,130
+just how to make them move,
+and walk around, and interact
+
+180
+00:06:28,130 --> 00:06:29,460
+with things, you know.
+
+181
+00:06:29,460 --> 00:06:30,000
+So in some sense, that's kind
+of like the very first game loop
+
+182
+00:06:30,000 --> 00:06:32,040
+So in some sense, that's kind
+of like the very first game loop
+
+183
+00:06:32,040 --> 00:06:33,530
+we're dealing with here.
+
+184
+00:06:33,530 --> 00:06:37,290
+On one side of that,
+you know, is failure.
+
+185
+00:06:37,290 --> 00:06:38,940
+And you know, this
+is me not being
+
+186
+00:06:38,940 --> 00:06:40,370
+able to control my character.
+
+187
+00:06:40,370 --> 00:06:42,490
+And once I've learned how
+to make them walk around,
+
+188
+00:06:42,490 --> 00:06:48,110
+interact with things, you
+know, then I've succeeded.
+
+189
+00:06:48,110 --> 00:06:50,710
+And this is, you know, this
+is called interaction loop,
+
+190
+00:06:50,710 --> 00:06:51,440
+you know.
+
+191
+00:06:51,440 --> 00:06:53,180
+After that, you know, I
+start dealing with-- they
+
+192
+00:06:53,180 --> 00:06:54,180
+have these little needs.
+
+193
+00:06:54,180 --> 00:06:57,260
+They get hungry, they get
+tired, they want social,
+
+194
+00:06:57,260 --> 00:06:58,490
+they want entertainment.
+
+195
+00:06:58,490 --> 00:06:59,810
+And those things fail.
+
+196
+00:06:59,810 --> 00:07:00,000
+So right off the bat, you
+know, they're sitting there,
+
+197
+00:07:00,000 --> 00:07:02,270
+So right off the bat, you
+know, they're sitting there,
+
+198
+00:07:02,270 --> 00:07:04,700
+and they're crashing on
+energy, they're bored,
+
+199
+00:07:04,700 --> 00:07:06,440
+they're basically unhappy.
+
+200
+00:07:06,440 --> 00:07:08,750
+And so the next level loop
+I really have to kind of do
+
+201
+00:07:08,750 --> 00:07:10,700
+is figure out how to
+bring that happiness up.
+
+202
+00:07:10,700 --> 00:07:12,150
+So that's kind of
+like the happy loop.
+
+203
+00:07:12,150 --> 00:07:13,860
+And that's a little
+bit longer timescale.
+
+204
+00:07:13,860 --> 00:07:16,620
+You know, that takes several
+minutes within The Sims.
+
+205
+00:07:16,620 --> 00:07:17,990
+And again, you
+know, there's kind
+
+206
+00:07:17,990 --> 00:07:20,790
+of a success side to that and
+a failure side to that loop.
+
+207
+00:07:20,790 --> 00:07:23,120
+Now there are also things,
+you know, within these loops.
+
+208
+00:07:23,120 --> 00:07:24,020
+And we kind of keep going.
+
+209
+00:07:24,020 --> 00:07:25,580
+You know, the next
+one might be economic.
+
+210
+00:07:25,580 --> 00:07:27,910
+At some point, they want to
+start improving their house,
+
+211
+00:07:27,910 --> 00:07:29,750
+getting a job, getting
+skills, you know.
+
+212
+00:07:29,750 --> 00:07:30,000
+So let's call that Jobs.
+
+213
+00:07:30,000 --> 00:07:31,520
+So let's call that Jobs.
+
+214
+00:07:31,520 --> 00:07:35,240
+You know, and that's an
+even longer loop here.
+
+215
+00:07:35,240 --> 00:07:37,490
+But a lot of games like "The
+Sims," or creative games,
+
+216
+00:07:37,490 --> 00:07:39,920
+you know, also
+involve, basically,
+
+217
+00:07:39,920 --> 00:07:40,880
+orthogonal creativity.
+
+218
+00:07:40,880 --> 00:07:43,250
+You know, so in addition to
+playing the game, in addition
+
+219
+00:07:43,250 --> 00:07:45,860
+to kind of dealing with
+all these game loops,
+
+220
+00:07:45,860 --> 00:07:48,410
+I'm doing this weird stuff,
+like telling a story with this,
+
+221
+00:07:48,410 --> 00:07:50,060
+or trying to
+replicate my family,
+
+222
+00:07:50,060 --> 00:07:52,580
+or just exploring, seeing, I
+wonder if my Sim could do that.
+
+223
+00:07:52,580 --> 00:07:54,080
+And so there are
+probably, you know,
+
+224
+00:07:54,080 --> 00:07:57,200
+other loops that are in a
+different dimension, really,
+
+225
+00:07:57,200 --> 00:07:59,390
+than this-- kind of
+more like there--
+
+226
+00:07:59,390 --> 00:08:00,000
+that don't have a lot
+to do with me succeeding
+
+227
+00:08:00,000 --> 00:08:01,460
+that don't have a lot
+to do with me succeeding
+
+228
+00:08:01,460 --> 00:08:03,920
+on the overall
+game's success curve,
+
+229
+00:08:03,920 --> 00:08:05,930
+but have more to do with
+the player exploring
+
+230
+00:08:05,930 --> 00:08:08,270
+their own creativity,
+their own expressiveness.
+
+231
+00:08:08,270 --> 00:08:11,830
+And some players, you know,
+get totally invested in this,
+
+232
+00:08:11,830 --> 00:08:14,180
+and eventually start
+ignoring that, you know.
+
+233
+00:08:14,180 --> 00:08:17,490
+But most games have some version
+of these different loops,
+
+234
+00:08:17,490 --> 00:08:17,990
+you know.
+
+235
+00:08:17,990 --> 00:08:21,860
+And it might be learn to shoot,
+then learn to unlock the door,
+
+236
+00:08:21,860 --> 00:08:24,740
+then learn to defeat the
+evil boss at the end.
+
+237
+00:08:24,740 --> 00:08:26,480
+You know, this is
+pretty much, you know,
+
+238
+00:08:26,480 --> 00:08:29,450
+the same graph of the player
+building up this mental model.
+
+239
+00:08:29,450 --> 00:08:30,000
+So the player's,
+you know, model--
+
+240
+00:08:30,000 --> 00:08:31,370
+So the player's,
+you know, model--
+
+241
+00:08:31,370 --> 00:08:34,760
+the player's up here,
+controlling this game.
+
+242
+00:08:34,760 --> 00:08:38,150
+And you know, in their head,
+you know, they're basically
+
+243
+00:08:38,150 --> 00:08:39,799
+building this mental model--
+
+244
+00:08:39,799 --> 00:08:43,309
+you know, kind of
+one layer at a time--
+
+245
+00:08:43,309 --> 00:08:44,300
+of your game.
+
+246
+00:08:44,300 --> 00:08:46,460
+And those layers of
+that model are very much
+
+247
+00:08:46,460 --> 00:08:49,160
+aligned to these
+interaction layers.
+
+248
+00:08:49,160 --> 00:08:52,610
+[MUSIC PLAYING]
+
+249
+00:08:52,610 --> 00:08:55,550
+ 
+
+250
+00:08:55,550 --> 00:08:57,350
+As players are going
+through these loops,
+
+251
+00:08:57,350 --> 00:09:00,000
+and slowly building
+this model, you know,
+
+252
+00:09:00,000 --> 00:09:00,500
+and slowly building
+this model, you know,
+
+253
+00:09:00,500 --> 00:09:02,660
+again, really it's that
+most of what they're going
+
+254
+00:09:02,660 --> 00:09:04,250
+to experience is failure--
+
+255
+00:09:04,250 --> 00:09:06,860
+again, and again, and again--
+which doesn't sound very fun.
+
+256
+00:09:06,860 --> 00:09:09,710
+But it's the game designer's
+job to present that in a way
+
+257
+00:09:09,710 --> 00:09:12,110
+that's entertaining,
+and informative,
+
+258
+00:09:12,110 --> 00:09:14,560
+and that it's not frustrating.
+
+259
+00:09:14,560 --> 00:09:15,980
+I don't want to
+be failing on, you
+
+260
+00:09:15,980 --> 00:09:17,150
+know, exactly the
+same thing over,
+
+261
+00:09:17,150 --> 00:09:19,790
+and over, and over, especially
+when I know why I'm failing.
+
+262
+00:09:19,790 --> 00:09:21,750
+Some games-- you know,
+some platform games, you
+
+263
+00:09:21,750 --> 00:09:24,060
+have to time it exactly
+right, and it's really hard.
+
+264
+00:09:24,060 --> 00:09:26,120
+And those can kind of get
+very frustrating, you know,
+
+265
+00:09:26,120 --> 00:09:27,660
+when you know that you
+have to acquire the skill,
+
+266
+00:09:27,660 --> 00:09:29,000
+and you can't quite acquire it.
+
+267
+00:09:29,000 --> 00:09:30,000
+So you're not
+failing because you
+
+268
+00:09:30,000 --> 00:09:31,100
+So you're not
+failing because you
+
+269
+00:09:31,100 --> 00:09:32,540
+don't know what you need to do.
+
+270
+00:09:32,540 --> 00:09:33,800
+It's just that it's
+so hard for you
+
+271
+00:09:33,800 --> 00:09:35,970
+to kind of get into that
+skill set, that sweet spot,
+
+272
+00:09:35,970 --> 00:09:38,210
+for some people it
+becomes frustrating.
+
+273
+00:09:38,210 --> 00:09:39,630
+So when somebody
+fails in a game,
+
+274
+00:09:39,630 --> 00:09:41,000
+you want it to be
+understandable,
+
+275
+00:09:41,000 --> 00:09:42,960
+you want to be something
+that they can overcome
+
+276
+00:09:42,960 --> 00:09:44,750
+once they understand it.
+
+277
+00:09:44,750 --> 00:09:48,710
+Also, again, humor
+can be a great tool
+
+278
+00:09:48,710 --> 00:09:50,030
+to alleviate the frustration.
+
+279
+00:09:50,030 --> 00:09:52,770
+You know, when somebody fills
+in a certain very basic thing
+
+280
+00:09:52,770 --> 00:09:55,850
+in a game, sometimes
+you want to actually
+
+281
+00:09:55,850 --> 00:09:59,540
+have a variety of failure
+states that become humorous.
+
+282
+00:09:59,540 --> 00:10:00,000
+So at least when
+they're failing again,
+
+283
+00:10:00,000 --> 00:10:01,160
+So at least when
+they're failing again,
+
+284
+00:10:01,160 --> 00:10:04,030
+and again, and again, it's not
+exactly the same repetition
+
+285
+00:10:04,030 --> 00:10:04,610
+over and over.
+
+286
+00:10:04,610 --> 00:10:06,690
+You know, you might just
+have different animations
+
+287
+00:10:06,690 --> 00:10:07,590
+for the same failure.
+
+288
+00:10:07,590 --> 00:10:09,920
+But again, the humor, I think,
+can be a great tool here.
+
+289
+00:10:09,920 --> 00:10:11,930
+But if presented
+right, you know,
+
+290
+00:10:11,930 --> 00:10:13,610
+players get very
+motivated, when they
+
+291
+00:10:13,610 --> 00:10:16,870
+understand why they failed, to
+then go back and do it again.
+
+292
+00:10:16,870 --> 00:10:20,340
+[MUSIC PLAYING]
+
+293
+00:10:20,340 --> 00:10:23,810
+ 
+
+294
+00:10:23,810 --> 00:10:26,060
+The kind of games
+I tend to make tend
+
+295
+00:10:26,060 --> 00:10:28,070
+to be more system-level games.
+
+296
+00:10:28,070 --> 00:10:30,000
+And you know, they
+frequently-- like, you know,
+
+297
+00:10:30,000 --> 00:10:31,070
+And you know, they
+frequently-- like, you know,
+
+298
+00:10:31,070 --> 00:10:33,110
+"Sim City" or "The Sims"
+involve you constructing
+
+299
+00:10:33,110 --> 00:10:35,270
+something that,
+you know, gets more
+
+300
+00:10:35,270 --> 00:10:37,940
+and more elaborate over time.
+
+301
+00:10:37,940 --> 00:10:41,270
+As you achieve success, and
+your city grows, or your Sims,
+
+302
+00:10:41,270 --> 00:10:44,510
+you know, get more
+stuff in their house,
+
+303
+00:10:44,510 --> 00:10:47,130
+you're adding more
+complexity to their world.
+
+304
+00:10:47,130 --> 00:10:49,340
+You know, in "The Sims,"
+there's kind of this promise
+
+305
+00:10:49,340 --> 00:10:52,160
+that, oh, you buy this
+crap for your Sims,
+
+306
+00:10:52,160 --> 00:10:53,240
+and it'll make them happy.
+
+307
+00:10:53,240 --> 00:10:56,570
+Get them a big-screen TV
+here, or a better bed there.
+
+308
+00:10:56,570 --> 00:10:57,950
+But in some sense,
+as you acquire
+
+309
+00:10:57,950 --> 00:10:59,870
+more and more of these items,
+they become time bombs.
+
+310
+00:10:59,870 --> 00:11:00,000
+Each one of these things
+has a failure state,
+
+311
+00:11:00,000 --> 00:11:01,550
+Each one of these things
+has a failure state,
+
+312
+00:11:01,550 --> 00:11:03,560
+or some maintenance
+requirement, or whatever.
+
+313
+00:11:03,560 --> 00:11:05,930
+So as you fill your house with
+all this junk, what you're
+
+314
+00:11:05,930 --> 00:11:07,890
+really doing is these
+things are potential time
+
+315
+00:11:07,890 --> 00:11:10,600
+sinks down the road, which
+add complexity to their world,
+
+316
+00:11:10,600 --> 00:11:12,640
+and make it much more
+difficult to play the game.
+
+317
+00:11:12,640 --> 00:11:14,390
+Same with "Sim City," you
+know, first you're just,
+
+318
+00:11:14,390 --> 00:11:16,280
+you know, zoning a few
+little plots of land,
+
+319
+00:11:16,280 --> 00:11:17,060
+and building a few roads.
+
+320
+00:11:17,060 --> 00:11:18,800
+And you see a few things pop
+up, and pretty soon, they
+
+321
+00:11:18,800 --> 00:11:19,370
+need power.
+
+322
+00:11:19,370 --> 00:11:20,390
+OK, you give them power.
+
+323
+00:11:20,390 --> 00:11:22,220
+Now they need water,
+now they want a school,
+
+324
+00:11:22,220 --> 00:11:23,930
+now they want a
+hospital, now-- you know.
+
+325
+00:11:23,930 --> 00:11:26,380
+And so as they make
+progress in the game,
+
+326
+00:11:26,380 --> 00:11:29,910
+and the system is growing, the
+complexity is growing as well.
+
+327
+00:11:29,910 --> 00:11:30,000
+And so it's a very natural,
+smooth ramp in complexity.
+
+328
+00:11:30,000 --> 00:11:33,500
+And so it's a very natural,
+smooth ramp in complexity.
+
+329
+00:11:33,500 --> 00:11:35,960
+It's not like, OK, you
+finished level 1, now here's
+
+330
+00:11:35,960 --> 00:11:38,390
+level 2, where we're
+adding two more rules.
+
+331
+00:11:38,390 --> 00:11:40,940
+It's, you know, very smoothly
+based upon-- and in some sense,
+
+332
+00:11:40,940 --> 00:11:42,120
+the player is asking for it.
+
+333
+00:11:42,120 --> 00:11:44,120
+You know, as a player,
+you know, gets their city
+
+334
+00:11:44,120 --> 00:11:46,640
+to that size, of course
+they need a hospital now.
+
+335
+00:11:46,640 --> 00:11:49,480
+So it totally fits, and it
+didn't feel arbitrary either.
+
+336
+00:11:49,480 --> 00:11:51,450
+It kind of feels
+natural in that way.
+
+337
+00:11:51,450 --> 00:11:55,360
+[MUSIC PLAYING]
+
+338
+00:11:55,360 --> 00:11:58,790
+ 
+
+339
+00:11:58,790 --> 00:12:00,000
+It's not just how much
+difficulty is in the path,
+
+340
+00:12:00,000 --> 00:12:02,900
+It's not just how much
+difficulty is in the path,
+
+341
+00:12:02,900 --> 00:12:04,640
+but also how many
+paths are there.
+
+342
+00:12:04,640 --> 00:12:06,770
+You know, I think that the
+really interesting games
+
+343
+00:12:06,770 --> 00:12:08,540
+are ones that allow
+different paths
+
+344
+00:12:08,540 --> 00:12:10,550
+towards some kind of success.
+
+345
+00:12:10,550 --> 00:12:12,920
+And in particular,
+the kind of games I do
+
+346
+00:12:12,920 --> 00:12:14,940
+don't even make
+success that explicit.
+
+347
+00:12:14,940 --> 00:12:16,700
+You know, in "The
+Sims," you can decide
+
+348
+00:12:16,700 --> 00:12:18,590
+you want them to have a good
+job, or want them to be happy.
+
+349
+00:12:18,590 --> 00:12:19,670
+Same in "Sim City,"
+you can want,
+
+350
+00:12:19,670 --> 00:12:21,380
+you know, the biggest
+city you can build,
+
+351
+00:12:21,380 --> 00:12:23,400
+or the happiest residents,
+or the least crime.
+
+352
+00:12:23,400 --> 00:12:25,880
+So in some sense, the player
+is choosing the goal state.
+
+353
+00:12:25,880 --> 00:12:27,260
+Now each one of
+these goal states
+
+354
+00:12:27,260 --> 00:12:29,870
+is going to have kind of a
+different path of difficulty.
+
+355
+00:12:29,870 --> 00:12:30,000
+And so for me it's
+more about, there's
+
+356
+00:12:30,000 --> 00:12:31,790
+And so for me it's
+more about, there's
+
+357
+00:12:31,790 --> 00:12:35,120
+a landscape here of paths
+that the player can take,
+
+358
+00:12:35,120 --> 00:12:37,170
+and each one has
+different peaks.
+
+359
+00:12:37,170 --> 00:12:39,500
+But none of these have a
+cliff, where you hit the cliff,
+
+360
+00:12:39,500 --> 00:12:42,080
+and all of a sudden, you know,
+now it's really hard to get up.
+
+361
+00:12:42,080 --> 00:12:45,140
+You know, they all have kind of
+different motivations of slope
+
+362
+00:12:45,140 --> 00:12:47,720
+up those achievement peaks.
+
+363
+00:12:47,720 --> 00:12:51,460
+And that's something that, you
+know, again, it's really hard.
+
+364
+00:12:51,460 --> 00:12:52,880
+It's an emergent
+property, so it's
+
+365
+00:12:52,880 --> 00:12:56,150
+very hard to just say, OK,
+here's how we code that.
+
+366
+00:12:56,150 --> 00:12:58,550
+A lot of times, players will
+find exploits around it.
+
+367
+00:12:58,550 --> 00:13:00,000
+Or it'll turn out
+that, you know, again,
+
+368
+00:13:00,000 --> 00:13:00,320
+Or it'll turn out
+that, you know, again,
+
+369
+00:13:00,320 --> 00:13:02,270
+pressing the red button
+is not that obvious.
+
+370
+00:13:02,270 --> 00:13:04,300
+So this is, again,
+something we actually
+
+371
+00:13:04,300 --> 00:13:05,300
+will capture metrics on.
+
+372
+00:13:05,300 --> 00:13:06,350
+We will actually
+have a lot of people,
+
+373
+00:13:06,350 --> 00:13:07,580
+as we start getting
+more and more testers,
+
+374
+00:13:07,580 --> 00:13:08,660
+we're capturing metrics--
+
+375
+00:13:08,660 --> 00:13:11,680
+how long is somebody spinning
+in that stage or this stage?
+
+376
+00:13:11,680 --> 00:13:14,340
+How many people are failing
+on this point or that point?
+
+377
+00:13:14,340 --> 00:13:17,660
+And so that's stuff that you all
+want to make fairly parametric,
+
+378
+00:13:17,660 --> 00:13:20,890
+that you can adjust fairly
+granularly in testing.
+
+379
+00:13:20,890 --> 00:13:23,840
+[MUSIC PLAYING]
+
+380
+00:13:23,840 --> 00:13:27,770
+ 
+
+381
+00:13:27,770 --> 00:13:30,000
+Rewards in the game
+can come in many forms.
+
+382
+00:13:30,000 --> 00:13:30,400
+Rewards in the game
+can come in many forms.
+
+383
+00:13:30,400 --> 00:13:32,070
+You know, there's
+just the advancement--
+
+384
+00:13:32,070 --> 00:13:34,800
+how far did I get in the game,
+or there are special abilities
+
+385
+00:13:34,800 --> 00:13:37,170
+that you might gain that now
+allow you to achieve things
+
+386
+00:13:37,170 --> 00:13:39,000
+you could not achieve before.
+
+387
+00:13:39,000 --> 00:13:42,870
+I think sometimes rewards are
+a little overly-relied-upon,
+
+388
+00:13:42,870 --> 00:13:45,120
+you know, when you have
+power-ups and stuff in a game.
+
+389
+00:13:45,120 --> 00:13:46,980
+It's just it gets, you
+know, rote, boring,
+
+390
+00:13:46,980 --> 00:13:48,060
+a little too obvious.
+
+391
+00:13:48,060 --> 00:13:50,310
+I think a lot of the really
+interesting player rewards
+
+392
+00:13:50,310 --> 00:13:52,520
+are things that they think
+they came up with himself,
+
+393
+00:13:52,520 --> 00:13:54,860
+or they discovered
+this thing in the game.
+
+394
+00:13:54,860 --> 00:13:57,480
+And I think discovery
+is a huge part of this,
+
+395
+00:13:57,480 --> 00:14:00,000
+is that if you leave areas of
+the game that are maybe closed
+
+396
+00:14:00,000 --> 00:14:00,930
+is that if you leave areas of
+the game that are maybe closed
+
+397
+00:14:00,930 --> 00:14:02,870
+off to the player,
+but at some point,
+
+398
+00:14:02,870 --> 00:14:04,740
+you know, just open one
+of these little gates
+
+399
+00:14:04,740 --> 00:14:07,110
+and let them see that, hey,
+there's a lot of stuff hidden
+
+400
+00:14:07,110 --> 00:14:08,790
+in here if you look
+a little bit deeper
+
+401
+00:14:08,790 --> 00:14:10,230
+or try a little bit harder.
+
+402
+00:14:10,230 --> 00:14:12,270
+And players love that.
+
+403
+00:14:12,270 --> 00:14:14,520
+You see things-- you know,
+people playing "Grand Theft
+
+404
+00:14:14,520 --> 00:14:17,010
+Auto" or whatever, and they
+manage to get on top of places
+
+405
+00:14:17,010 --> 00:14:19,130
+they weren't supposed to
+be able to, or do things--
+
+406
+00:14:19,130 --> 00:14:20,230
+exploits.
+
+407
+00:14:20,230 --> 00:14:21,930
+Then of course, they
+make a movie of it,
+
+408
+00:14:21,930 --> 00:14:23,920
+and it becomes kind of
+a machinima of sorts.
+
+409
+00:14:23,920 --> 00:14:26,640
+I remember back in
+"Sim City 2000," which
+
+410
+00:14:26,640 --> 00:14:29,310
+is a very old game,
+we had, you know,
+
+411
+00:14:29,310 --> 00:14:30,000
+of course landscape,
+train, rivers, you know.
+
+412
+00:14:30,000 --> 00:14:32,760
+of course landscape,
+train, rivers, you know.
+
+413
+00:14:32,760 --> 00:14:35,860
+But we actually programmed in
+that, you know, once in a very,
+
+414
+00:14:35,860 --> 00:14:38,400
+very seldom while-- like if you
+were playing the game for 100
+
+415
+00:14:38,400 --> 00:14:40,320
+hours, it might
+happen for, you know,
+
+416
+00:14:40,320 --> 00:14:41,690
+a few seconds in 100 hours--
+
+417
+00:14:41,690 --> 00:14:43,230
+we actually had this
+little Loch Ness
+
+418
+00:14:43,230 --> 00:14:45,840
+Monster appear in the
+water, pop his head out.
+
+419
+00:14:45,840 --> 00:14:47,850
+And there was kind of
+rumors amongst the players
+
+420
+00:14:47,850 --> 00:14:49,640
+that, I think I saw a
+monster in the water.
+
+421
+00:14:49,640 --> 00:14:51,010
+No, no, no, I've
+never seen that.
+
+422
+00:14:51,010 --> 00:14:54,120
+Somebody, once, eventually
+got a screenshot of it.
+
+423
+00:14:54,120 --> 00:14:56,290
+It was like this very
+hard-to-achieve reward.
+
+424
+00:14:56,290 --> 00:14:57,750
+Just kind of
+capturing a screenshot
+
+425
+00:14:57,750 --> 00:14:58,500
+of this one little thing.
+
+426
+00:14:58,500 --> 00:15:00,000
+And it didn't help them
+in the game at all.
+
+427
+00:15:00,000 --> 00:15:00,290
+And it didn't help them
+in the game at all.
+
+428
+00:15:00,290 --> 00:15:02,850
+But they were so motivated
+to do this, and capture it,
+
+429
+00:15:02,850 --> 00:15:04,100
+that it became--
+
+430
+00:15:04,100 --> 00:15:05,640
+actually a lot of
+players were trying
+
+431
+00:15:05,640 --> 00:15:08,050
+to discover and take a picture
+of the Loch Ness Monster.
+
+432
+00:15:08,050 --> 00:15:09,030
+[MUSIC PLAYING]
+
+433
+00:15:09,030 --> 00:15:11,970
+[MAN PURRING WITH PLEASURE]
+
+434
+00:15:11,970 --> 00:15:12,960
+[WOMAN MOANING]
+
+435
+00:15:12,960 --> 00:15:16,440
+Rewards are just a mechanism in
+a game that you put in there,
+
+436
+00:15:16,440 --> 00:15:19,110
+you know, maybe to help guide
+a player in a certain direction
+
+437
+00:15:19,110 --> 00:15:22,050
+or achieve certain levels.
+
+438
+00:15:22,050 --> 00:15:24,300
+But the incentive
+in a game really
+
+439
+00:15:24,300 --> 00:15:26,160
+is coming from the
+process of the player
+
+440
+00:15:26,160 --> 00:15:28,410
+playing that game--
+whatever that is, you know.
+
+441
+00:15:28,410 --> 00:15:30,000
+And I think that's
+something that's
+
+442
+00:15:30,000 --> 00:15:30,210
+And I think that's
+something that's
+
+443
+00:15:30,210 --> 00:15:32,100
+coming internally
+from the player,
+
+444
+00:15:32,100 --> 00:15:33,940
+not externally from
+the game designer.
+
+445
+00:15:33,940 --> 00:15:35,770
+But the process that
+they're going through--
+
+446
+00:15:35,770 --> 00:15:37,230
+and it might be a
+creative process,
+
+447
+00:15:37,230 --> 00:15:38,960
+it might be a
+skill-based process,
+
+448
+00:15:38,960 --> 00:15:40,900
+it might be a social,
+you know, kind
+
+449
+00:15:40,900 --> 00:15:42,750
+of challenging process,
+that's something
+
+450
+00:15:42,750 --> 00:15:48,550
+that the player kind of innately
+has a desire to achieve.
+
+451
+00:15:48,550 --> 00:15:50,940
+And that's a much,
+much broader thing,
+
+452
+00:15:50,940 --> 00:15:52,370
+and it's a much
+deeper thing, too.
+
+453
+00:15:52,370 --> 00:15:53,790
+You know, I think
+that's why people really
+
+454
+00:15:53,790 --> 00:15:55,250
+will get really
+hooked on a game,
+
+455
+00:15:55,250 --> 00:15:56,580
+is their own internal incentive.
+
+456
+00:15:56,580 --> 00:15:58,170
+You know, I want to
+get to a level 30
+
+457
+00:15:58,170 --> 00:16:00,000
+in "Warcraft," or this or that.
+
+458
+00:16:00,000 --> 00:16:00,090
+in "Warcraft," or this or that.
+
+459
+00:16:00,090 --> 00:16:02,260
+They come up with their own
+goals, really, for that.
+
+460
+00:16:02,260 --> 00:16:04,630
+Rewards in a game are really
+like these little mechanisms
+
+461
+00:16:04,630 --> 00:16:06,050
+that the, you
+know, game designer
+
+462
+00:16:06,050 --> 00:16:08,920
+puts in there which kind
+of moderate the gameplay.
+
+463
+00:16:08,920 --> 00:16:11,670
+So I'd say they're very,
+very different things.
+
+464
+00:16:11,670 --> 00:16:13,740
+And the player
+incentive is really
+

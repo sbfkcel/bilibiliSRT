@@ -1,0 +1,2199 @@
+1
+00:00:00,000 --> 00:00:02,940
+[MUSIC PLAYING]
+
+2
+00:00:02,940 --> 00:00:09,380
+ 
+
+3
+00:00:09,380 --> 00:00:11,710
+WILL WRIGHT: Whenever I get
+to the point where I decide,
+
+4
+00:00:11,710 --> 00:00:13,440
+OK, I'm building
+a game about this,
+
+5
+00:00:13,440 --> 00:00:15,840
+I start imagining
+how do I present
+
+6
+00:00:15,840 --> 00:00:17,300
+this idea to other people.
+
+7
+00:00:17,300 --> 00:00:20,280
+What am I kind of imagining
+the process to feel like,
+
+8
+00:00:20,280 --> 00:00:23,110
+the activities, the
+agency I have in this?
+
+9
+00:00:23,110 --> 00:00:25,420
+I'm starting to actually
+play that game in my own head
+
+10
+00:00:25,420 --> 00:00:27,030
+at a more and more
+detailed level,
+
+11
+00:00:27,030 --> 00:00:30,000
+while at the same time trying
+to imagine, OK, how do I offload
+
+12
+00:00:30,000 --> 00:00:30,030
+while at the same time trying
+to imagine, OK, how do I offload
+
+13
+00:00:30,030 --> 00:00:33,160
+or download that play experience
+into somebody else effectively?
+
+14
+00:00:33,160 --> 00:00:35,040
+And that becomes kind
+of a part of the pitch.
+
+15
+00:00:35,040 --> 00:00:42,780
+ 
+
+16
+00:00:42,780 --> 00:00:46,290
+Whether you're trying to
+communicate your design
+
+17
+00:00:46,290 --> 00:00:52,710
+vision to your team or to
+executives or to your audience,
+
+18
+00:00:52,710 --> 00:00:55,740
+you need to kind of remember
+why you want to do it.
+
+19
+00:00:55,740 --> 00:00:56,850
+What got you excited?
+
+20
+00:00:56,850 --> 00:00:59,700
+What is the key thing that's
+really motivating you?
+
+21
+00:00:59,700 --> 00:01:00,000
+And then you step
+back and say, OK,
+
+22
+00:01:00,000 --> 00:01:02,680
+And then you step
+back and say, OK,
+
+23
+00:01:02,680 --> 00:01:06,040
+how can I recreate that
+process in that person's head?
+
+24
+00:01:06,040 --> 00:01:08,130
+How can I make them
+see or understand
+
+25
+00:01:08,130 --> 00:01:11,760
+or feel the way I feel
+about this design direction?
+
+26
+00:01:11,760 --> 00:01:15,510
+And maybe it's not the
+explicit, overt description
+
+27
+00:01:15,510 --> 00:01:17,700
+of what your game
+is going to be.
+
+28
+00:01:17,700 --> 00:01:21,000
+Maybe it's more a
+getting into their head,
+
+29
+00:01:21,000 --> 00:01:24,450
+into the emotional
+motivation that drives you.
+
+30
+00:01:24,450 --> 00:01:26,910
+And maybe it's more
+about the creativity
+
+31
+00:01:26,910 --> 00:01:29,250
+you'll have in this,
+or the expressiveness,
+
+32
+00:01:29,250 --> 00:01:30,000
+or what it's going to feel
+like, this nostalgic--
+
+33
+00:01:30,000 --> 00:01:31,710
+or what it's going to feel
+like, this nostalgic--
+
+34
+00:01:31,710 --> 00:01:33,540
+go back to your childhood
+playing this thing
+
+35
+00:01:33,540 --> 00:01:34,500
+that you used to play.
+
+36
+00:01:34,500 --> 00:01:35,520
+There might be a
+lot of directions
+
+37
+00:01:35,520 --> 00:01:36,570
+you kind of take that.
+
+38
+00:01:36,570 --> 00:01:39,180
+But in some sense, like
+game design itself,
+
+39
+00:01:39,180 --> 00:01:41,710
+you're hacking psychology.
+
+40
+00:01:41,710 --> 00:01:43,290
+You're trying to
+imagine, what does it
+
+41
+00:01:43,290 --> 00:01:46,830
+take to make that person
+feel the way I feel.
+
+42
+00:01:46,830 --> 00:01:48,750
+It's almost like
+reverse empathy--
+
+43
+00:01:48,750 --> 00:01:51,940
+how do I push my feelings
+into that person?
+
+44
+00:01:51,940 --> 00:01:55,740
+Interestingly, most of the hits
+I've had-- the really big hits,
+
+45
+00:01:55,740 --> 00:01:57,540
+SimCity, The Sims--
+
+46
+00:01:57,540 --> 00:02:00,000
+were the ideas that I got
+amazing amount of pushback
+
+47
+00:02:00,000 --> 00:02:01,770
+were the ideas that I got
+amazing amount of pushback
+
+48
+00:02:01,770 --> 00:02:06,600
+from with almost everybody
+I described it to initially.
+
+49
+00:02:06,600 --> 00:02:10,830
+And at some point, I actually
+had to kind of reformulate
+
+50
+00:02:10,830 --> 00:02:13,530
+the way I was thinking about
+it to then communicate it
+
+51
+00:02:13,530 --> 00:02:15,180
+effectively.
+
+52
+00:02:15,180 --> 00:02:15,750
+And I did.
+
+53
+00:02:15,750 --> 00:02:17,100
+You know, I kind of
+thought, OK, what
+
+54
+00:02:17,100 --> 00:02:19,410
+is it about the way I was
+talking about this thing that's
+
+55
+00:02:19,410 --> 00:02:21,160
+not hitting the mark
+in their head the way
+
+56
+00:02:21,160 --> 00:02:22,290
+it hits in my head?
+
+57
+00:02:22,290 --> 00:02:24,780
+And eventually, I found
+ways to actually communicate
+
+58
+00:02:24,780 --> 00:02:27,060
+what I was really
+thinking, which
+
+59
+00:02:27,060 --> 00:02:29,400
+wasn't an explicit description
+of the game design,
+
+60
+00:02:29,400 --> 00:02:30,000
+but more the feeling I was
+going to have playing this game.
+
+61
+00:02:30,000 --> 00:02:32,980
+but more the feeling I was
+going to have playing this game.
+
+62
+00:02:32,980 --> 00:02:35,040
+And if I could now figure
+out, OK, now how can I
+
+63
+00:02:35,040 --> 00:02:37,270
+make them imagine that feeling?
+
+64
+00:02:37,270 --> 00:02:39,310
+And what do I say to them
+to imagine that feeling
+
+65
+00:02:39,310 --> 00:02:41,500
+that I would imagine
+feeling playing this game?
+
+66
+00:02:41,500 --> 00:02:43,210
+So I took, like, one
+step deeper, really.
+
+67
+00:02:43,210 --> 00:02:45,880
+[MUSIC PLAYING]
+
+68
+00:02:45,880 --> 00:02:50,320
+ 
+
+69
+00:02:50,320 --> 00:02:51,990
+Right off the bat,
+as soon as you think,
+
+70
+00:02:51,990 --> 00:02:54,240
+oh, I have an idea for a
+game, tell your friends.
+
+71
+00:02:54,240 --> 00:02:55,020
+See what they say.
+
+72
+00:02:55,020 --> 00:02:55,980
+Tell other people.
+
+73
+00:02:55,980 --> 00:02:58,200
+Tell people you meet.
+
+74
+00:02:58,200 --> 00:03:00,000
+And you can just observe and
+learn from the result of what
+
+75
+00:03:00,000 --> 00:03:00,810
+And you can just observe and
+learn from the result of what
+
+76
+00:03:00,810 --> 00:03:01,470
+they--
+
+77
+00:03:01,470 --> 00:03:04,340
+the questions they ask you,
+what they seem interested in,
+
+78
+00:03:04,340 --> 00:03:05,840
+or they want to
+know more about it,
+
+79
+00:03:05,840 --> 00:03:07,740
+or they want to talk
+about something else.
+
+80
+00:03:07,740 --> 00:03:09,120
+You learn very rapidly.
+
+81
+00:03:09,120 --> 00:03:10,980
+And then when it comes
+to the point of now
+
+82
+00:03:10,980 --> 00:03:13,710
+you're pitching the team
+members or executives,
+
+83
+00:03:13,710 --> 00:03:16,740
+you will have refined that idea
+quite a bit up to that point
+
+84
+00:03:16,740 --> 00:03:17,340
+already.
+
+85
+00:03:17,340 --> 00:03:18,810
+You don't want to wait until
+you're actually pitching it
+
+86
+00:03:18,810 --> 00:03:19,950
+to somebody who matters.
+
+87
+00:03:19,950 --> 00:03:22,290
+Typically, we try to go for
+what's called the elevator
+
+88
+00:03:22,290 --> 00:03:23,290
+pitch, eventually.
+
+89
+00:03:23,290 --> 00:03:25,290
+Initially, when I work
+on a game, I'll sit there
+
+90
+00:03:25,290 --> 00:03:26,500
+and I'll describe
+for 10 minutes,
+
+91
+00:03:26,500 --> 00:03:27,690
+oh, well, there's a game
+where you do this, that,
+
+92
+00:03:27,690 --> 00:03:29,730
+and the other, and it works
+like that, duh duh duh duh duh.
+
+93
+00:03:29,730 --> 00:03:30,000
+But eventually, you want to get
+that down to, like, one minute
+
+94
+00:03:30,000 --> 00:03:32,310
+But eventually, you want to get
+that down to, like, one minute
+
+95
+00:03:32,310 --> 00:03:33,040
+or 30 seconds.
+
+96
+00:03:33,040 --> 00:03:36,940
+There's no easy formula
+for that at all.
+
+97
+00:03:36,940 --> 00:03:40,080
+I think repetition, or trying
+a hundred different things is
+
+98
+00:03:40,080 --> 00:03:42,840
+probably the most
+effective thing I found.
+
+99
+00:03:42,840 --> 00:03:46,440
+One thing that we would
+do on the larger games,
+
+100
+00:03:46,440 --> 00:03:49,020
+we would go to a
+trade show like E3.
+
+101
+00:03:49,020 --> 00:03:52,320
+And a lot of times,
+we would be talking
+
+102
+00:03:52,320 --> 00:03:54,600
+about a game before
+release, pretty early on,
+
+103
+00:03:54,600 --> 00:03:56,790
+to certain press members.
+
+104
+00:03:56,790 --> 00:04:00,000
+A lot of times I would be in
+there giving a description
+
+105
+00:04:00,000 --> 00:04:00,780
+A lot of times I would be in
+there giving a description
+
+106
+00:04:00,780 --> 00:04:03,240
+to interviewers, but
+it would be every five
+
+107
+00:04:03,240 --> 00:04:04,950
+minutes a different
+interviewer comes in.
+
+108
+00:04:04,950 --> 00:04:06,340
+And then another one comes
+in, another one comes in,
+
+109
+00:04:06,340 --> 00:04:07,250
+another one comes in.
+
+110
+00:04:07,250 --> 00:04:09,330
+So that actually became a
+great opportunity for me
+
+111
+00:04:09,330 --> 00:04:11,580
+to figure out how
+to refine the pitch.
+
+112
+00:04:11,580 --> 00:04:13,350
+I would try a pitch
+with this person.
+
+113
+00:04:13,350 --> 00:04:15,100
+I would notice them
+getting kind of bored,
+
+114
+00:04:15,100 --> 00:04:17,589
+looking at their thing during
+that part of the pitch.
+
+115
+00:04:17,589 --> 00:04:19,200
+They'd get wide-eyed
+and look at me
+
+116
+00:04:19,200 --> 00:04:21,079
+attentively during
+another part of the pitch.
+
+117
+00:04:21,079 --> 00:04:22,780
+So the next person
+that came in the room,
+
+118
+00:04:22,780 --> 00:04:25,070
+I would expand on those
+areas, prune the other ones,
+
+119
+00:04:25,070 --> 00:04:25,990
+try it on that person.
+
+120
+00:04:25,990 --> 00:04:30,000
+So I was actually iteratively
+evolving the pitch rapidly
+
+121
+00:04:30,000 --> 00:04:30,870
+So I was actually iteratively
+evolving the pitch rapidly
+
+122
+00:04:30,870 --> 00:04:32,520
+over the course of one day.
+
+123
+00:04:32,520 --> 00:04:35,850
+And that, I found,
+actually-- we would also
+
+124
+00:04:35,850 --> 00:04:37,500
+across team members--
+other designers
+
+125
+00:04:37,500 --> 00:04:38,840
+or team members who
+might be there talking
+
+126
+00:04:38,840 --> 00:04:39,880
+to people about it.
+
+127
+00:04:39,880 --> 00:04:42,170
+And they would come back to
+me and say, oh, they really
+
+128
+00:04:42,170 --> 00:04:44,160
+got interested when
+they heard this part,
+
+129
+00:04:44,160 --> 00:04:46,030
+but they didn't seem to
+care about that part.
+
+130
+00:04:46,030 --> 00:04:48,510
+So we'd actually compare notes,
+and we'd actually together,
+
+131
+00:04:48,510 --> 00:04:50,400
+as a team, try to
+refine that pitch.
+
+132
+00:04:50,400 --> 00:04:52,950
+OK, let's talk more about
+this, lean into that,
+
+133
+00:04:52,950 --> 00:04:55,000
+lean away from there.
+
+134
+00:04:55,000 --> 00:04:57,060
+So the pitch is
+something that I think
+
+135
+00:04:57,060 --> 00:04:58,180
+will be evolving over time.
+
+136
+00:04:58,180 --> 00:05:00,000
+Initially, you're going
+to come up with this idea,
+
+137
+00:05:00,000 --> 00:05:00,260
+Initially, you're going
+to come up with this idea,
+
+138
+00:05:00,260 --> 00:05:04,380
+and you might tell somebody
+at your company or a friend
+
+139
+00:05:04,380 --> 00:05:06,850
+or whatever, and that's going
+to be the very first time.
+
+140
+00:05:06,850 --> 00:05:07,660
+And it's going to be horrible.
+
+141
+00:05:07,660 --> 00:05:10,040
+I mean, you're just not
+going to convey it very well.
+
+142
+00:05:10,040 --> 00:05:12,000
+And maybe the idea in
+your head isn't very well
+
+143
+00:05:12,000 --> 00:05:12,790
+formulated, either.
+
+144
+00:05:12,790 --> 00:05:15,500
+Maybe you just have a very
+fuzzy idea of the kind of game
+
+145
+00:05:15,500 --> 00:05:16,290
+you're thinking of.
+
+146
+00:05:16,290 --> 00:05:20,370
+So in your head as well,
+you are refining that model
+
+147
+00:05:20,370 --> 00:05:22,470
+and trying to make that
+thing more and more fun.
+
+148
+00:05:22,470 --> 00:05:25,860
+As you interact and tell more
+and more people about it,
+
+149
+00:05:25,860 --> 00:05:28,110
+I think you will naturally
+evolve it, naturally
+
+150
+00:05:28,110 --> 00:05:30,000
+discover the most effective
+way to communicate it.
+
+151
+00:05:30,000 --> 00:05:30,720
+discover the most effective
+way to communicate it.
+
+152
+00:05:30,720 --> 00:05:33,210
+And so I'd say
+repetition is probably
+
+153
+00:05:33,210 --> 00:05:34,200
+the best rule of thumb.
+
+154
+00:05:34,200 --> 00:05:37,080
+[MUSIC PLAYING]
+
+155
+00:05:37,080 --> 00:05:41,880
+ 
+
+156
+00:05:41,880 --> 00:05:44,880
+Frequently, the game
+designer is also
+
+157
+00:05:44,880 --> 00:05:47,130
+the person that's trying
+to assemble the team that's
+
+158
+00:05:47,130 --> 00:05:48,790
+going to build this product.
+
+159
+00:05:48,790 --> 00:05:50,940
+And as you're
+building that team,
+
+160
+00:05:50,940 --> 00:05:52,480
+one of the very first things--
+
+161
+00:05:52,480 --> 00:05:54,360
+skills-- that you
+really have to have
+
+162
+00:05:54,360 --> 00:05:57,960
+is the ability to communicate
+your design to your team.
+
+163
+00:05:57,960 --> 00:06:00,000
+And continually, even when
+you're refining your idea
+
+164
+00:06:00,000 --> 00:06:00,900
+And continually, even when
+you're refining your idea
+
+165
+00:06:00,900 --> 00:06:04,240
+or changing it, you need to make
+sure the team is aware of that.
+
+166
+00:06:04,240 --> 00:06:06,840
+And it's more understanding
+the direction you're
+
+167
+00:06:06,840 --> 00:06:08,640
+going, not the destination.
+
+168
+00:06:08,640 --> 00:06:12,240
+And over time, as they come to
+you with, should we do A or B?
+
+169
+00:06:12,240 --> 00:06:14,400
+And you start saying,
+B, B, B, they'll
+
+170
+00:06:14,400 --> 00:06:17,550
+start learning to
+predict your decisions.
+
+171
+00:06:17,550 --> 00:06:20,140
+And they'll start making more
+and more of those decisions.
+
+172
+00:06:20,140 --> 00:06:22,060
+If they're unclear,
+they'll still come to you.
+
+173
+00:06:22,060 --> 00:06:24,990
+So in some sense, you're
+educating your entire team
+
+174
+00:06:24,990 --> 00:06:26,640
+ongoingly about
+what the design is
+
+175
+00:06:26,640 --> 00:06:28,410
+and where it's going to head.
+
+176
+00:06:28,410 --> 00:06:30,000
+This is a more granular
+version of the same process
+
+177
+00:06:30,000 --> 00:06:30,930
+This is a more granular
+version of the same process
+
+178
+00:06:30,930 --> 00:06:32,550
+you're going to use
+to pitch your idea.
+
+179
+00:06:32,550 --> 00:06:34,180
+When you go out to
+other people and try
+
+180
+00:06:34,180 --> 00:06:36,300
+to sell them on the idea,
+to fund it or whatever,
+
+181
+00:06:36,300 --> 00:06:38,130
+you're going to basically
+try to communicate
+
+182
+00:06:38,130 --> 00:06:40,530
+very clearly to them what's
+in your head, what you're
+
+183
+00:06:40,530 --> 00:06:41,910
+imagining.
+
+184
+00:06:41,910 --> 00:06:45,750
+When I did The Sims, it
+was a big challenge for me.
+
+185
+00:06:45,750 --> 00:06:48,690
+And I was-- within my own
+company was rejected many
+
+186
+00:06:48,690 --> 00:06:52,640
+times, because I was describing
+this game-- first of all,
+
+187
+00:06:52,640 --> 00:06:53,370
+I'd never--
+
+188
+00:06:53,370 --> 00:06:55,370
+after the product was
+about halfway done,
+
+189
+00:06:55,370 --> 00:06:56,790
+I never once called
+it this again,
+
+190
+00:06:56,790 --> 00:06:58,290
+but I used to call it Dollhouse.
+
+191
+00:06:58,290 --> 00:06:59,970
+That was the initial
+name for the game.
+
+192
+00:06:59,970 --> 00:07:00,000
+And I found that it
+was such a loaded term
+
+193
+00:07:00,000 --> 00:07:01,950
+And I found that it
+was such a loaded term
+
+194
+00:07:01,950 --> 00:07:04,920
+that any male gamer, they
+hear a game called Dollhouse,
+
+195
+00:07:04,920 --> 00:07:06,460
+they're not going
+to play that game.
+
+196
+00:07:06,460 --> 00:07:08,850
+So that was one thing I learned.
+
+197
+00:07:08,850 --> 00:07:12,210
+Also, as I pitched this
+to executives and stuff,
+
+198
+00:07:12,210 --> 00:07:13,680
+I was talking about
+this cool game
+
+199
+00:07:13,680 --> 00:07:15,100
+where you're
+managing these people
+
+200
+00:07:15,100 --> 00:07:17,020
+and they have limited
+time and all this stuff.
+
+201
+00:07:17,020 --> 00:07:18,180
+But what they were
+hearing was, here's
+
+202
+00:07:18,180 --> 00:07:19,710
+a game where you
+take out the trash
+
+203
+00:07:19,710 --> 00:07:23,820
+and load the dishwasher, which
+didn't sound very aspirational.
+
+204
+00:07:23,820 --> 00:07:26,640
+So I found that I had
+to kind of rethink
+
+205
+00:07:26,640 --> 00:07:28,490
+the way I was presenting
+the whole concept
+
+206
+00:07:28,490 --> 00:07:30,000
+and idea to somebody--
+
+207
+00:07:30,000 --> 00:07:30,300
+and idea to somebody--
+
+208
+00:07:30,300 --> 00:07:31,470
+that no, it's little people.
+
+209
+00:07:31,470 --> 00:07:34,300
+You can mess with them, and they
+live lives in your computer,
+
+210
+00:07:34,300 --> 00:07:36,600
+and it's up to you
+to make them happy.
+
+211
+00:07:36,600 --> 00:07:40,290
+That was much more interesting,
+rich kind of metaphor
+
+212
+00:07:40,290 --> 00:07:42,130
+for them to wrap
+their heads around.
+
+213
+00:07:42,130 --> 00:07:44,310
+So you're not just
+learning to pitch
+
+214
+00:07:44,310 --> 00:07:46,770
+to your design team or
+your production team,
+
+215
+00:07:46,770 --> 00:07:49,320
+but also to people outside
+within your company,
+
+216
+00:07:49,320 --> 00:07:51,090
+and then eventually
+to the end consumer.
+
+217
+00:07:51,090 --> 00:07:53,090
+Eventually, you're going
+to put an ad on the web
+
+218
+00:07:53,090 --> 00:07:54,170
+or in a box or whatever.
+
+219
+00:07:54,170 --> 00:07:56,210
+But you're going to have
+to clearly and concisely
+
+220
+00:07:56,210 --> 00:07:58,500
+communicate to somebody
+what this game is,
+
+221
+00:07:58,500 --> 00:07:59,540
+why they want to play it.
+
+222
+00:07:59,540 --> 00:08:00,000
+Because they're going to
+start playing it in their head
+
+223
+00:08:00,000 --> 00:08:01,100
+Because they're going to
+start playing it in their head
+
+224
+00:08:01,100 --> 00:08:02,270
+as soon as they hear about it.
+
+225
+00:08:02,270 --> 00:08:03,650
+Before they even see
+the game, as soon
+
+226
+00:08:03,650 --> 00:08:05,240
+as somebody describes it, oh,
+you should check out this game,
+
+227
+00:08:05,240 --> 00:08:08,080
+it's about X, Y, and Z, they're
+going to start imagining, OK,
+
+228
+00:08:08,080 --> 00:08:09,080
+that sounds kind of fun.
+
+229
+00:08:09,080 --> 00:08:11,350
+And they're actually playing
+the game, a very simple version
+
+230
+00:08:11,350 --> 00:08:12,890
+of the game that they're
+imagining in their head.
+
+231
+00:08:12,890 --> 00:08:13,820
+And that game has to be fun.
+
+232
+00:08:13,820 --> 00:08:15,820
+That's the first game
+you're actually designing,
+
+233
+00:08:15,820 --> 00:08:16,400
+is the pitch.
+
+234
+00:08:16,400 --> 00:08:19,240
+[MUSIC PLAYING]
+
+235
+00:08:19,240 --> 00:08:23,500
+ 
+
+236
+00:08:23,500 --> 00:08:28,030
+If you're pitching to your team
+members, designers, whatnot,
+
+237
+00:08:28,030 --> 00:08:29,430
+they want to know--
+
+238
+00:08:29,430 --> 00:08:30,000
+they're going to want
+to hear something that's
+
+239
+00:08:30,000 --> 00:08:31,350
+they're going to want
+to hear something that's
+
+240
+00:08:31,350 --> 00:08:33,840
+unique and interesting they're
+going to be proud to build,
+
+241
+00:08:33,840 --> 00:08:35,799
+and something that's
+buildable, because they're
+
+242
+00:08:35,799 --> 00:08:38,700
+going to be responsible for
+actually having to build it,
+
+243
+00:08:38,700 --> 00:08:41,500
+and something that sounds
+creatively challenging.
+
+244
+00:08:41,500 --> 00:08:43,789
+That's what they're looking for.
+
+245
+00:08:43,789 --> 00:08:45,040
+And so you have to pitch--
+
+246
+00:08:45,040 --> 00:08:47,410
+here's something that's going
+to be really cool to build,
+
+247
+00:08:47,410 --> 00:08:51,910
+unique, people are going to
+love it, and we can make it.
+
+248
+00:08:51,910 --> 00:08:54,230
+When you're pitching
+to the executives--
+
+249
+00:08:54,230 --> 00:08:56,770
+it depends on the company, how
+big it is and all this stuff--
+
+250
+00:08:56,770 --> 00:09:00,000
+but basically, whatever
+the big hit was last year,
+
+251
+00:09:00,000 --> 00:09:00,760
+but basically, whatever
+the big hit was last year,
+
+252
+00:09:00,760 --> 00:09:03,070
+it's like that but better.
+
+253
+00:09:03,070 --> 00:09:05,110
+That's kind of the cliche.
+
+254
+00:09:05,110 --> 00:09:09,190
+Obviously, the most successful
+genre in any format,
+
+255
+00:09:09,190 --> 00:09:10,540
+almost, is the sequel.
+
+256
+00:09:10,540 --> 00:09:12,050
+So if it's a
+sequel, they're just
+
+257
+00:09:12,050 --> 00:09:14,260
+going to want to know that
+you're going to execute it
+
+258
+00:09:14,260 --> 00:09:17,140
+well and not screw it up.
+
+259
+00:09:17,140 --> 00:09:19,060
+If it's an original
+thing, they're
+
+260
+00:09:19,060 --> 00:09:21,460
+going to basically be
+measuring against that.
+
+261
+00:09:21,460 --> 00:09:23,980
+Should I invest in
+this original thing
+
+262
+00:09:23,980 --> 00:09:26,800
+or put more money
+into the next version
+
+263
+00:09:26,800 --> 00:09:29,560
+of this popular franchise?
+
+264
+00:09:29,560 --> 00:09:30,000
+And at that point,
+a lot of it's just
+
+265
+00:09:30,000 --> 00:09:32,560
+And at that point,
+a lot of it's just
+
+266
+00:09:32,560 --> 00:09:34,270
+going to be based upon
+your track record.
+
+267
+00:09:34,270 --> 00:09:36,520
+Now, as you're pitching
+to an audience, of course,
+
+268
+00:09:36,520 --> 00:09:38,590
+now you're kind of
+saying, try my game out.
+
+269
+00:09:38,590 --> 00:09:40,780
+Or in journalists is a
+whole different thing--
+
+270
+00:09:40,780 --> 00:09:42,400
+pitching to a
+journalist, they're
+
+271
+00:09:42,400 --> 00:09:45,220
+going to want to write an
+interesting story, something
+
+272
+00:09:45,220 --> 00:09:47,680
+where they can actually exhibit
+a fair amount of creativity
+
+273
+00:09:47,680 --> 00:09:50,440
+in their review or
+their writing of it.
+
+274
+00:09:50,440 --> 00:09:52,750
+So if you give them
+something where they can also
+
+275
+00:09:52,750 --> 00:09:55,260
+take a creative spin
+in their writing,
+
+276
+00:09:55,260 --> 00:09:56,760
+that sounds more
+attractive to them.
+
+277
+00:09:56,760 --> 00:09:58,610
+There's actually a
+pretty big distinction,
+
+278
+00:09:58,610 --> 00:10:00,000
+I think, between
+what I call the game
+
+279
+00:10:00,000 --> 00:10:00,150
+I think, between
+what I call the game
+
+280
+00:10:00,150 --> 00:10:02,550
+journalists and general media.
+
+281
+00:10:02,550 --> 00:10:04,300
+When you're pitching
+to a game journalist,
+
+282
+00:10:04,300 --> 00:10:05,520
+they're going to be very jaded.
+
+283
+00:10:05,520 --> 00:10:06,560
+Everybody's coming
+to them saying,
+
+284
+00:10:06,560 --> 00:10:07,660
+oh, I'm going to
+build the next big hit
+
+285
+00:10:07,660 --> 00:10:09,910
+and it's going to be
+duh, duh, duh, duh, duh.
+
+286
+00:10:09,910 --> 00:10:12,040
+And they're going to want
+to hear something that,
+
+287
+00:10:12,040 --> 00:10:16,780
+to them, actually sounds
+creative, unique, something
+
+288
+00:10:16,780 --> 00:10:19,330
+that really is fresh
+within the game industry,
+
+289
+00:10:19,330 --> 00:10:21,790
+because they hear all these
+ideas within the game industry.
+
+290
+00:10:21,790 --> 00:10:25,540
+But also they want to believe
+that whoever is pitching
+
+291
+00:10:25,540 --> 00:10:26,890
+them can actually execute this.
+
+292
+00:10:26,890 --> 00:10:28,510
+A lot of people can
+give a great pitch,
+
+293
+00:10:28,510 --> 00:10:30,000
+but they can never
+build a product.
+
+294
+00:10:30,000 --> 00:10:31,020
+but they can never
+build a product.
+
+295
+00:10:31,020 --> 00:10:33,810
+General media, I think it's
+a little bit different story.
+
+296
+00:10:33,810 --> 00:10:35,350
+For them, it's going
+to be more like,
+
+297
+00:10:35,350 --> 00:10:37,030
+why does my audience care?
+
+298
+00:10:37,030 --> 00:10:38,780
+You know, it's a game.
+
+299
+00:10:38,780 --> 00:10:41,380
+So there almost has
+to be a hook into them
+
+300
+00:10:41,380 --> 00:10:43,210
+where, oh, people
+that don't even
+
+301
+00:10:43,210 --> 00:10:46,600
+play games will be interested
+in this because of x, y, and z.
+
+302
+00:10:46,600 --> 00:10:49,710
+Maybe it's topical,
+or maybe it's
+
+303
+00:10:49,710 --> 00:10:53,110
+involving some new technology
+or something, whatever it is.
+
+304
+00:10:53,110 --> 00:10:55,000
+But they almost
+need another hook
+
+305
+00:10:55,000 --> 00:10:58,300
+to understand why their
+wider audience is also
+
+306
+00:10:58,300 --> 00:11:00,000
+going to tune into this
+thing that they kind of think
+
+307
+00:11:00,000 --> 00:11:00,850
+going to tune into this
+thing that they kind of think
+
+308
+00:11:00,850 --> 00:11:02,300
+of as a niche product.
+
+309
+00:11:02,300 --> 00:11:04,810
+So I think you need to kind
+of understand the motivations
+
+310
+00:11:04,810 --> 00:11:06,200
+of each of these groups.
+
+311
+00:11:06,200 --> 00:11:09,150
+[MUSIC PLAYING]
+
+312
+00:11:09,150 --> 00:11:13,570
+ 
+
+313
+00:11:13,570 --> 00:11:17,420
+The pitching style I eventually
+developed, which I'm not sure
+
+314
+00:11:17,420 --> 00:11:21,530
+is even that successful, is
+trying to get people back
+
+315
+00:11:21,530 --> 00:11:22,520
+to the original topic.
+
+316
+00:11:22,520 --> 00:11:24,770
+You know, here's why
+I think ants are cool.
+
+317
+00:11:24,770 --> 00:11:29,920
+Here's why I think it's cool
+to construct little buildings
+
+318
+00:11:29,920 --> 00:11:30,000
+and put little people in them.
+
+319
+00:11:30,000 --> 00:11:31,170
+and put little people in them.
+
+320
+00:11:31,170 --> 00:11:33,110
+Here's why I think
+evolution is cool.
+
+321
+00:11:33,110 --> 00:11:35,570
+So I try to usually start
+with the topic, why I
+
+322
+00:11:35,570 --> 00:11:37,820
+think I got motivated in that.
+
+323
+00:11:37,820 --> 00:11:39,440
+And then kind of back
+into-- and here's
+
+324
+00:11:39,440 --> 00:11:41,670
+a game where you get to
+make this and do that.
+
+325
+00:11:41,670 --> 00:11:44,660
+And I found that the
+more we can reference
+
+326
+00:11:44,660 --> 00:11:47,240
+the player in the
+pitch, generally
+
+327
+00:11:47,240 --> 00:11:48,650
+the better the pitch went.
+
+328
+00:11:48,650 --> 00:11:51,540
+It's not like, here's a world in
+which this happens, but here's
+
+329
+00:11:51,540 --> 00:11:53,000
+a world in which
+you are the mayor,
+
+330
+00:11:53,000 --> 00:11:54,530
+and you get to decide
+where to put the roads,
+
+331
+00:11:54,530 --> 00:11:56,510
+and you get to do this,
+that, and the other.
+
+332
+00:11:56,510 --> 00:11:58,340
+So if you start to say,
+these are the things
+
+333
+00:11:58,340 --> 00:12:00,000
+that you can do in
+the game and make
+
+334
+00:12:00,000 --> 00:12:00,890
+that you can do in
+the game and make
+
+335
+00:12:00,890 --> 00:12:03,520
+that sound interesting,
+that kind of reverses
+
+336
+00:12:03,520 --> 00:12:05,060
+the whole thing--
+rather than, here's
+
+337
+00:12:05,060 --> 00:12:06,350
+this thing I want to sell you.
+
+338
+00:12:06,350 --> 00:12:09,190
+[MUSIC PLAYING]
+
+339
+00:12:09,190 --> 00:12:13,920
+ 
+
+340
+00:12:13,920 --> 00:12:16,680
+One of the fundamental
+questions that you're probably
+
+341
+00:12:16,680 --> 00:12:20,250
+going to get, especially if
+the pitch is very unrefined,
+
+342
+00:12:20,250 --> 00:12:23,760
+is why is that going to be fun?
+
+343
+00:12:23,760 --> 00:12:25,890
+Which is a hard
+question to answer,
+
+344
+00:12:25,890 --> 00:12:28,050
+because if your
+pitch really conveyed
+
+345
+00:12:28,050 --> 00:12:29,880
+what it needed to
+convey, they wouldn't
+
+346
+00:12:29,880 --> 00:12:30,000
+be asking that question.
+
+347
+00:12:30,000 --> 00:12:31,940
+be asking that question.
+
+348
+00:12:31,940 --> 00:12:34,080
+It would already be fun
+in their imagination.
+
+349
+00:12:34,080 --> 00:12:35,580
+They wouldn't ask
+you that question.
+
+350
+00:12:35,580 --> 00:12:38,120
+So that really indicates
+a key part of your pitch,
+
+351
+00:12:38,120 --> 00:12:39,000
+you're missing.
+
+352
+00:12:39,000 --> 00:12:43,080
+People will try to triangulate
+your idea against other games,
+
+353
+00:12:43,080 --> 00:12:45,720
+and they'll say, oh, is
+it kind of like this game
+
+354
+00:12:45,720 --> 00:12:47,070
+but a little bit of that?
+
+355
+00:12:47,070 --> 00:12:50,770
+Or this game that's turn-based
+instead of real-time?
+
+356
+00:12:50,770 --> 00:12:52,350
+In their mind, they're
+kind of looking
+
+357
+00:12:52,350 --> 00:12:55,020
+at the landscape of all
+the games they know about
+
+358
+00:12:55,020 --> 00:12:58,200
+and trying to figure out where
+yours falls into that landscape
+
+359
+00:12:58,200 --> 00:13:00,000
+by finding landmarks nearby,
+saying it's somewhere
+
+360
+00:13:00,000 --> 00:13:00,420
+by finding landmarks nearby,
+saying it's somewhere
+
+361
+00:13:00,420 --> 00:13:02,370
+between there and there.
+
+362
+00:13:02,370 --> 00:13:04,460
+And that's going
+to be very common.
+
+363
+00:13:04,460 --> 00:13:06,540
+And if your game is not
+in that landscape at all--
+
+364
+00:13:06,540 --> 00:13:09,660
+if it's an outlier over here--
+
+365
+00:13:09,660 --> 00:13:10,740
+that's both good and bad.
+
+366
+00:13:10,740 --> 00:13:11,910
+It's hard for them
+to triangulate,
+
+367
+00:13:11,910 --> 00:13:13,480
+because they've never
+seen anything like that.
+
+368
+00:13:13,480 --> 00:13:14,610
+But on the other
+hand, it could feel
+
+369
+00:13:14,610 --> 00:13:16,200
+fresh if you could
+pitch it the right way.
+
+370
+00:13:16,200 --> 00:13:17,760
+You can almost kind
+of take the outliers
+
+371
+00:13:17,760 --> 00:13:19,720
+in that direction, say,
+oh, it's kind of like this,
+
+372
+00:13:19,720 --> 00:13:21,040
+but we took it in a
+totally different direction
+
+373
+00:13:21,040 --> 00:13:22,330
+that nobody's ever done before.
+
+374
+00:13:22,330 --> 00:13:25,440
+Now, if it's understandable
+and you can basically,
+
+375
+00:13:25,440 --> 00:13:29,820
+again, download that it's
+totally different in this way--
+
+376
+00:13:29,820 --> 00:13:30,000
+so they can actually
+start imagining why
+
+377
+00:13:30,000 --> 00:13:31,740
+so they can actually
+start imagining why
+
+378
+00:13:31,740 --> 00:13:33,480
+that's good, why that's fun--
+
+379
+00:13:33,480 --> 00:13:34,650
+that can be very successful.
+
+380
+00:13:34,650 --> 00:13:37,300
+[MUSIC PLAYING]
+
+381
+00:13:37,300 --> 00:13:42,050
+ 
+
+382
+00:13:42,050 --> 00:13:44,500
+A lot of startup
+pitches, somebody says,
+
+383
+00:13:44,500 --> 00:13:47,650
+OK, here's the cool new
+trend that's just popped up
+
+384
+00:13:47,650 --> 00:13:50,710
+in social media or in
+platforms or whatever it is,
+
+385
+00:13:50,710 --> 00:13:52,630
+and we're going
+to be right on it.
+
+386
+00:13:52,630 --> 00:13:54,400
+We're going to be
+riding that wave.
+
+387
+00:13:54,400 --> 00:13:56,440
+And so I think that the
+people that are really
+
+388
+00:13:56,440 --> 00:13:59,140
+involved in these industries,
+they're kind of jaded.
+
+389
+00:13:59,140 --> 00:14:00,000
+They know that every
+pitch coming this month
+
+390
+00:14:00,000 --> 00:14:01,120
+They know that every
+pitch coming this month
+
+391
+00:14:01,120 --> 00:14:03,790
+is going to involve
+Facebook or this or that,
+
+392
+00:14:03,790 --> 00:14:06,040
+or whatever the hot thing
+of the month is going to be.
+
+393
+00:14:06,040 --> 00:14:09,040
+So I think that you have to be
+a little bit careful about that
+
+394
+00:14:09,040 --> 00:14:10,020
+in particular.
+
+395
+00:14:10,020 --> 00:14:12,730
+I think you need to feel
+like your thing, whatever
+
+396
+00:14:12,730 --> 00:14:15,370
+it is, is standing on its
+own legs, on its own merits,
+
+397
+00:14:15,370 --> 00:14:17,110
+and it's not just
+going to be successful
+
+398
+00:14:17,110 --> 00:14:20,290
+because it's part of this trend
+that's happening this month.
+
+399
+00:14:20,290 --> 00:14:22,750
+There's another actually really
+important part to, I think,
+
+400
+00:14:22,750 --> 00:14:25,510
+pitching, which is
+that recognizing
+
+401
+00:14:25,510 --> 00:14:27,530
+when you've sold your idea.
+
+402
+00:14:27,530 --> 00:14:30,000
+Don't continue and unsell it.
+
+403
+00:14:30,000 --> 00:14:30,250
+Don't continue and unsell it.
+
+404
+00:14:30,250 --> 00:14:31,750
+A lot of times, if
+you give somebody
+
+405
+00:14:31,750 --> 00:14:35,140
+a fairly brief
+explanation of your idea,
+
+406
+00:14:35,140 --> 00:14:37,620
+leave a lot of blanks in there.
+
+407
+00:14:37,620 --> 00:14:40,120
+The person you're pitching to
+will generally fill the blanks
+
+408
+00:14:40,120 --> 00:14:41,490
+in in your favor.
+
+409
+00:14:41,490 --> 00:14:43,360
+This is the way I would
+fill in those blanks,
+
+410
+00:14:43,360 --> 00:14:45,780
+so you're probably going to
+do it the way I would want to.
+
+411
+00:14:45,780 --> 00:14:47,150
+And so if you
+leave those blanks,
+
+412
+00:14:47,150 --> 00:14:49,360
+they're going to imagine
+those filled in the way they
+
+413
+00:14:49,360 --> 00:14:50,560
+would want to fill them in.
+
+414
+00:14:50,560 --> 00:14:51,730
+If you keep going
+with your pitch
+
+415
+00:14:51,730 --> 00:14:54,150
+and start filling in those
+blanks in a different direction
+
+416
+00:14:54,150 --> 00:14:56,500
+that they don't like, you
+have now unsold the idea
+
+417
+00:14:56,500 --> 00:14:58,310
+after you just sold it to them.
+
+418
+00:14:58,310 --> 00:15:00,000
+So I think it's very important
+to realize when to stop.
+
+419
+00:15:00,000 --> 00:15:01,260
+So I think it's very important
+to realize when to stop.
+
+420
+00:15:01,260 --> 00:15:04,130
+[MUSIC PLAYING]
+
+421
+00:15:04,130 --> 00:15:08,920
+ 
+
+422
+00:15:08,920 --> 00:15:11,790
+The one thing that I think
+is the biggest mistake
+
+423
+00:15:11,790 --> 00:15:14,570
+that I see is when
+people lead with genre.
+
+424
+00:15:14,570 --> 00:15:16,030
+The first thing
+they say is, I want
+
+425
+00:15:16,030 --> 00:15:18,310
+to build a first-person
+shooter that
+
+426
+00:15:18,310 --> 00:15:21,410
+does duh, duh, duh, duh, duh.
+
+427
+00:15:21,410 --> 00:15:24,420
+To me, as soon as I
+hear genre, in my mind
+
+428
+00:15:24,420 --> 00:15:27,220
+they've already basically
+compartmentalized
+
+429
+00:15:27,220 --> 00:15:28,630
+how far they're going to go.
+
+430
+00:15:28,630 --> 00:15:30,000
+They're not even
+willing to think of it
+
+431
+00:15:30,000 --> 00:15:30,250
+They're not even
+willing to think of it
+
+432
+00:15:30,250 --> 00:15:32,380
+outside of that genre or
+an expansion of the genre,
+
+433
+00:15:32,380 --> 00:15:34,450
+but they've already put
+themselves in a box--
+
+434
+00:15:34,450 --> 00:15:37,840
+a fairly limited box that's
+been very thoroughly explored.
+
+435
+00:15:37,840 --> 00:15:39,670
+Now, it's OK if it's a
+first-person shooter.
+
+436
+00:15:39,670 --> 00:15:40,660
+That's fine.
+
+437
+00:15:40,660 --> 00:15:43,030
+But maybe it's a first-person
+shooter with relationships
+
+438
+00:15:43,030 --> 00:15:44,320
+and social networks,
+and there might be
+
+439
+00:15:44,320 --> 00:15:45,780
+a lot of other things involved.
+
+440
+00:15:45,780 --> 00:15:47,920
+But when they say first-person
+shooter, in my mind
+
+441
+00:15:47,920 --> 00:15:50,380
+I'm automatically putting it
+in the very limited little box
+
+442
+00:15:50,380 --> 00:15:51,760
+of experience.
+
+443
+00:15:51,760 --> 00:15:54,790
+I think other ones is people
+tend to be too verbose.
+
+444
+00:15:54,790 --> 00:15:58,690
+They tend to add way too
+many details way too early.
+
+445
+00:15:58,690 --> 00:16:00,000
+There was that saying
+about, your garden
+
+446
+00:16:00,000 --> 00:16:00,460
+There was that saying
+about, your garden
+
+447
+00:16:00,460 --> 00:16:03,400
+is not complete until there's
+nothing else you can remove.
+
+448
+00:16:03,400 --> 00:16:07,000
+I think for your pitch, you want
+to remove every possible word
+
+449
+00:16:07,000 --> 00:16:09,160
+that is unnecessary,
+and refine it down
+
+450
+00:16:09,160 --> 00:16:11,420
+to that level of conciseness.
+
+451
+00:16:11,420 --> 00:16:15,010
+And those are, I think, the
+two most common mistakes
+
+452
+00:16:15,010 --> 00:16:16,990
+I hear when people give pitches.
+
+453
+00:16:16,990 --> 00:16:22,430
+The third probably comes
+more down to energy,
+
+454
+00:16:22,430 --> 00:16:24,430
+that if the person
+giving you the pitch
+
+455
+00:16:24,430 --> 00:16:26,300
+doesn't really feel
+excited about it,
+
+456
+00:16:26,300 --> 00:16:28,430
+and it's more like, oh,
+yeah, I got this game idea,
+
+457
+00:16:28,430 --> 00:16:30,000
+it's going to be,
+yeah, you know--
+
+458
+00:16:30,000 --> 00:16:30,790
+it's going to be,
+yeah, you know--
+
+459
+00:16:30,790 --> 00:16:33,190
+how can they expect me
+to be excited about it?
+
+460
+00:16:33,190 --> 00:16:35,860
+But if somebody comes up to
+me with a very concise idea,
+
+461
+00:16:35,860 --> 00:16:40,070
+they lead with the topic or
+what's cool about it to them,
+
+462
+00:16:40,070 --> 00:16:41,920
+they don't say
+anything unnecessary,
+

@@ -1,0 +1,1196 @@
+1
+00:00:00,000 --> 00:00:03,400
+[MUSIC PLAYING]
+
+2
+00:00:03,400 --> 00:00:10,750
+ 
+
+3
+00:00:10,750 --> 00:00:13,920
+ Once I have an idea for a
+game, I start making prototypes
+
+4
+00:00:13,920 --> 00:00:15,300
+as soon as I can.
+
+5
+00:00:15,300 --> 00:00:17,130
+The early prototyping
+is probably
+
+6
+00:00:17,130 --> 00:00:18,900
+the most important stage.
+
+7
+00:00:18,900 --> 00:00:21,150
+We're trying to imagine
+different types of rules
+
+8
+00:00:21,150 --> 00:00:23,550
+that might be
+applied to the system
+
+9
+00:00:23,550 --> 00:00:25,680
+that we're basing the game on.
+
+10
+00:00:25,680 --> 00:00:27,510
+You're basically
+trying everything
+
+11
+00:00:27,510 --> 00:00:30,000
+you can think of for how to
+turn this concept into a game,
+
+12
+00:00:30,000 --> 00:00:31,540
+you can think of for how to
+turn this concept into a game,
+
+13
+00:00:31,540 --> 00:00:33,210
+whatever it takes for
+you to cheaply get
+
+14
+00:00:33,210 --> 00:00:36,070
+a sense of that's
+fun, that's not fun.
+
+15
+00:00:36,070 --> 00:00:39,490
+[MUSIC PLAYING]
+
+16
+00:00:39,490 --> 00:00:44,880
+ 
+
+17
+00:00:44,880 --> 00:00:47,370
+Well, a prototype is
+usually interactive.
+
+18
+00:00:47,370 --> 00:00:49,680
+Not always, but usually.
+
+19
+00:00:49,680 --> 00:00:53,010
+And we're taking like some
+little bit or part of the game
+
+20
+00:00:53,010 --> 00:00:54,540
+that we have a question about.
+
+21
+00:00:54,540 --> 00:00:56,100
+Should we go this
+way or that way?
+
+22
+00:00:56,100 --> 00:00:57,450
+And it might be an
+interaction question.
+
+23
+00:00:57,450 --> 00:00:59,450
+Is it better to have the
+controls work like this
+
+24
+00:00:59,450 --> 00:01:00,000
+or like that?
+
+25
+00:01:00,000 --> 00:01:00,490
+or like that?
+
+26
+00:01:00,490 --> 00:01:04,349
+It might be a visualization
+or a graphics question.
+
+27
+00:01:04,349 --> 00:01:06,830
+Should we do this point of
+view, that point of view?
+
+28
+00:01:06,830 --> 00:01:09,090
+Should it be this
+style, that style?
+
+29
+00:01:09,090 --> 00:01:11,340
+But it's something that we
+feel like we can't answer
+
+30
+00:01:11,340 --> 00:01:13,820
+unless we actually touch
+and play with and interact
+
+31
+00:01:13,820 --> 00:01:14,570
+with a little bit.
+
+32
+00:01:14,570 --> 00:01:17,250
+Even if it's just turning
+the world around and looking
+
+33
+00:01:17,250 --> 00:01:18,590
+at different camera angles.
+
+34
+00:01:18,590 --> 00:01:20,090
+And that's when we
+decide, OK, we're
+
+35
+00:01:20,090 --> 00:01:21,700
+going to build a
+prototype and we're
+
+36
+00:01:21,700 --> 00:01:24,060
+going to build the simplest
+possible thing we can
+
+37
+00:01:24,060 --> 00:01:25,860
+that will help us
+answer that question.
+
+38
+00:01:25,860 --> 00:01:27,270
+As I'm playing with this
+one little piece in hand
+
+39
+00:01:27,270 --> 00:01:29,130
+and imagining the rest
+of the experience,
+
+40
+00:01:29,130 --> 00:01:30,000
+can answer that question?
+
+41
+00:01:30,000 --> 00:01:30,240
+can answer that question?
+
+42
+00:01:30,240 --> 00:01:32,070
+Oh yeah, this would be
+much better top down.
+
+43
+00:01:32,070 --> 00:01:33,630
+This would be much better 3D.
+
+44
+00:01:33,630 --> 00:01:37,170
+This would be much better with
+that kind of player control.
+
+45
+00:01:37,170 --> 00:01:39,870
+But you know, it really needs
+to be answering a question
+
+46
+00:01:39,870 --> 00:01:41,080
+as cheaply as possible.
+
+47
+00:01:41,080 --> 00:01:43,110
+You don't want to go spend
+weeks and weeks building this.
+
+48
+00:01:43,110 --> 00:01:45,060
+You want to build the cheapest,
+simplest little thing that you
+
+49
+00:01:45,060 --> 00:01:47,220
+can build that you can
+sit back and say, OK, I'm
+
+50
+00:01:47,220 --> 00:01:49,530
+pretty confident now
+that we go this way.
+
+51
+00:01:49,530 --> 00:01:52,050
+As we get further down
+the path, it's, you know,
+
+52
+00:01:52,050 --> 00:01:53,970
+can somebody learn how
+to use this interface?
+
+53
+00:01:53,970 --> 00:01:55,980
+And we can find out what
+the failure states are,
+
+54
+00:01:55,980 --> 00:01:58,010
+how we need to change it
+to make it work better.
+
+55
+00:01:58,010 --> 00:01:59,550
+And even further
+down the road, it's,
+
+56
+00:01:59,550 --> 00:02:00,000
+how engaging is this to players?
+
+57
+00:02:00,000 --> 00:02:01,590
+how engaging is this to players?
+
+58
+00:02:01,590 --> 00:02:04,320
+And that's a much, much
+more open-ended question
+
+59
+00:02:04,320 --> 00:02:06,020
+and a much broader
+range of answers
+
+60
+00:02:06,020 --> 00:02:08,100
+that, for certain people,
+this is very motivating.
+
+61
+00:02:08,100 --> 00:02:09,300
+Most people, it isn't.
+
+62
+00:02:09,300 --> 00:02:11,300
+Or it's somewhat motivating
+for a lot of people,
+
+63
+00:02:11,300 --> 00:02:13,610
+but if we did this, it would
+be much more motivating.
+
+64
+00:02:13,610 --> 00:02:15,030
+Or, you know, the
+social component
+
+65
+00:02:15,030 --> 00:02:17,340
+is working well here,
+but not the individual.
+
+66
+00:02:17,340 --> 00:02:22,170
+So those are much more I'd
+say subjective in terms
+
+67
+00:02:22,170 --> 00:02:23,910
+of interpreting the results.
+
+68
+00:02:23,910 --> 00:02:27,150
+The very initial ones are very
+clear usually in terms of,
+
+69
+00:02:27,150 --> 00:02:30,000
+OK, we go with A instead
+of B. And I think,
+
+70
+00:02:30,000 --> 00:02:30,940
+OK, we go with A instead
+of B. And I think,
+
+71
+00:02:30,940 --> 00:02:33,000
+you know, we think
+of it in those terms.
+
+72
+00:02:33,000 --> 00:02:36,490
+[MUSIC PLAYING]
+
+73
+00:02:36,490 --> 00:02:40,370
+ 
+
+74
+00:02:40,370 --> 00:02:42,180
+Prototyping can take
+different forms.
+
+75
+00:02:42,180 --> 00:02:44,010
+I mean, sometimes it's cutting
+up little pieces of paper
+
+76
+00:02:44,010 --> 00:02:45,220
+and these are now game units.
+
+77
+00:02:45,220 --> 00:02:47,940
+And you have, basically, rules,
+and you can move your thing two
+
+78
+00:02:47,940 --> 00:02:50,680
+spaces every turn, and you might
+have a very simple turn-based
+
+79
+00:02:50,680 --> 00:02:52,890
+two player game and you're
+moving the pieces of paper
+
+80
+00:02:52,890 --> 00:02:53,700
+around.
+
+81
+00:02:53,700 --> 00:02:56,330
+Other times it might be a
+more constructive experience
+
+82
+00:02:56,330 --> 00:02:58,830
+where you're actually drawing
+something on a piece of paper,
+
+83
+00:02:58,830 --> 00:03:00,000
+and you have rules about
+how much you can draw,
+
+84
+00:03:00,000 --> 00:03:00,690
+and you have rules about
+how much you can draw,
+
+85
+00:03:00,690 --> 00:03:02,220
+and you add up how many
+things you've drawn
+
+86
+00:03:02,220 --> 00:03:03,930
+and what the cost is,
+and you're actually
+
+87
+00:03:03,930 --> 00:03:06,330
+doing your own little kind
+of economic bookkeeping
+
+88
+00:03:06,330 --> 00:03:08,960
+along side of it.
+
+89
+00:03:08,960 --> 00:03:11,790
+You know, what we call paper
+prototyping isn't so much
+
+90
+00:03:11,790 --> 00:03:13,470
+it has to be paper.
+
+91
+00:03:13,470 --> 00:03:15,580
+It really more means that
+it's off the computer.
+
+92
+00:03:15,580 --> 00:03:17,250
+You know, you're not
+really programming,
+
+93
+00:03:17,250 --> 00:03:19,380
+but you're doing it with
+tangible little objects.
+
+94
+00:03:19,380 --> 00:03:21,510
+One thing that I tried
+starting a long time ago
+
+95
+00:03:21,510 --> 00:03:24,310
+was when I was first
+coming up with the game,
+
+96
+00:03:24,310 --> 00:03:26,400
+I was trying to pitch it
+around, I would actually
+
+97
+00:03:26,400 --> 00:03:29,150
+make two or three different
+box designs myself.
+
+98
+00:03:29,150 --> 00:03:30,000
+I'd just put, you know,
+print the stuff out, glue it
+
+99
+00:03:30,000 --> 00:03:32,100
+I'd just put, you know,
+print the stuff out, glue it
+
+100
+00:03:32,100 --> 00:03:34,070
+to the side of a box,
+put them up there,
+
+101
+00:03:34,070 --> 00:03:35,070
+and show them to people.
+
+102
+00:03:35,070 --> 00:03:36,180
+Which one of these
+games would you like?
+
+103
+00:03:36,180 --> 00:03:38,180
+It's all the same game
+in my mind, but you know,
+
+104
+00:03:38,180 --> 00:03:41,130
+these are three different ways
+of kind of informing, you know,
+
+105
+00:03:41,130 --> 00:03:43,270
+what the game is about
+and presenting it.
+
+106
+00:03:43,270 --> 00:03:46,130
+In some sense, that's
+a marketing prototype.
+
+107
+00:03:46,130 --> 00:03:48,210
+And I would see that, oh,
+people really get box B,
+
+108
+00:03:48,210 --> 00:03:49,710
+but A and C they
+don't like at all.
+
+109
+00:03:49,710 --> 00:03:51,210
+That would just
+tell me a little bit
+
+110
+00:03:51,210 --> 00:03:53,590
+about how somebody initially
+thinks about this whole idea
+
+111
+00:03:53,590 --> 00:03:56,290
+and which direction I should
+go in terms of communicating.
+
+112
+00:03:56,290 --> 00:03:57,660
+So that's kind
+of, in some sense,
+
+113
+00:03:57,660 --> 00:03:59,800
+a communications prototype.
+
+114
+00:03:59,800 --> 00:04:00,000
+Later on, as you
+start kind of playing
+
+115
+00:04:00,000 --> 00:04:01,800
+Later on, as you
+start kind of playing
+
+116
+00:04:01,800 --> 00:04:04,700
+with how we present the player
+or what's the interface,
+
+117
+00:04:04,700 --> 00:04:06,000
+you know, those are things
+that are fairly simple.
+
+118
+00:04:06,000 --> 00:04:07,080
+And again, sometimes
+these are things
+
+119
+00:04:07,080 --> 00:04:09,000
+you can just pull off
+the shelf and say,
+
+120
+00:04:09,000 --> 00:04:11,680
+you know, this game
+uses control scheme A,
+
+121
+00:04:11,680 --> 00:04:14,520
+that one uses control scheme B,
+and they're both driving tanks.
+
+122
+00:04:14,520 --> 00:04:15,480
+Which one feels better?
+
+123
+00:04:15,480 --> 00:04:16,800
+As I'm imagining
+the rest of my game,
+
+124
+00:04:16,800 --> 00:04:18,720
+which might be completely
+different than these
+
+125
+00:04:18,720 --> 00:04:19,620
+off the shelf games.
+
+126
+00:04:19,620 --> 00:04:21,250
+But at least, in
+terms of the controls,
+
+127
+00:04:21,250 --> 00:04:24,220
+I can sit there and imagine
+my game with these controls.
+
+128
+00:04:24,220 --> 00:04:26,520
+So these prototypes
+can take any form.
+
+129
+00:04:26,520 --> 00:04:28,890
+It's anytime you have
+a question to answer
+
+130
+00:04:28,890 --> 00:04:30,000
+and you feel like if you
+could build something,
+
+131
+00:04:30,000 --> 00:04:30,940
+and you feel like if you
+could build something,
+
+132
+00:04:30,940 --> 00:04:34,700
+whether it's a fake box, or
+a control scheme prototype,
+
+133
+00:04:34,700 --> 00:04:36,490
+or even two games off
+the shelf that you're
+
+134
+00:04:36,490 --> 00:04:38,910
+playing one little
+part of, will it
+
+135
+00:04:38,910 --> 00:04:42,400
+help you figure out which
+branch down that design tree
+
+136
+00:04:42,400 --> 00:04:43,320
+that you want to take?
+
+137
+00:04:43,320 --> 00:04:46,740
+[MUSIC PLAYING]
+
+138
+00:04:46,740 --> 00:04:51,140
+ 
+
+139
+00:04:51,140 --> 00:04:54,480
+I found that when I make
+games, a lot of times
+
+140
+00:04:54,480 --> 00:04:58,220
+it actually helps me to
+build real, tangible things
+
+141
+00:04:58,220 --> 00:05:00,000
+from the game before I
+actually build the game.
+
+142
+00:05:00,000 --> 00:05:00,260
+from the game before I
+actually build the game.
+
+143
+00:05:00,260 --> 00:05:02,550
+When I was actually working
+on "The Sims" at some point
+
+144
+00:05:02,550 --> 00:05:04,550
+I decided I wanted to
+have a little neighborhood
+
+145
+00:05:04,550 --> 00:05:05,620
+for the original Sims.
+
+146
+00:05:05,620 --> 00:05:06,950
+And you would pick a
+house and build a house,
+
+147
+00:05:06,950 --> 00:05:08,060
+and then eventually,
+you'd build a little house
+
+148
+00:05:08,060 --> 00:05:08,930
+in the neighborhood.
+
+149
+00:05:08,930 --> 00:05:11,840
+I actually first built a real
+model of a little, you know,
+
+150
+00:05:11,840 --> 00:05:14,500
+a few houses and a
+little landscape.
+
+151
+00:05:14,500 --> 00:05:16,750
+And this is the model I
+actually built for "The Sims."
+
+152
+00:05:16,750 --> 00:05:18,800
+And this is actually
+the original Sims,
+
+153
+00:05:18,800 --> 00:05:19,880
+what it looked like.
+
+154
+00:05:19,880 --> 00:05:22,760
+So it was actually a fairly
+close representation.
+
+155
+00:05:22,760 --> 00:05:24,250
+For "SimAnt" I
+built a giant ant.
+
+156
+00:05:24,250 --> 00:05:26,270
+And for everything
+I've made, I've
+
+157
+00:05:26,270 --> 00:05:27,890
+tried to bring it
+to the tangible.
+
+158
+00:05:27,890 --> 00:05:29,850
+And it helps me think
+about it in certain ways
+
+159
+00:05:29,850 --> 00:05:30,000
+when I'm actually touching it.
+
+160
+00:05:30,000 --> 00:05:31,100
+when I'm actually touching it.
+
+161
+00:05:31,100 --> 00:05:32,600
+And I wonder, like,
+in the game, how
+
+162
+00:05:32,600 --> 00:05:34,310
+can I make it feel tangible?
+
+163
+00:05:34,310 --> 00:05:35,870
+How can I make the player
+feel like they're actually
+
+164
+00:05:35,870 --> 00:05:37,080
+touching something real here?
+
+165
+00:05:37,080 --> 00:05:40,300
+[MUSIC PLAYING]
+
+166
+00:05:40,300 --> 00:05:44,450
+ 
+
+167
+00:05:44,450 --> 00:05:46,820
+As we start building prototypes,
+we might find, you know,
+
+168
+00:05:46,820 --> 00:05:48,700
+kind of sweet spots,
+really fun things.
+
+169
+00:05:48,700 --> 00:05:51,110
+That's a really cool
+dynamic, or I like that tool,
+
+170
+00:05:51,110 --> 00:05:54,890
+or it's really enjoyable
+making this thing.
+
+171
+00:05:54,890 --> 00:05:56,720
+Then we start figuring
+out, how can we
+
+172
+00:05:56,720 --> 00:05:59,730
+take those really good
+spots and spread it out
+
+173
+00:05:59,730 --> 00:06:00,000
+through the rest of the design
+and make it part of the spine?
+
+174
+00:06:00,000 --> 00:06:02,270
+through the rest of the design
+and make it part of the spine?
+
+175
+00:06:02,270 --> 00:06:04,280
+On a game like
+"Spore," you know,
+
+176
+00:06:04,280 --> 00:06:07,320
+we started building some of
+the editors very early on.
+
+177
+00:06:07,320 --> 00:06:09,800
+And it was so fun building
+things in the creature editor,
+
+178
+00:06:09,800 --> 00:06:12,350
+we decided, hey, let's see if
+we can do a building editor.
+
+179
+00:06:12,350 --> 00:06:14,580
+Oh, and that's cool, so we
+can do a vehicle editor.
+
+180
+00:06:14,580 --> 00:06:16,670
+And so we decided
+that the editors
+
+181
+00:06:16,670 --> 00:06:19,320
+would be consistent
+across all the levels.
+
+182
+00:06:19,320 --> 00:06:21,530
+They would operate
+pretty much the same,
+
+183
+00:06:21,530 --> 00:06:24,210
+but each one was its
+own special thing.
+
+184
+00:06:24,210 --> 00:06:25,940
+But yet it was kind
+of a core activity
+
+185
+00:06:25,940 --> 00:06:28,970
+that of gave connection
+across the different levels.
+
+186
+00:06:28,970 --> 00:06:30,000
+Because "Spore," really,
+you know, otherwise, was
+
+187
+00:06:30,000 --> 00:06:31,220
+Because "Spore," really,
+you know, otherwise, was
+
+188
+00:06:31,220 --> 00:06:33,870
+like, five different games
+that happened to be connected.
+
+189
+00:06:33,870 --> 00:06:36,860
+But the editors gave kind
+of thematic consistency
+
+190
+00:06:36,860 --> 00:06:37,750
+across there.
+
+191
+00:06:37,750 --> 00:06:38,810
+And player familiarity.
+
+192
+00:06:38,810 --> 00:06:40,440
+When I got to the
+next level, I already
+
+193
+00:06:40,440 --> 00:06:41,790
+knew how to use the editor.
+
+194
+00:06:41,790 --> 00:06:43,460
+So I think we look
+for things like that.
+
+195
+00:06:43,460 --> 00:06:45,590
+Or you know, even like
+the tools in "Sim City."
+
+196
+00:06:45,590 --> 00:06:47,630
+When you're laying down
+this, you know, that tool
+
+197
+00:06:47,630 --> 00:06:49,580
+operates pretty much the
+same like, you know, roads
+
+198
+00:06:49,580 --> 00:06:51,530
+operate almost the same
+as the water pipes.
+
+199
+00:06:51,530 --> 00:06:52,610
+You look for things
+that you can kind
+
+200
+00:06:52,610 --> 00:06:54,980
+of leverage across the design
+so once the player learns
+
+201
+00:06:54,980 --> 00:06:57,740
+one thing, they've
+learned five things.
+
+202
+00:06:57,740 --> 00:06:59,860
+But also gives kind
+of a consistent
+
+203
+00:06:59,860 --> 00:07:00,000
+feel to the whole experience.
+
+204
+00:07:00,000 --> 00:07:01,070
+feel to the whole experience.
+
+205
+00:07:01,070 --> 00:07:04,400
+[MUSIC PLAYING]
+
+206
+00:07:04,400 --> 00:07:08,330
+ 
+
+207
+00:07:08,330 --> 00:07:11,000
+Well, as a designer, I'm going
+to look at these prototypes,
+
+208
+00:07:11,000 --> 00:07:14,170
+interact with them, and come up
+with some decision about where
+
+209
+00:07:14,170 --> 00:07:15,310
+we should go.
+
+210
+00:07:15,310 --> 00:07:17,330
+I don't care what
+they're built out of.
+
+211
+00:07:17,330 --> 00:07:19,870
+So typically, depending on the
+programmer I was working with,
+
+212
+00:07:19,870 --> 00:07:21,280
+maybe they might
+be very comfortable
+
+213
+00:07:21,280 --> 00:07:23,530
+throwing in a little code base
+and they could very rapidly
+
+214
+00:07:23,530 --> 00:07:24,100
+iterate that.
+
+215
+00:07:24,100 --> 00:07:25,630
+So from my point
+of view, whatever
+
+216
+00:07:25,630 --> 00:07:28,570
+was the least amount of friction
+for the programmer creating
+
+217
+00:07:28,570 --> 00:07:29,430
+this.
+
+218
+00:07:29,430 --> 00:07:30,000
+Because at the end,
+I just want to be
+
+219
+00:07:30,000 --> 00:07:30,970
+Because at the end,
+I just want to be
+
+220
+00:07:30,970 --> 00:07:33,050
+able to interact with
+it for a few hours
+
+221
+00:07:33,050 --> 00:07:34,340
+and then make a decision.
+
+222
+00:07:34,340 --> 00:07:35,770
+And we're basically going
+to throw that code away.
+
+223
+00:07:35,770 --> 00:07:38,140
+Or the programmer might
+actually take that code base
+
+224
+00:07:38,140 --> 00:07:39,730
+and evolve it into
+the next prototype.
+
+225
+00:07:39,730 --> 00:07:41,010
+There's so many
+different programs.
+
+226
+00:07:41,010 --> 00:07:42,430
+It could be, you
+know, JavaScript.
+
+227
+00:07:42,430 --> 00:07:43,390
+It could be Unity.
+
+228
+00:07:43,390 --> 00:07:47,140
+It could be hardcore
+C. I don't care, again.
+
+229
+00:07:47,140 --> 00:07:50,070
+But that really depends
+a lot on, you know,
+
+230
+00:07:50,070 --> 00:07:51,610
+the programmer and
+their familiarity.
+
+231
+00:07:51,610 --> 00:07:52,980
+You know, again,
+whatever is going--
+
+232
+00:07:52,980 --> 00:07:55,060
+they can create the fastest
+possible thing for you
+
+233
+00:07:55,060 --> 00:07:56,420
+at the least possible cost.
+
+234
+00:07:56,420 --> 00:08:00,000
+So I'm totally agnostic in terms
+of what platform or code base
+
+235
+00:08:00,000 --> 00:08:00,280
+So I'm totally agnostic in terms
+of what platform or code base
+
+236
+00:08:00,280 --> 00:08:01,300
+it's built in.
+
+237
+00:08:01,300 --> 00:08:03,850
+As a student, you want
+to learn prototyping.
+
+238
+00:08:03,850 --> 00:08:06,310
+Again, I would say
+find some system
+
+239
+00:08:06,310 --> 00:08:10,210
+that you can program to some
+degree, or script, whatever
+
+240
+00:08:10,210 --> 00:08:14,410
+you're familiar with, and then
+imagine how you could actually
+
+241
+00:08:14,410 --> 00:08:17,230
+create some simple interactive
+experience with that.
+
+242
+00:08:17,230 --> 00:08:18,410
+Do that a few times.
+
+243
+00:08:18,410 --> 00:08:21,880
+And now start imagining, OK,
+how could I make that better?
+
+244
+00:08:21,880 --> 00:08:23,720
+What questions do
+I need to answer?
+
+245
+00:08:23,720 --> 00:08:27,520
+So basically, this, again, is a
+navigation instrument for you.
+
+246
+00:08:27,520 --> 00:08:29,370
+It's a compass to
+help you figure out,
+
+247
+00:08:29,370 --> 00:08:30,000
+I want to go this
+way or that way.
+
+248
+00:08:30,000 --> 00:08:31,240
+I want to go this
+way or that way.
+
+249
+00:08:31,240 --> 00:08:33,640
+And just play with
+simple rule sets.
+
+250
+00:08:33,640 --> 00:08:35,530
+You can kind of get
+a sense of how you
+
+251
+00:08:35,530 --> 00:08:38,130
+navigate that kind of a tree.
+

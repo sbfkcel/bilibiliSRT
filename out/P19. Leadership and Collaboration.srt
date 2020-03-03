@@ -1,0 +1,1249 @@
+1
+00:00:00,000 --> 00:00:02,460
+[MUSIC PLAYING]
+
+2
+00:00:02,460 --> 00:00:10,210
+ 
+
+3
+00:00:10,210 --> 00:00:12,640
+ A design leader
+on a team can take
+
+4
+00:00:12,640 --> 00:00:13,810
+a number of different roles.
+
+5
+00:00:13,810 --> 00:00:15,890
+You know, they can start
+the vision for a design.
+
+6
+00:00:15,890 --> 00:00:17,350
+This is where I
+think we should go.
+
+7
+00:00:17,350 --> 00:00:19,750
+They can be the one initially
+pitching the team members.
+
+8
+00:00:19,750 --> 00:00:21,370
+You know, hey, doesn't
+this sound cool?
+
+9
+00:00:21,370 --> 00:00:23,980
+Don't you want to come
+build this with me?
+
+10
+00:00:23,980 --> 00:00:26,440
+At some point, you know, I
+think if things are running kind
+
+11
+00:00:26,440 --> 00:00:28,650
+of nicely, you know,
+that's when I start
+
+12
+00:00:28,650 --> 00:00:29,770
+feeling like a traffic cop.
+
+13
+00:00:29,770 --> 00:00:30,000
+I'm like, you know, all
+the ideas are pretty good.
+
+14
+00:00:30,000 --> 00:00:31,850
+I'm like, you know, all
+the ideas are pretty good.
+
+15
+00:00:31,850 --> 00:00:33,710
+And it's more just
+a matter of saying,
+
+16
+00:00:33,710 --> 00:00:35,200
+you know, let's do that
+one now and this one later.
+
+17
+00:00:35,200 --> 00:00:37,530
+Let's give these two-- let's
+build a prototype for that.
+
+18
+00:00:37,530 --> 00:00:39,130
+You know, it's more
+a matter of that.
+
+19
+00:00:39,130 --> 00:00:41,490
+Sometimes you do have to
+get dictatorial, you know,
+
+20
+00:00:41,490 --> 00:00:43,490
+and you have to just kind
+of put your foot down.
+
+21
+00:00:43,490 --> 00:00:45,860
+A lot of times you'll get
+stuck in this kind of standoff,
+
+22
+00:00:45,860 --> 00:00:47,890
+stalemate, and you just
+have to make a decision.
+
+23
+00:00:47,890 --> 00:00:49,390
+And that's where
+you just have to go
+
+24
+00:00:49,390 --> 00:00:51,790
+with your gut, your
+intuition, and your instinct,
+
+25
+00:00:51,790 --> 00:00:55,540
+and say, OK, look, I'm just
+going to resolve this now.
+
+26
+00:00:55,540 --> 00:00:57,940
+You try to avoid
+that if you can.
+
+27
+00:00:57,940 --> 00:00:59,830
+But at the same
+time, you're also--
+
+28
+00:00:59,830 --> 00:01:00,000
+you're not just leading
+the design of your product.
+
+29
+00:01:00,000 --> 00:01:03,790
+you're not just leading
+the design of your product.
+
+30
+00:01:03,790 --> 00:01:06,360
+But you're leading the
+process of your design team.
+
+31
+00:01:06,360 --> 00:01:08,530
+You know, you're telling
+your design team, OK, look,
+
+32
+00:01:08,530 --> 00:01:11,410
+this is how I want us
+to resolve disputes.
+
+33
+00:01:11,410 --> 00:01:14,530
+Or this is how I want us
+to make creative decisions.
+
+34
+00:01:14,530 --> 00:01:18,520
+And so you basically establish
+a process, or an etiquette,
+
+35
+00:01:18,520 --> 00:01:21,670
+some kind of rules of the
+road for how these design
+
+36
+00:01:21,670 --> 00:01:25,100
+decisions can get made, how you
+want them to work on your team,
+
+37
+00:01:25,100 --> 00:01:28,600
+and what you want the team's
+basically philosophy to be
+
+38
+00:01:28,600 --> 00:01:29,230
+for design.
+
+39
+00:01:29,230 --> 00:01:30,000
+You know, I've
+always wanted to have
+
+40
+00:01:30,000 --> 00:01:30,730
+You know, I've
+always wanted to have
+
+41
+00:01:30,730 --> 00:01:33,170
+design spread out through
+the entire team, if possible.
+
+42
+00:01:33,170 --> 00:01:36,080
+And so that's a philosophy that
+you try to instill in the team.
+
+43
+00:01:36,080 --> 00:01:37,840
+So I think that's probably one
+of the more important roles
+
+44
+00:01:37,840 --> 00:01:39,340
+the designer plays
+that's kind of separate
+
+45
+00:01:39,340 --> 00:01:40,340
+from the actual product.
+
+46
+00:01:40,340 --> 00:01:47,900
+ 
+
+47
+00:01:47,900 --> 00:01:50,140
+I've been talking about kind
+of like the design team,
+
+48
+00:01:50,140 --> 00:01:52,540
+you know, almost like it's
+separate from the rest
+
+49
+00:01:52,540 --> 00:01:55,630
+of the team, which it's not.
+
+50
+00:01:55,630 --> 00:01:58,180
+And, you know, on a lot of the
+larger games I've worked on,
+
+51
+00:01:58,180 --> 00:02:00,000
+you know, we had several people
+who were purely designers.
+
+52
+00:02:00,000 --> 00:02:01,630
+you know, we had several people
+who were purely designers.
+
+53
+00:02:01,630 --> 00:02:04,920
+But yet, everybody on the team
+was contributing to the design.
+
+54
+00:02:04,920 --> 00:02:08,500
+You know, all the way down
+at some level any idea could
+
+55
+00:02:08,500 --> 00:02:10,449
+bubble up from anywhere.
+
+56
+00:02:10,449 --> 00:02:13,150
+So really, ideally, you
+want to start actually
+
+57
+00:02:13,150 --> 00:02:16,750
+distributing a lot of the design
+tasks through the entire team.
+
+58
+00:02:16,750 --> 00:02:18,700
+Because somebody
+working down here
+
+59
+00:02:18,700 --> 00:02:21,850
+on the sound system, or that
+guy on the graphics system
+
+60
+00:02:21,850 --> 00:02:23,710
+might have some
+really creative ideas.
+
+61
+00:02:23,710 --> 00:02:25,670
+And they probably know
+a lot more about the way
+
+62
+00:02:25,670 --> 00:02:27,280
+that thing actually
+works, and what
+
+63
+00:02:27,280 --> 00:02:30,000
+you could do with it than you,
+as a designer, might know.
+
+64
+00:02:30,000 --> 00:02:30,310
+you could do with it than you,
+as a designer, might know.
+
+65
+00:02:30,310 --> 00:02:32,560
+As a designer you want to
+have a rough idea of the way
+
+66
+00:02:32,560 --> 00:02:33,670
+all these things work.
+
+67
+00:02:33,670 --> 00:02:34,720
+But you're not going
+to have necessarily
+
+68
+00:02:34,720 --> 00:02:36,430
+the specialized
+knowledge of the way
+
+69
+00:02:36,430 --> 00:02:38,800
+that particular
+cell shader works.
+
+70
+00:02:38,800 --> 00:02:39,970
+Or something like that.
+
+71
+00:02:39,970 --> 00:02:45,810
+Ideally, you want to find the
+design talent within your team.
+
+72
+00:02:45,810 --> 00:02:47,080
+Learn to rely on it.
+
+73
+00:02:47,080 --> 00:02:49,970
+You know, basically make
+it visible to other members
+
+74
+00:02:49,970 --> 00:02:52,950
+so it's not just that person
+going around somebody's back.
+
+75
+00:02:52,950 --> 00:02:56,020
+But, you know, you really
+respect that person's idea.
+
+76
+00:02:56,020 --> 00:02:57,940
+You want to go with it.
+
+77
+00:02:57,940 --> 00:03:00,000
+A lot of times people
+will enter a game team
+
+78
+00:03:00,000 --> 00:03:00,550
+A lot of times people
+will enter a game team
+
+79
+00:03:00,550 --> 00:03:02,400
+as a programmer, an
+artist, or whatever,
+
+80
+00:03:02,400 --> 00:03:04,320
+but their real aspiration
+is to be a designer.
+
+81
+00:03:04,320 --> 00:03:06,340
+You know, that's where
+they really want to go.
+
+82
+00:03:06,340 --> 00:03:08,470
+And so if you could help
+nurture that and help them
+
+83
+00:03:08,470 --> 00:03:10,750
+down that path,
+you know, one day
+
+84
+00:03:10,750 --> 00:03:13,000
+you might end up with a
+great designer alongside you,
+
+85
+00:03:13,000 --> 00:03:13,920
+or competing with you.
+
+86
+00:03:13,920 --> 00:03:21,980
+ 
+
+87
+00:03:21,980 --> 00:03:24,100
+What I usually think when
+I hear the word document,
+
+88
+00:03:24,100 --> 00:03:25,810
+I think of something
+that you write down.
+
+89
+00:03:25,810 --> 00:03:28,850
+And then you print it out and
+give everybody a copy of it.
+
+90
+00:03:28,850 --> 00:03:30,000
+You know, what I think is
+typically much more useful
+
+91
+00:03:30,000 --> 00:03:31,270
+You know, what I think is
+typically much more useful
+
+92
+00:03:31,270 --> 00:03:33,730
+in game development is
+something like a Wiki,
+
+93
+00:03:33,730 --> 00:03:36,070
+you know, where it's
+changing all the time
+
+94
+00:03:36,070 --> 00:03:37,820
+to show the current thinking.
+
+95
+00:03:37,820 --> 00:03:39,820
+Because I think, you know,
+even a game design is
+
+96
+00:03:39,820 --> 00:03:42,820
+going to be changing, you know,
+if not daily, at least weekly.
+
+97
+00:03:42,820 --> 00:03:45,530
+Aspects of your game design are
+always going to be changing.
+
+98
+00:03:45,530 --> 00:03:46,930
+And you don't want to
+have everyone on your team
+
+99
+00:03:46,930 --> 00:03:49,640
+have to come back to you and
+say, what's the plan this week?
+
+100
+00:03:49,640 --> 00:03:51,760
+But as you're making these
+incremental or iterative
+
+101
+00:03:51,760 --> 00:03:54,040
+changes, you're
+updating it on the Wiki,
+
+102
+00:03:54,040 --> 00:03:56,220
+you know, pretty consistently,
+everybody can always
+
+103
+00:03:56,220 --> 00:03:58,510
+go back there and find out,
+OK, what's the current plan
+
+104
+00:03:58,510 --> 00:04:00,000
+for our animation system?
+
+105
+00:04:00,000 --> 00:04:00,130
+for our animation system?
+
+106
+00:04:00,130 --> 00:04:02,360
+Or this or that?
+
+107
+00:04:02,360 --> 00:04:04,970
+And we found that to
+be pretty effective.
+
+108
+00:04:04,970 --> 00:04:07,540
+You know, just in terms of
+time management and all that.
+
+109
+00:04:07,540 --> 00:04:09,640
+One thing I noticed, you know,
+when I started doing games,
+
+110
+00:04:09,640 --> 00:04:10,930
+I was doing almost everything.
+
+111
+00:04:10,930 --> 00:04:14,170
+I was writing the manual, doing
+the art, sound, and all that.
+
+112
+00:04:14,170 --> 00:04:16,180
+Then I started working
+in small teams, you know,
+
+113
+00:04:16,180 --> 00:04:17,339
+four or five people.
+
+114
+00:04:17,339 --> 00:04:19,899
+Eventually it was
+like 10, 20 people.
+
+115
+00:04:19,899 --> 00:04:22,390
+When I was-- the team was
+around 10 or 20 people,
+
+116
+00:04:22,390 --> 00:04:24,640
+I found that we would spend
+about three hours actually
+
+117
+00:04:24,640 --> 00:04:29,380
+doing work for every hour we
+spent in meetings together.
+
+118
+00:04:29,380 --> 00:04:30,000
+As I started working on
+larger and larger teams, up
+
+119
+00:04:30,000 --> 00:04:32,050
+As I started working on
+larger and larger teams, up
+
+120
+00:04:32,050 --> 00:04:35,770
+toward 80 people, 90,
+100, it was the inverse.
+
+121
+00:04:35,770 --> 00:04:38,530
+We were spending actually three
+hours in meetings for every one
+
+122
+00:04:38,530 --> 00:04:41,080
+hour we spent at our
+desk working, you know.
+
+123
+00:04:41,080 --> 00:04:45,710
+And that is, you know,
+obviously top heavy.
+
+124
+00:04:45,710 --> 00:04:47,670
+And, you know, you're
+wasting way too much time
+
+125
+00:04:47,670 --> 00:04:48,860
+on communication there.
+
+126
+00:04:48,860 --> 00:04:50,320
+But now we have
+more and more tools
+
+127
+00:04:50,320 --> 00:04:53,340
+coming online that allow us to
+collaborate more effectively
+
+128
+00:04:53,340 --> 00:04:54,300
+with a lot less effort.
+
+129
+00:04:54,300 --> 00:04:55,870
+We don't all have
+to sit in a room
+
+130
+00:04:55,870 --> 00:04:57,910
+at the same time for an
+hour, having a meeting
+
+131
+00:04:57,910 --> 00:04:59,540
+about something all the time.
+
+132
+00:04:59,540 --> 00:05:00,000
+You know, we can
+actually eliminate
+
+133
+00:05:00,000 --> 00:05:01,000
+You know, we can
+actually eliminate
+
+134
+00:05:01,000 --> 00:05:01,970
+most of those meetings.
+
+135
+00:05:01,970 --> 00:05:03,400
+So these documents
+really, I think
+
+136
+00:05:03,400 --> 00:05:07,450
+it's more a matter of
+group memory, you know.
+
+137
+00:05:07,450 --> 00:05:10,330
+And that's what a Wiki, for
+me, kind of is like, you know,
+
+138
+00:05:10,330 --> 00:05:12,820
+me and two other designers
+decided we're going to do this.
+
+139
+00:05:12,820 --> 00:05:13,920
+We put it on the Wiki.
+
+140
+00:05:13,920 --> 00:05:15,980
+If, you know, somebody wants
+to find out what we're doing,
+
+141
+00:05:15,980 --> 00:05:16,550
+they look at that.
+
+142
+00:05:16,550 --> 00:05:18,290
+Or if they have an issue with
+that, then they look at it,
+
+143
+00:05:18,290 --> 00:05:19,270
+and they come to us
+and say, hey, there's
+
+144
+00:05:19,270 --> 00:05:20,980
+a problem with what you decided.
+
+145
+00:05:20,980 --> 00:05:22,390
+Then we kind of revisit it.
+
+146
+00:05:22,390 --> 00:05:24,560
+But you kind of wait for
+these things to happen.
+
+147
+00:05:24,560 --> 00:05:26,290
+And you basically
+try to get everybody
+
+148
+00:05:26,290 --> 00:05:30,000
+on the team to respect
+that mode of communication.
+
+149
+00:05:30,000 --> 00:05:30,330
+on the team to respect
+that mode of communication.
+
+150
+00:05:30,330 --> 00:05:37,900
+ 
+
+151
+00:05:37,900 --> 00:05:40,500
+Well, criticism actually
+it depends a lot
+
+152
+00:05:40,500 --> 00:05:41,630
+kind of on your background.
+
+153
+00:05:41,630 --> 00:05:43,690
+You know, we find the
+artists on our team
+
+154
+00:05:43,690 --> 00:05:45,640
+are very familiar with
+the idea of criticism,
+
+155
+00:05:45,640 --> 00:05:47,200
+because they go through art
+critiques in art school,
+
+156
+00:05:47,200 --> 00:05:47,810
+and stuff like that.
+
+157
+00:05:47,810 --> 00:05:49,270
+You know, they're very
+comfortable with that idea.
+
+158
+00:05:49,270 --> 00:05:50,020
+Programmers are not.
+
+159
+00:05:50,020 --> 00:05:52,140
+Programmers hate other
+people looking at their code
+
+160
+00:05:52,140 --> 00:05:53,680
+and criticizing it.
+
+161
+00:05:53,680 --> 00:05:58,540
+You know, designers tend to be
+somewhere in between really.
+
+162
+00:05:58,540 --> 00:06:00,000
+But I'd much rather feel
+like an idea was tested
+
+163
+00:06:00,000 --> 00:06:02,980
+But I'd much rather feel
+like an idea was tested
+
+164
+00:06:02,980 --> 00:06:05,910
+against criticism
+and survived it,
+
+165
+00:06:05,910 --> 00:06:09,670
+then feel like it sailed
+through unchallenged.
+
+166
+00:06:09,670 --> 00:06:12,180
+And if somebody comes to me
+with a criticism of my design,
+
+167
+00:06:12,180 --> 00:06:14,720
+you know, at first I will try
+to, you know, just kind of say,
+
+168
+00:06:14,720 --> 00:06:16,890
+OK, well, I'm glad that
+you're at least speaking up.
+
+169
+00:06:16,890 --> 00:06:18,460
+And I might disagree.
+
+170
+00:06:18,460 --> 00:06:20,470
+But, you know, in
+the back of my head
+
+171
+00:06:20,470 --> 00:06:21,970
+it might just sit
+there for a while.
+
+172
+00:06:21,970 --> 00:06:22,930
+Sit there for a while.
+
+173
+00:06:22,930 --> 00:06:24,430
+You know, everybody
+is going to have
+
+174
+00:06:24,430 --> 00:06:26,180
+an initial kind of
+defensive reaction,
+
+175
+00:06:26,180 --> 00:06:27,370
+I think, to criticism.
+
+176
+00:06:27,370 --> 00:06:29,330
+And if you can just kind
+of take a deep breath,
+
+177
+00:06:29,330 --> 00:06:30,000
+get past that defensive
+reaction, even to yourself,
+
+178
+00:06:30,000 --> 00:06:31,510
+get past that defensive
+reaction, even to yourself,
+
+179
+00:06:31,510 --> 00:06:33,830
+and imagine, OK, well, what
+if that is a good idea?
+
+180
+00:06:33,830 --> 00:06:36,100
+You know, let me just
+try to blank my mind,
+
+181
+00:06:36,100 --> 00:06:38,950
+live in a different world
+where that's a great idea,
+
+182
+00:06:38,950 --> 00:06:40,630
+and imagine it that way.
+
+183
+00:06:40,630 --> 00:06:44,370
+If somebody comes to me
+with creative criticism,
+
+184
+00:06:44,370 --> 00:06:47,860
+you know, real
+constructive criticism,
+
+185
+00:06:47,860 --> 00:06:51,160
+and I really eventually
+do think it's a good idea,
+
+186
+00:06:51,160 --> 00:06:52,430
+or they sell me on it--
+
+187
+00:06:52,430 --> 00:06:54,490
+and that's a big process
+and a big part of it,
+
+188
+00:06:54,490 --> 00:06:56,080
+is when somebody's
+criticizing it,
+
+189
+00:06:56,080 --> 00:06:57,780
+can they present an alternative?
+
+190
+00:06:57,780 --> 00:07:00,000
+You know, it's not OK
+to just say, that's bad.
+
+191
+00:07:00,000 --> 00:07:00,520
+You know, it's not OK
+to just say, that's bad.
+
+192
+00:07:00,520 --> 00:07:01,630
+I don't like that.
+
+193
+00:07:01,630 --> 00:07:04,650
+But if they say, I think this
+would be better than that.
+
+194
+00:07:04,650 --> 00:07:07,300
+And they could really sell me
+that this is better than that.
+
+195
+00:07:07,300 --> 00:07:09,220
+Or maybe even sell other
+members of the team.
+
+196
+00:07:09,220 --> 00:07:10,750
+You know, so maybe
+I don't agree.
+
+197
+00:07:10,750 --> 00:07:12,560
+But maybe the other
+designers start
+
+198
+00:07:12,560 --> 00:07:15,400
+saying, hey, I think that
+is maybe a better idea.
+
+199
+00:07:15,400 --> 00:07:17,390
+And I'm trying to sell
+my idea against that.
+
+200
+00:07:17,390 --> 00:07:19,390
+You know, now it's in
+a Darwinian process.
+
+201
+00:07:19,390 --> 00:07:22,500
+And I think that's, you know,
+a place I would like it to be.
+
+202
+00:07:22,500 --> 00:07:25,120
+You know, you don't
+want an idea that
+
+203
+00:07:25,120 --> 00:07:27,550
+is getting through
+nepotism, or favoritism,
+
+204
+00:07:27,550 --> 00:07:29,020
+or, you know, Will said it.
+
+205
+00:07:29,020 --> 00:07:30,000
+So it has to be.
+
+206
+00:07:30,000 --> 00:07:31,090
+So it has to be.
+
+207
+00:07:31,090 --> 00:07:32,920
+But if you feel like
+your idea went out
+
+208
+00:07:32,920 --> 00:07:36,700
+there in the thunderdome,
+and battled the other ideas,
+
+209
+00:07:36,700 --> 00:07:41,260
+and came out the victor, then
+I think that's a nice way
+
+210
+00:07:41,260 --> 00:07:41,890
+to approach it.
+
+211
+00:07:41,890 --> 00:07:43,930
+As long as you just don't
+end up with a bloodbath
+
+212
+00:07:43,930 --> 00:07:45,220
+of ideas fighting forever.
+
+213
+00:07:45,220 --> 00:07:46,680
+You know, at some
+point you do have
+
+214
+00:07:46,680 --> 00:07:49,660
+to kind of make a decision,
+move forward with some path.
+
+215
+00:07:49,660 --> 00:07:52,300
+But you want the whole team to
+feel good about that path too.
+
+216
+00:07:52,300 --> 00:07:53,710
+You don't want it to feel
+like, everybody on the team
+
+217
+00:07:53,710 --> 00:07:56,020
+thought we should do this,
+but the designer said that.
+
+218
+00:07:56,020 --> 00:08:00,000
+ 
+
+219
+00:08:00,000 --> 00:08:03,640
+ 
+
+220
+00:08:03,640 --> 00:08:07,940
+In any type of
+collaborative endeavor,
+
+221
+00:08:07,940 --> 00:08:11,780
+you want somebody who is not
+going to be too dogmatic.
+
+222
+00:08:11,780 --> 00:08:14,210
+But at the same time,
+is going to have
+
+223
+00:08:14,210 --> 00:08:16,510
+a very clear, strong voice
+for what they believe.
+
+224
+00:08:16,510 --> 00:08:18,680
+And it's going to be pretty--
+they need to be pretty
+
+225
+00:08:18,680 --> 00:08:20,060
+clear about what they believe.
+
+226
+00:08:20,060 --> 00:08:22,310
+You know, not just that they
+say, everything is great,
+
+227
+00:08:22,310 --> 00:08:23,360
+or I love all that.
+
+228
+00:08:23,360 --> 00:08:25,190
+Or that if they really
+don't like something,
+
+229
+00:08:25,190 --> 00:08:27,230
+they just get quiet
+and don't say anything.
+
+230
+00:08:27,230 --> 00:08:28,910
+I would rather them--
+even if I think
+
+231
+00:08:28,910 --> 00:08:30,000
+they're wrong I
+would much rather
+
+232
+00:08:30,000 --> 00:08:30,290
+they're wrong I
+would much rather
+
+233
+00:08:30,290 --> 00:08:32,970
+them speak up and clearly
+say what they think.
+
+234
+00:08:32,970 --> 00:08:34,640
+That's the thing that
+I think is missing
+
+235
+00:08:34,640 --> 00:08:36,490
+kind of the most on
+the teams I've built
+
+236
+00:08:36,490 --> 00:08:39,280
+is enough constructive
+criticism.
+
+237
+00:08:39,280 --> 00:08:40,860
+You don't want people
+just saying, OK,
+
+238
+00:08:40,860 --> 00:08:42,559
+we'll do whatever you
+say, and go do it.
+
+239
+00:08:42,559 --> 00:08:44,810
+You know, I would love to
+have people push back on me,
+
+240
+00:08:44,810 --> 00:08:46,300
+and do things like that.
+
+241
+00:08:46,300 --> 00:08:47,470
+And not just on the design.
+
+242
+00:08:47,470 --> 00:08:50,210
+You know, also just on the
+team dynamics, and everything.
+
+243
+00:08:50,210 --> 00:08:53,200
+My art director I worked with
+for many years, just quickly,
+
+244
+00:08:53,200 --> 00:08:55,840
+he became what we called the
+canary, in that, you know,
+
+245
+00:08:55,840 --> 00:08:57,960
+we would have these big
+team meetings all the time.
+
+246
+00:08:57,960 --> 00:08:59,480
+And at some point the
+meeting would just kind of
+
+247
+00:08:59,480 --> 00:09:00,000
+drag on and on.
+
+248
+00:09:00,000 --> 00:09:00,440
+drag on and on.
+
+249
+00:09:00,440 --> 00:09:01,940
+And there would
+always be some point
+
+250
+00:09:01,940 --> 00:09:03,620
+in the meeting in which
+Ocean would put up his hand.
+
+251
+00:09:03,620 --> 00:09:04,290
+Can I leave now?
+
+252
+00:09:04,290 --> 00:09:05,410
+Can I leave now?
+
+253
+00:09:05,410 --> 00:09:08,030
+And that basically we knew that
+the meeting had hit diminishing
+
+254
+00:09:08,030 --> 00:09:09,290
+returns at that point.
+
+255
+00:09:09,290 --> 00:09:11,450
+Whenever Ocean left,
+it was like the canary
+
+256
+00:09:11,450 --> 00:09:13,800
+died in the coal mine.
+
+257
+00:09:13,800 --> 00:09:16,220
+But actually, it turned out
+to be a very valuable dynamic.
+
+258
+00:09:16,220 --> 00:09:17,640
+As soon as Ocean
+left the meeting,
+
+259
+00:09:17,640 --> 00:09:18,860
+everybody, oh, Ocean left.
+
+260
+00:09:18,860 --> 00:09:19,370
+All right.
+
+261
+00:09:19,370 --> 00:09:21,420
+We're wasting our time here.
+
+262
+00:09:21,420 --> 00:09:23,020
+And we'd usually
+stop the meeting.
+

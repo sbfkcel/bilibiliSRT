@@ -1,0 +1,1935 @@
+1
+00:00:00,000 --> 00:00:04,300
+[MUSIC PLAYING]
+
+2
+00:00:04,300 --> 00:00:10,210
+ 
+
+3
+00:00:10,210 --> 00:00:10,710
+{}
+
+4
+00:00:10,710 --> 00:00:13,410
+WILL WRIGHT: There are
+tools, or mechanisms,
+
+5
+00:00:13,410 --> 00:00:16,320
+or patterns of
+interaction that you can
+
+6
+00:00:16,320 --> 00:00:18,270
+use that you have the player--
+
+7
+00:00:18,270 --> 00:00:21,240
+this kind of creativity,
+this kind of affordance,
+
+8
+00:00:21,240 --> 00:00:22,170
+this kind of agency.
+
+9
+00:00:22,170 --> 00:00:24,380
+Underneath the hood, you
+know, the game is actually--
+
+10
+00:00:24,380 --> 00:00:25,140
+[BABY CRIES]
+
+11
+00:00:25,140 --> 00:00:27,330
+--doing some causal
+connection between when
+
+12
+00:00:27,330 --> 00:00:29,850
+the player does
+that, this happens,
+
+13
+00:00:29,850 --> 00:00:30,000
+or here's the limitation.
+
+14
+00:00:30,000 --> 00:00:32,100
+or here's the limitation.
+
+15
+00:00:32,100 --> 00:00:34,980
+And it really kind of comes down
+to an affordance or an action
+
+16
+00:00:34,980 --> 00:00:36,900
+that the player is
+allowed in a game
+
+17
+00:00:36,900 --> 00:00:39,270
+and how the game
+response to that action,
+
+18
+00:00:39,270 --> 00:00:42,470
+and it kind of defines
+what the challenge is.
+
+19
+00:00:42,470 --> 00:00:44,850
+If it's a locked door,
+what is the puzzle, or what
+
+20
+00:00:44,850 --> 00:00:48,630
+are the items needed
+to unlock that door?
+
+21
+00:00:48,630 --> 00:00:50,670
+If it's an exploration
+thing, what path
+
+22
+00:00:50,670 --> 00:00:53,970
+do you have to take through
+this maze to get to the exit?
+
+23
+00:00:53,970 --> 00:00:55,920
+If it's a resource
+allocation thing,
+
+24
+00:00:55,920 --> 00:00:58,200
+it's what are the
+basic resources?
+
+25
+00:00:58,200 --> 00:00:59,250
+How they being consumed?
+
+26
+00:00:59,250 --> 00:01:00,000
+How are they being earned?
+
+27
+00:01:00,000 --> 00:01:00,360
+How are they being earned?
+
+28
+00:01:00,360 --> 00:01:02,780
+Each one of these is kind of
+what we call a game mechanic.
+
+29
+00:01:02,780 --> 00:01:07,200
+They're like little closed
+system of somehow interaction,
+
+30
+00:01:07,200 --> 00:01:10,980
+balance, economy that
+you can connect together
+
+31
+00:01:10,980 --> 00:01:13,680
+to make a larger
+interactive experience.
+
+32
+00:01:13,680 --> 00:01:20,920
+ 
+
+33
+00:01:20,920 --> 00:01:23,090
+Mechanic is some kind
+of process going on
+
+34
+00:01:23,090 --> 00:01:26,730
+between the player and the game
+that you might attach metrics
+
+35
+00:01:26,730 --> 00:01:27,230
+to you.
+
+36
+00:01:27,230 --> 00:01:30,000
+Might attach a leaderboard
+or scoring system to that.
+
+37
+00:01:30,000 --> 00:01:31,260
+Might attach a leaderboard
+or scoring system to that.
+
+38
+00:01:31,260 --> 00:01:34,430
+But once you have that,
+that process going on,
+
+39
+00:01:34,430 --> 00:01:35,990
+you can now use
+that process either
+
+40
+00:01:35,990 --> 00:01:38,630
+to moderate the
+player's progress.
+
+41
+00:01:38,630 --> 00:01:42,820
+You can use that process to,
+you know, add difficulty.
+
+42
+00:01:42,820 --> 00:01:44,780
+You can use that process
+to make the world more
+
+43
+00:01:44,780 --> 00:01:48,450
+interesting, more mysterious,
+more kind of tangible.
+
+44
+00:01:48,450 --> 00:01:49,820
+You know, there
+are a lot of ways
+
+45
+00:01:49,820 --> 00:01:51,920
+to use these kind of
+what I'd call, like,
+
+46
+00:01:51,920 --> 00:01:55,100
+micro processes to build up
+that larger process of here's
+
+47
+00:01:55,100 --> 00:01:57,410
+what it feels like
+to be in that world.
+
+48
+00:01:57,410 --> 00:02:00,000
+In some sense, I think,
+of this as the dynamics.
+
+49
+00:02:00,000 --> 00:02:00,320
+In some sense, I think,
+of this as the dynamics.
+
+50
+00:02:00,320 --> 00:02:02,360
+You know, as a player's
+doing things in the game,
+
+51
+00:02:02,360 --> 00:02:04,330
+how is that game
+responding to the player?
+
+52
+00:02:04,330 --> 00:02:06,500
+You know, what is the
+conversation that the player's
+
+53
+00:02:06,500 --> 00:02:09,410
+having with the game system?
+
+54
+00:02:09,410 --> 00:02:14,510
+And each one of these mechanics
+is kind of one type of phrase,
+
+55
+00:02:14,510 --> 00:02:16,820
+or interaction,
+or you know, word
+
+56
+00:02:16,820 --> 00:02:19,580
+the player can kind of
+express within that system
+
+57
+00:02:19,580 --> 00:02:22,430
+against the game, and the game
+will respond in certain ways,
+
+58
+00:02:22,430 --> 00:02:23,870
+and the player's
+kind of learning
+
+59
+00:02:23,870 --> 00:02:26,630
+to kind of converse
+with the game system
+
+60
+00:02:26,630 --> 00:02:27,950
+through these mechanics.
+
+61
+00:02:27,950 --> 00:02:30,000
+[MUSIC PLAYING]
+
+62
+00:02:30,000 --> 00:02:34,670
+[MUSIC PLAYING]
+
+63
+00:02:34,670 --> 00:02:36,540
+When we talk about
+game mechanics,
+
+64
+00:02:36,540 --> 00:02:40,260
+you know, again, to
+me these are parts.
+
+65
+00:02:40,260 --> 00:02:43,270
+OK, and you know, it
+can be a part that's
+
+66
+00:02:43,270 --> 00:02:45,110
+been used many,
+many times, or it
+
+67
+00:02:45,110 --> 00:02:46,570
+can be a brand new
+part that you've
+
+68
+00:02:46,570 --> 00:02:49,880
+invented all on your own.
+
+69
+00:02:49,880 --> 00:02:51,970
+And to me, you know,
+what really matters
+
+70
+00:02:51,970 --> 00:02:54,830
+is the whole that's
+built out of these parts.
+
+71
+00:02:54,830 --> 00:02:58,930
+You know, so I might
+have, let's say, you know,
+
+72
+00:02:58,930 --> 00:03:00,000
+a fuel injection unit, and an
+engine, and a differential,
+
+73
+00:03:00,000 --> 00:03:03,250
+a fuel injection unit, and an
+engine, and a differential,
+
+74
+00:03:03,250 --> 00:03:05,650
+and wheels, and I start
+putting these together
+
+75
+00:03:05,650 --> 00:03:07,360
+to make some kind of a car.
+
+76
+00:03:07,360 --> 00:03:09,790
+And maybe I decide I want
+a flux converter, you know,
+
+77
+00:03:09,790 --> 00:03:11,460
+and I'm going to
+invent a flux converter
+
+78
+00:03:11,460 --> 00:03:12,700
+and stick it in there.
+
+79
+00:03:12,700 --> 00:03:15,430
+That's great, you know,
+but what really matters
+
+80
+00:03:15,430 --> 00:03:16,740
+is the entire car, you know.
+
+81
+00:03:16,740 --> 00:03:19,680
+How is that car going
+to drive or not?
+
+82
+00:03:19,680 --> 00:03:21,220
+You know, with the
+existing mechanics
+
+83
+00:03:21,220 --> 00:03:23,520
+that we have right
+now, obviously we
+
+84
+00:03:23,520 --> 00:03:25,690
+can build, you know, a huge
+number of different kind
+
+85
+00:03:25,690 --> 00:03:29,240
+of interactive experiences, but
+every now and then, you know,
+
+86
+00:03:29,240 --> 00:03:30,000
+you might want that
+flux converter.
+
+87
+00:03:30,000 --> 00:03:30,700
+you might want that
+flux converter.
+
+88
+00:03:30,700 --> 00:03:32,770
+You might want some
+brand new thing.
+
+89
+00:03:32,770 --> 00:03:34,990
+I don't think it's that
+you just kind of come up
+
+90
+00:03:34,990 --> 00:03:37,490
+with a cool mechanic and
+say, how do I use it?
+
+91
+00:03:37,490 --> 00:03:40,720
+I think it's more like, here's
+an interactive experience
+
+92
+00:03:40,720 --> 00:03:42,430
+that I want to create.
+
+93
+00:03:42,430 --> 00:03:44,230
+Now, what do I
+need to create it?
+
+94
+00:03:44,230 --> 00:03:45,820
+And if it turns
+out that, you know,
+
+95
+00:03:45,820 --> 00:03:47,270
+there's something
+brand new, you know,
+
+96
+00:03:47,270 --> 00:03:49,770
+there's basically something you
+need in this that you cannot
+
+97
+00:03:49,770 --> 00:03:53,260
+figure out an existing mechanic
+that will provide that,
+
+98
+00:03:53,260 --> 00:03:54,970
+that's when you go
+off and make your own.
+
+99
+00:03:54,970 --> 00:03:58,940
+I am very happy to go off
+and make my own mechanics
+
+100
+00:03:58,940 --> 00:04:00,000
+if I need to.
+
+101
+00:04:00,000 --> 00:04:00,270
+if I need to.
+
+102
+00:04:00,270 --> 00:04:01,690
+I don't even really
+think about it
+
+103
+00:04:01,690 --> 00:04:04,510
+so much in terms of, you know,
+this is a new mechanic or not.
+
+104
+00:04:04,510 --> 00:04:06,790
+It's more like, this is the
+right mechanic, you know?
+
+105
+00:04:06,790 --> 00:04:08,950
+Whether it was invented
+by me or somebody else,
+
+106
+00:04:08,950 --> 00:04:10,990
+you know, I just, I think
+there's always kind of,
+
+107
+00:04:10,990 --> 00:04:13,840
+like, the right part to fill
+in that gap in your design.
+
+108
+00:04:13,840 --> 00:04:21,360
+[MUSIC PLAYING]
+
+109
+00:04:21,360 --> 00:04:22,780
+If we talk about
+rules for a game,
+
+110
+00:04:22,780 --> 00:04:26,410
+I think that they are almost,
+like, two kinds of rules.
+
+111
+00:04:26,410 --> 00:04:28,450
+You know, there are
+the really overt rules
+
+112
+00:04:28,450 --> 00:04:30,000
+that you want to inform
+the player about.
+
+113
+00:04:30,000 --> 00:04:30,560
+that you want to inform
+the player about.
+
+114
+00:04:30,560 --> 00:04:33,270
+You know, you need to escape
+the dungeon, or you know,
+
+115
+00:04:33,270 --> 00:04:35,020
+this is a torch, you
+know, whatever it is,
+
+116
+00:04:35,020 --> 00:04:36,490
+you know, certain things you're
+very clear with the player
+
+117
+00:04:36,490 --> 00:04:36,940
+about.
+
+118
+00:04:36,940 --> 00:04:38,210
+Right off the bat,
+you're going to say, OK,
+
+119
+00:04:38,210 --> 00:04:40,540
+to control your character,
+you use the [INAUDIBLE] keys,
+
+120
+00:04:40,540 --> 00:04:41,470
+or this, or that.
+
+121
+00:04:41,470 --> 00:04:43,510
+So again, some something
+you're very overt about.
+
+122
+00:04:43,510 --> 00:04:45,470
+And other things that
+they discover-- you know,
+
+123
+00:04:45,470 --> 00:04:47,800
+a trend that started
+10, 15 years ago
+
+124
+00:04:47,800 --> 00:04:50,140
+is that part of the
+gameplay, the early gameplay,
+
+125
+00:04:50,140 --> 00:04:52,930
+is the tutorial, and
+you encounter objects,
+
+126
+00:04:52,930 --> 00:04:56,120
+you know, as part of directed
+gameplay early on, and the game
+
+127
+00:04:56,120 --> 00:04:58,660
+itself is kind of teaching you
+how to use a sword in "Zelda,"
+
+128
+00:04:58,660 --> 00:05:00,000
+how to do this, how to do
+that, how to cast a spell.
+
+129
+00:05:00,000 --> 00:05:01,110
+how to do this, how to do
+that, how to cast a spell.
+
+130
+00:05:01,110 --> 00:05:02,850
+But then there are
+a lot of other ones
+
+131
+00:05:02,850 --> 00:05:04,600
+that you want to hide
+from the player that
+
+132
+00:05:04,600 --> 00:05:06,610
+are under the hood,
+that become mysterious.
+
+133
+00:05:06,610 --> 00:05:08,530
+And in a lot of ways,
+you want your game world
+
+134
+00:05:08,530 --> 00:05:11,910
+to be kind of a black
+box at some level.
+
+135
+00:05:11,910 --> 00:05:14,530
+And this is actually, it kind of
+gets to the idea of immersion,
+
+136
+00:05:14,530 --> 00:05:16,720
+that a lot of times somebody
+will look at a system--
+
+137
+00:05:16,720 --> 00:05:18,760
+when people look at the
+simulation in "Sim City,"
+
+138
+00:05:18,760 --> 00:05:22,540
+they start imagining, you
+know, this ungodly collection
+
+139
+00:05:22,540 --> 00:05:24,940
+of mathematics and things
+calculating this incredibly
+
+140
+00:05:24,940 --> 00:05:26,000
+complicated city.
+
+141
+00:05:26,000 --> 00:05:27,710
+In fact, it's far,
+far simpler than that.
+
+142
+00:05:27,710 --> 00:05:30,000
+You know, in fact, we found a
+fairly nice emergent system,
+
+143
+00:05:30,000 --> 00:05:30,220
+You know, in fact, we found a
+fairly nice emergent system,
+
+144
+00:05:30,220 --> 00:05:32,050
+so it was a fairly
+simple set of rules
+
+145
+00:05:32,050 --> 00:05:35,440
+that kind of emerged into
+the complexity of a city
+
+146
+00:05:35,440 --> 00:05:37,030
+simulation.
+
+147
+00:05:37,030 --> 00:05:38,890
+If players, you know,
+saw under the hood,
+
+148
+00:05:38,890 --> 00:05:40,470
+in some sense it
+would kind of destroy
+
+149
+00:05:40,470 --> 00:05:42,280
+a lot of the illusion
+of complexity
+
+150
+00:05:42,280 --> 00:05:44,500
+there, the illusion of life.
+
+151
+00:05:44,500 --> 00:05:46,060
+It's very similar
+to the same reason
+
+152
+00:05:46,060 --> 00:05:48,000
+why we didn't have
+the Sims speak,
+
+153
+00:05:48,000 --> 00:05:50,870
+you know, in a known language
+because as soon as they started
+
+154
+00:05:50,870 --> 00:05:52,540
+repeating the same
+things over and over,
+
+155
+00:05:52,540 --> 00:05:54,550
+they would seem incredibly
+simple and robotic.
+
+156
+00:05:54,550 --> 00:05:56,260
+But when you can't
+quite understand them,
+
+157
+00:05:56,260 --> 00:05:58,660
+you tend to read in a lot more.
+
+158
+00:05:58,660 --> 00:06:00,000
+There was this thing that we
+started calling "the simulator
+
+159
+00:06:00,000 --> 00:06:01,120
+There was this thing that we
+started calling "the simulator
+
+160
+00:06:01,120 --> 00:06:04,090
+effect" after watching
+the first, you know,
+
+161
+00:06:04,090 --> 00:06:06,570
+kind of batch of players
+playing "Sim City" a lot,
+
+162
+00:06:06,570 --> 00:06:08,200
+and then some of our
+later games that--
+
+163
+00:06:08,200 --> 00:06:10,120
+They would write letters to
+us, Oh, I love this game,
+
+164
+00:06:10,120 --> 00:06:11,020
+and they would
+describe stuff that
+
+165
+00:06:11,020 --> 00:06:12,120
+happened to them in
+the game in letters
+
+166
+00:06:12,120 --> 00:06:13,540
+they were writing to us.
+
+167
+00:06:13,540 --> 00:06:15,990
+And they would describe, you
+know, things like, you know,
+
+168
+00:06:15,990 --> 00:06:17,920
+the airplane crashed over here,
+and it hit the power line,
+
+169
+00:06:17,920 --> 00:06:20,710
+and it caused a surge there, and
+then this thing caught on fire.
+
+170
+00:06:20,710 --> 00:06:23,050
+And they would describe
+all these causal linkages
+
+171
+00:06:23,050 --> 00:06:24,720
+that did not exist in the game.
+
+172
+00:06:24,720 --> 00:06:26,330
+You know, I knew
+they did not exist,
+
+173
+00:06:26,330 --> 00:06:27,790
+but in the player's
+head, they did.
+
+174
+00:06:27,790 --> 00:06:30,000
+You know, nothing about the game
+dissuaded them from the fact,
+
+175
+00:06:30,000 --> 00:06:31,780
+You know, nothing about the game
+dissuaded them from the fact,
+
+176
+00:06:31,780 --> 00:06:34,060
+and so they were building
+up their own models
+
+177
+00:06:34,060 --> 00:06:35,860
+of the way this
+simulator was working,
+
+178
+00:06:35,860 --> 00:06:39,170
+you know, that were very
+elaborate and interesting.
+
+179
+00:06:39,170 --> 00:06:40,590
+And that's when I
+kind of realized
+
+180
+00:06:40,590 --> 00:06:42,710
+that there's certain parts
+of a simulator like that
+
+181
+00:06:42,710 --> 00:06:44,460
+that you want to
+keep a black box.
+
+182
+00:06:44,460 --> 00:06:47,050
+You know, the players,
+you know, can actually
+
+183
+00:06:47,050 --> 00:06:51,370
+imagine their own simulation
+usually far more interesting
+
+184
+00:06:51,370 --> 00:06:53,710
+than yours, you know, as
+long as you present them
+
+185
+00:06:53,710 --> 00:06:57,480
+with enough scaffolding to
+build that in their imagination.
+
+186
+00:06:57,480 --> 00:06:59,980
+And so we ended up calling that
+"the simulator effect," that
+
+187
+00:06:59,980 --> 00:07:00,000
+when players are
+imagining that your,
+
+188
+00:07:00,000 --> 00:07:01,690
+when players are
+imagining that your,
+
+189
+00:07:01,690 --> 00:07:05,410
+your world or your simulation is
+more detailed, more rich, more
+
+190
+00:07:05,410 --> 00:07:09,350
+complicated than it actually
+is, don't talk them out of it.
+
+191
+00:07:09,350 --> 00:07:12,160
+And so, you know, part
+of exploring the world
+
+192
+00:07:12,160 --> 00:07:16,100
+is, in fact, kind of uncovering
+these loops of complexity
+
+193
+00:07:16,100 --> 00:07:19,490
+in these rules, and so part of
+learning the rules of the game
+
+194
+00:07:19,490 --> 00:07:21,160
+are actually embedded
+in the game, which
+
+195
+00:07:21,160 --> 00:07:22,210
+is actually very natural
+
+196
+00:07:22,210 --> 00:07:29,250
+[MUSIC PLAYING]
+
+197
+00:07:29,250 --> 00:07:30,000
+There's this thing
+called the Monte Carlo
+
+198
+00:07:30,000 --> 00:07:30,960
+There's this thing
+called the Monte Carlo
+
+199
+00:07:30,960 --> 00:07:34,440
+method, which is
+using chance basically
+
+200
+00:07:34,440 --> 00:07:35,820
+in the place of calculus.
+
+201
+00:07:35,820 --> 00:07:37,920
+You know, a lot of things
+that would be simulated
+
+202
+00:07:37,920 --> 00:07:39,480
+in the natural
+world, you know, we
+
+203
+00:07:39,480 --> 00:07:43,110
+have established mathematics,
+which is linear calculus.
+
+204
+00:07:43,110 --> 00:07:45,120
+But it turns out that
+for most of these things
+
+205
+00:07:45,120 --> 00:07:47,700
+with a computer, there's a whole
+other approach that basically
+
+206
+00:07:47,700 --> 00:07:50,100
+can solve the same set of
+problems, which is basically
+
+207
+00:07:50,100 --> 00:07:52,290
+throwing darts at a
+dartboard, and you
+
+208
+00:07:52,290 --> 00:07:55,590
+have shapes on that dartboard
+that are about, you know,
+
+209
+00:07:55,590 --> 00:07:56,290
+the right area.
+
+210
+00:07:56,290 --> 00:07:57,660
+I'm going to go
+to the whiteboard
+
+211
+00:07:57,660 --> 00:08:00,000
+to kind of give you a simple
+little illustration of this.
+
+212
+00:08:00,000 --> 00:08:00,030
+to kind of give you a simple
+little illustration of this.
+
+213
+00:08:00,030 --> 00:08:05,370
+ 
+
+214
+00:08:05,370 --> 00:08:06,870
+And just to keep
+it very simple, you
+
+215
+00:08:06,870 --> 00:08:10,540
+know, let's assume
+that we have some area
+
+216
+00:08:10,540 --> 00:08:12,500
+and that we have within
+that area some regions.
+
+217
+00:08:12,500 --> 00:08:14,080
+You know, and maybe
+this is the amount
+
+218
+00:08:14,080 --> 00:08:17,130
+of area developed, you know,
+in "Sim City," or the areas
+
+219
+00:08:17,130 --> 00:08:19,470
+with police coverage,
+whatever it is.
+
+220
+00:08:19,470 --> 00:08:21,840
+Now, normally if you
+wanted to measure
+
+221
+00:08:21,840 --> 00:08:25,470
+what percentage of
+this entire area
+
+222
+00:08:25,470 --> 00:08:28,470
+is occupied by these
+blobs, you know,
+
+223
+00:08:28,470 --> 00:08:30,000
+there's some very
+elaborate mathematics kind
+
+224
+00:08:30,000 --> 00:08:30,450
+there's some very
+elaborate mathematics kind
+
+225
+00:08:30,450 --> 00:08:31,900
+of going down the
+calculus path that you
+
+226
+00:08:31,900 --> 00:08:33,490
+would use to measure
+that and give you
+
+227
+00:08:33,490 --> 00:08:34,600
+a pretty accurate answer.
+
+228
+00:08:34,600 --> 00:08:36,200
+But if you have a
+computer, you know,
+
+229
+00:08:36,200 --> 00:08:37,690
+and computers are
+very fast and good
+
+230
+00:08:37,690 --> 00:08:39,570
+at just doing simple
+things repetitively,
+
+231
+00:08:39,570 --> 00:08:41,169
+it turns out there's a
+much simpler technique,
+
+232
+00:08:41,169 --> 00:08:43,200
+and they call this the
+Monte Carlo method, which
+
+233
+00:08:43,200 --> 00:08:45,900
+is that we just sit here, and
+we just randomly throw darts
+
+234
+00:08:45,900 --> 00:08:47,410
+at this board.
+
+235
+00:08:47,410 --> 00:08:52,980
+You know, and then we just count
+over time how many of the darts
+
+236
+00:08:52,980 --> 00:08:56,760
+land inside of these areas,
+and how many land outside.
+
+237
+00:08:56,760 --> 00:08:59,290
+And you know, you throw a
+few hundred darts at there,
+
+238
+00:08:59,290 --> 00:09:00,000
+you know, and it turns
+out that, you know,
+
+239
+00:09:00,000 --> 00:09:01,040
+you know, and it turns
+out that, you know,
+
+240
+00:09:01,040 --> 00:09:05,550
+let's say out of 100 darts,
+you know, 67 land outside
+
+241
+00:09:05,550 --> 00:09:11,130
+of these zones, and let's
+say 33 land inside the zones.
+
+242
+00:09:11,130 --> 00:09:12,300
+That's the basic percentage.
+
+243
+00:09:12,300 --> 00:09:15,090
+You basically-- that's
+33% of the area of that.
+
+244
+00:09:15,090 --> 00:09:18,720
+This is the kind of, you know,
+simple mathematics, you know,
+
+245
+00:09:18,720 --> 00:09:20,700
+that we use a lot
+in simulations.
+
+246
+00:09:20,700 --> 00:09:22,980
+And so this, in fact,
+is relying very much
+
+247
+00:09:22,980 --> 00:09:27,030
+on these probabilities,
+and it's the way
+
+248
+00:09:27,030 --> 00:09:29,370
+a lot of the emergence
+that we get out of some
+
+249
+00:09:29,370 --> 00:09:30,000
+of these systems works as well.
+
+250
+00:09:30,000 --> 00:09:31,510
+of these systems works as well.
+
+251
+00:09:31,510 --> 00:09:32,970
+So from the design
+point of view,
+
+252
+00:09:32,970 --> 00:09:36,000
+it's amazing how you can build
+super simple things like that
+
+253
+00:09:36,000 --> 00:09:38,940
+in place of what used to be very
+kind of elaborate mathematics.
+
+254
+00:09:38,940 --> 00:09:46,660
+[MUSIC PLAYING]
+
+255
+00:09:46,660 --> 00:09:48,990
+There's another kind of chance,
+though, that I encounter
+
+256
+00:09:48,990 --> 00:09:51,570
+as a designer, which
+is that a lot of times
+
+257
+00:09:51,570 --> 00:09:54,780
+I'll be making something,
+doing prototypes, whatever,
+
+258
+00:09:54,780 --> 00:09:57,660
+and something just
+pops up unexpectedly.
+
+259
+00:09:57,660 --> 00:09:59,880
+You know, either we made a,
+put a bug in the program,
+
+260
+00:09:59,880 --> 00:10:00,000
+or it's not behaving
+the way I thought,
+
+261
+00:10:00,000 --> 00:10:01,860
+or it's not behaving
+the way I thought,
+
+262
+00:10:01,860 --> 00:10:05,340
+or something happens
+that surprises me.
+
+263
+00:10:05,340 --> 00:10:09,390
+And through pure chance, I might
+trip over some new mechanic,
+
+264
+00:10:09,390 --> 00:10:10,230
+or some new feature.
+
+265
+00:10:10,230 --> 00:10:12,590
+Or that reminds me of this;
+let's try that, you know.
+
+266
+00:10:12,590 --> 00:10:13,800
+And this is like serendipity.
+
+267
+00:10:13,800 --> 00:10:16,050
+This is me, you know, kind
+of accidentally discovering
+
+268
+00:10:16,050 --> 00:10:18,870
+something very cool, you
+know, either in prototyping,
+
+269
+00:10:18,870 --> 00:10:20,670
+or testing, or
+just even on paper
+
+270
+00:10:20,670 --> 00:10:22,800
+as I'm kind of thinking
+through a design that
+
+271
+00:10:22,800 --> 00:10:25,010
+causes me to go off in a
+totally different direction,
+
+272
+00:10:25,010 --> 00:10:27,180
+you know, tangent to where
+I was going initially.
+
+273
+00:10:27,180 --> 00:10:29,370
+Now, this is often the
+designer's point of view, you
+
+274
+00:10:29,370 --> 00:10:30,000
+how, kind of how you use
+probability to your advantage.
+
+275
+00:10:30,000 --> 00:10:32,970
+how, kind of how you use
+probability to your advantage.
+
+276
+00:10:32,970 --> 00:10:35,020
+You know, from the
+player's point of view,
+
+277
+00:10:35,020 --> 00:10:37,530
+you know, again, there'll
+be a lot of things happening
+
+278
+00:10:37,530 --> 00:10:39,240
+in your game that
+might be purely random,
+
+279
+00:10:39,240 --> 00:10:41,030
+you know, and you know
+that they're random.
+
+280
+00:10:41,030 --> 00:10:43,710
+The players are always going to
+be trying to assign causality
+
+281
+00:10:43,710 --> 00:10:44,310
+to something.
+
+282
+00:10:44,310 --> 00:10:46,200
+You know, if all of a
+sudden that torch goes out,
+
+283
+00:10:46,200 --> 00:10:48,120
+or there's a sound over there,
+the player in their head
+
+284
+00:10:48,120 --> 00:10:49,870
+is going to be
+building some model of,
+
+285
+00:10:49,870 --> 00:10:51,060
+what caused that to happen?
+
+286
+00:10:51,060 --> 00:10:52,050
+Was it something I did?
+
+287
+00:10:52,050 --> 00:10:53,550
+Is it some something
+that caters it,
+
+288
+00:10:53,550 --> 00:10:55,170
+foreshadowing of some event?
+
+289
+00:10:55,170 --> 00:10:57,750
+And I think that
+you actually want
+
+290
+00:10:57,750 --> 00:10:59,130
+kind of a balance
+there a little,
+
+291
+00:10:59,130 --> 00:11:00,000
+you know, kind of
+[INAUDIBLE] noise
+
+292
+00:11:00,000 --> 00:11:01,050
+you know, kind of
+[INAUDIBLE] noise
+
+293
+00:11:01,050 --> 00:11:04,030
+so that there's some stuff
+happening in the world that,
+
+294
+00:11:04,030 --> 00:11:05,820
+again, remains kind of
+a black box to them,
+
+295
+00:11:05,820 --> 00:11:07,610
+whether, you know, from
+their point of view
+
+296
+00:11:07,610 --> 00:11:10,830
+it's random chance, or it's
+some elaborate, deep, you know,
+
+297
+00:11:10,830 --> 00:11:14,420
+behavior of your, you know,
+your world the player is going
+
+298
+00:11:14,420 --> 00:11:16,420
+to assume it's some deep
+behavior of your world,
+
+299
+00:11:16,420 --> 00:11:17,450
+I think, in most cases.
+
+300
+00:11:17,450 --> 00:11:19,530
+But if it's something that
+the player did, and you
+
+301
+00:11:19,530 --> 00:11:21,720
+want clear feedback that
+the player did this,
+
+302
+00:11:21,720 --> 00:11:23,910
+and the door
+unlocked, that's when
+
+303
+00:11:23,910 --> 00:11:26,370
+you have to make sure you're
+getting above that, that noise
+
+304
+00:11:26,370 --> 00:11:28,330
+level, and it's totally
+signaled to the player.
+
+305
+00:11:28,330 --> 00:11:30,000
+And so you need to make sure
+that the feedback you're
+
+306
+00:11:30,000 --> 00:11:30,540
+And so you need to make sure
+that the feedback you're
+
+307
+00:11:30,540 --> 00:11:32,250
+giving to the player
+is signal and not
+
+308
+00:11:32,250 --> 00:11:35,760
+noise against this kind
+of random world churning.
+
+309
+00:11:35,760 --> 00:11:43,030
+[MUSIC PLAYING]
+
+310
+00:11:43,030 --> 00:11:47,750
+Well, because my games don't
+have an overt in-state,
+
+311
+00:11:47,750 --> 00:11:49,250
+you know, I don't
+think it really
+
+312
+00:11:49,250 --> 00:11:51,860
+changes the nature
+of wanting to present
+
+313
+00:11:51,860 --> 00:11:55,440
+an interesting, challenging
+kind of creative world.
+
+314
+00:11:55,440 --> 00:11:57,020
+I don't think that--
+you know, I think
+
+315
+00:11:57,020 --> 00:11:58,520
+that's kind of
+almost, worldbuilding
+
+316
+00:11:58,520 --> 00:12:00,000
+is almost a different
+kind of level to that.
+
+317
+00:12:00,000 --> 00:12:02,250
+is almost a different
+kind of level to that.
+
+318
+00:12:02,250 --> 00:12:04,510
+The chance and probability--
+
+319
+00:12:04,510 --> 00:12:06,890
+for a player, you know, again,
+it can depend on the game.
+
+320
+00:12:06,890 --> 00:12:08,510
+If, you know, you're
+playing Casino games,
+
+321
+00:12:08,510 --> 00:12:09,930
+you know, you're
+kind of expecting
+
+322
+00:12:09,930 --> 00:12:12,630
+these things to be based
+around chance and probability.
+
+323
+00:12:12,630 --> 00:12:14,960
+If you're playing something
+like a first-person shooter,
+
+324
+00:12:14,960 --> 00:12:17,790
+you're kind of imagining that,
+you know, if I aim at that guy,
+
+325
+00:12:17,790 --> 00:12:18,910
+it's going to hit that guy.
+
+326
+00:12:18,910 --> 00:12:21,560
+You know, I don't want a
+chance of having a dud bullet,
+
+327
+00:12:21,560 --> 00:12:23,870
+or my bullet, you know,
+going off target just
+
+328
+00:12:23,870 --> 00:12:25,050
+through random chance.
+
+329
+00:12:25,050 --> 00:12:27,320
+So I want my actions
+to be clearly,
+
+330
+00:12:27,320 --> 00:12:30,000
+you know, kind of almost
+deterministic in that sense.
+
+331
+00:12:30,000 --> 00:12:30,290
+you know, kind of almost
+deterministic in that sense.
+
+332
+00:12:30,290 --> 00:12:31,790
+So I think it depends
+on the feature
+
+333
+00:12:31,790 --> 00:12:33,710
+of your world as to what
+you're talking about.
+
+334
+00:12:33,710 --> 00:12:35,780
+If it's something like
+"Sim City," and, you know,
+
+335
+00:12:35,780 --> 00:12:37,470
+when does a fire occur?
+
+336
+00:12:37,470 --> 00:12:40,110
+You know, that actually is a
+little bit of a combination.
+
+337
+00:12:40,110 --> 00:12:41,530
+It's a combination
+of, how much am
+
+338
+00:12:41,530 --> 00:12:42,930
+I done with my fire services?
+
+339
+00:12:42,930 --> 00:12:44,060
+But there's still a chance.
+
+340
+00:12:44,060 --> 00:12:47,240
+It's changing the probability
+of a fire actually happening.
+
+341
+00:12:47,240 --> 00:12:49,970
+It could still happen even
+if I have good fire coverage,
+
+342
+00:12:49,970 --> 00:12:51,890
+but the chance is lower.
+
+343
+00:12:51,890 --> 00:12:54,560
+And you know, for
+the player, you know,
+
+344
+00:12:54,560 --> 00:12:57,530
+that's kind of the expectation
+coming into a world like that,
+
+345
+00:12:57,530 --> 00:12:59,030
+and so really, I
+think at that point
+
+346
+00:12:59,030 --> 00:13:00,000
+you're really kind
+of falling back into,
+
+347
+00:13:00,000 --> 00:13:00,170
+you're really kind
+of falling back into,
+
+348
+00:13:00,170 --> 00:13:02,150
+what feels like an
+expectation of the player?
+
+349
+00:13:02,150 --> 00:13:04,150
+You don't want the world
+to feel like, you know,
+
+350
+00:13:04,150 --> 00:13:06,610
+arbitrary things are happening
+for absolutely no reason.
+
+351
+00:13:06,610 --> 00:13:08,690
+You know, so even when a
+fire occurs in "Sim City"
+
+352
+00:13:08,690 --> 00:13:10,460
+when there's a low
+probability, the player
+
+353
+00:13:10,460 --> 00:13:11,580
+can imagine that occurring.
+
+354
+00:13:11,580 --> 00:13:14,040
+You know, it's not an
+unimaginable situation.
+
+355
+00:13:14,040 --> 00:13:15,500
+What you really
+don't want to do is
+
+356
+00:13:15,500 --> 00:13:17,660
+you don't want the
+game to feel capricious
+
+357
+00:13:17,660 --> 00:13:20,040
+in terms of killing the
+player for no obvious reason.
+
+358
+00:13:20,040 --> 00:13:23,730
+You know, that, you know,
+is really a major no-no.
+
+359
+00:13:23,730 --> 00:13:26,420
+The player always wants to feel
+like their success or failure
+
+360
+00:13:26,420 --> 00:13:27,810
+is coming back to their agency.
+
+361
+00:13:27,810 --> 00:13:28,910
+You know, it's
+their fault. They're
+
+362
+00:13:28,910 --> 00:13:30,000
+the ones responsible
+for their own fate.
+
+363
+00:13:30,000 --> 00:13:30,580
+the ones responsible
+for their own fate.
+
+364
+00:13:30,580 --> 00:13:38,550
+[MUSIC PLAYING]
+
+365
+00:13:38,550 --> 00:13:40,430
+Depending on the kind
+of game you're doing,
+
+366
+00:13:40,430 --> 00:13:43,100
+you know, it does put the player
+into a certain kind of mindset,
+
+367
+00:13:43,100 --> 00:13:45,000
+and they build a
+certain kind of model,
+
+368
+00:13:45,000 --> 00:13:48,180
+whether it's like a first-person
+kind of game with exploration
+
+369
+00:13:48,180 --> 00:13:51,300
+and combat, or it's a
+third-person game with resource
+
+370
+00:13:51,300 --> 00:13:55,110
+management, you know,
+they all, at some level,
+
+371
+00:13:55,110 --> 00:13:57,990
+share a set of features, share,
+you know, certain amounts
+
+372
+00:13:57,990 --> 00:14:00,000
+of player agency.
+
+373
+00:14:00,000 --> 00:14:00,060
+of player agency.
+
+374
+00:14:00,060 --> 00:14:01,530
+They share world dynamics.
+
+375
+00:14:01,530 --> 00:14:04,140
+You know, so that's the level
+at which these things are all
+
+376
+00:14:04,140 --> 00:14:05,970
+pretty common across there.
+
+377
+00:14:05,970 --> 00:14:08,160
+But you know, I
+think there are so
+
+378
+00:14:08,160 --> 00:14:11,760
+many game mechanics that have
+been used and so many more yet
+
+379
+00:14:11,760 --> 00:14:13,330
+to be discovered.
+
+380
+00:14:13,330 --> 00:14:15,480
+I think the designer
+will develop an intuition
+
+381
+00:14:15,480 --> 00:14:17,030
+for which one of
+these things they
+
+382
+00:14:17,030 --> 00:14:18,790
+want to put into
+their palette of tools
+
+383
+00:14:18,790 --> 00:14:21,120
+and which ones they want to
+become a master at because I
+
+384
+00:14:21,120 --> 00:14:23,430
+think that certain game
+designers, you know,
+
+385
+00:14:23,430 --> 00:14:24,900
+get very specialized
+and very good,
+
+386
+00:14:24,900 --> 00:14:26,730
+you know, within certain
+kind of mechanics,
+
+387
+00:14:26,730 --> 00:14:29,390
+using certain parts
+to build their games.
+
+388
+00:14:29,390 --> 00:14:30,000
+And over time, you know, you'll
+start expanding that palette.
+
+389
+00:14:30,000 --> 00:14:31,930
+And over time, you know, you'll
+start expanding that palette.
+
+390
+00:14:31,930 --> 00:14:32,670
+You'll start trying other ones.
+
+391
+00:14:32,670 --> 00:14:34,470
+You'll play other games, games
+that you would not normally
+
+392
+00:14:34,470 --> 00:14:36,420
+play, and just to kind
+of get a sense of what
+
+393
+00:14:36,420 --> 00:14:37,500
+those mechanics feel like.
+
+394
+00:14:37,500 --> 00:14:39,200
+Is that a tool that
+I could use, a part
+
+395
+00:14:39,200 --> 00:14:40,680
+that I can use next time
+I build, you know, one
+
+396
+00:14:40,680 --> 00:14:41,850
+of my game engines?
+
+397
+00:14:41,850 --> 00:14:44,550
+I think for most designers,
+you know, get familiar.
+
+398
+00:14:44,550 --> 00:14:47,070
+Get some mastery
+and skill at, you
+
+399
+00:14:47,070 --> 00:14:49,100
+know, using a certain
+kind of mechanics.
+
+400
+00:14:49,100 --> 00:14:51,420
+At the same time, always
+be looking at new ones
+
+401
+00:14:51,420 --> 00:14:53,090
+and trying to imagine,
+you know, could I
+

@@ -1,0 +1,2029 @@
+1
+00:00:00,000 --> 00:00:02,480
+[MUSIC PLAYING]
+
+2
+00:00:02,480 --> 00:00:08,710
+ 
+
+3
+00:00:08,710 --> 00:00:10,250
+WILL WRIGHT: More
+than anything else,
+
+4
+00:00:10,250 --> 00:00:12,830
+I've found the psychology to be
+the really tricky, challenging
+
+5
+00:00:12,830 --> 00:00:13,700
+part of game design.
+
+6
+00:00:13,700 --> 00:00:15,860
+The technology is
+advancing every year.
+
+7
+00:00:15,860 --> 00:00:17,960
+What we can do on
+modern computers
+
+8
+00:00:17,960 --> 00:00:20,170
+makes me as a designer
+feel almost unlimited.
+
+9
+00:00:20,170 --> 00:00:23,220
+You can do amazing things
+on these electronics.
+
+10
+00:00:23,220 --> 00:00:26,360
+Player psychology though,
+human brains are not advancing.
+
+11
+00:00:26,360 --> 00:00:29,060
+They're the same as they have
+been a hundred years ago.
+
+12
+00:00:29,060 --> 00:00:30,000
+We have to learn how it works.
+
+13
+00:00:30,000 --> 00:00:30,710
+We have to learn how it works.
+
+14
+00:00:30,710 --> 00:00:32,689
+What are the inner
+workings of that computer
+
+15
+00:00:32,689 --> 00:00:37,010
+and how can we exploit it
+and use it to our advantage?
+
+16
+00:00:37,010 --> 00:00:39,550
+There's actually a great book,
+I think it's out of print now,
+
+17
+00:00:39,550 --> 00:00:41,180
+it's called "Maps of the Mind".
+
+18
+00:00:41,180 --> 00:00:44,330
+Each page was kind of
+a visual representation
+
+19
+00:00:44,330 --> 00:00:46,790
+of one psychological theory.
+
+20
+00:00:46,790 --> 00:00:51,320
+It might be Maslow's
+Pyramid or Freud and the Id.
+
+21
+00:00:51,320 --> 00:00:53,210
+Each one of them was
+a different way, a bit
+
+22
+00:00:53,210 --> 00:00:56,120
+different perspective, on the
+human mind and human psychology
+
+23
+00:00:56,120 --> 00:00:58,220
+and the way it worked.
+
+24
+00:00:58,220 --> 00:01:00,000
+Each one is kind of a tool
+and has its particular purpose
+
+25
+00:01:00,000 --> 00:01:01,610
+Each one is kind of a tool
+and has its particular purpose
+
+26
+00:01:01,610 --> 00:01:03,670
+and works well in certain
+situations and not well
+
+27
+00:01:03,670 --> 00:01:04,800
+in others.
+
+28
+00:01:04,800 --> 00:01:07,290
+None of them are really
+the right approach
+
+29
+00:01:07,290 --> 00:01:10,500
+that I'm going to
+religiously adhere to.
+
+30
+00:01:10,500 --> 00:01:12,170
+But each one contains
+something valuable
+
+31
+00:01:12,170 --> 00:01:14,150
+that might be of use
+to me in the future.
+
+32
+00:01:14,150 --> 00:01:16,940
+Maslow's Pyramid turned out
+to be very useful for The Sims
+
+33
+00:01:16,940 --> 00:01:19,470
+for instance.
+
+34
+00:01:19,470 --> 00:01:24,440
+[VIDEO GAME AUDIO]
+
+35
+00:01:24,440 --> 00:01:30,000
+ 
+
+36
+00:01:30,000 --> 00:02:00,000
+ 
+
+37
+00:02:00,000 --> 00:02:30,000
+ 
+
+38
+00:02:30,000 --> 00:02:30,620
+ 
+
+39
+00:02:30,620 --> 00:02:32,200
+The vary base core
+of The Sims had
+
+40
+00:02:32,200 --> 00:02:35,290
+to do with feeding the
+motives of The Sims--
+
+41
+00:02:35,290 --> 00:02:39,250
+hunger, entertainment,
+sleep, all those things.
+
+42
+00:02:39,250 --> 00:02:41,650
+We started building very,
+very simple little prototypes
+
+43
+00:02:41,650 --> 00:02:43,450
+that was just a set of
+sliders and buttons.
+
+44
+00:02:43,450 --> 00:02:47,320
+I could press a button for
+food, sleep, entertainment,
+
+45
+00:02:47,320 --> 00:02:51,130
+and basically trying to
+balance these little sliders.
+
+46
+00:02:51,130 --> 00:02:53,890
+At some point, we decided one
+of the major goals in The Sims
+
+47
+00:02:53,890 --> 00:02:56,220
+would be to have them actually
+go to work and earn money
+
+48
+00:02:56,220 --> 00:02:59,800
+so you can go out and buy
+more junk for your house.
+
+49
+00:02:59,800 --> 00:03:00,000
+Now, we basically had a reason
+to get all these sliders up
+
+50
+00:03:00,000 --> 00:03:02,680
+Now, we basically had a reason
+to get all these sliders up
+
+51
+00:03:02,680 --> 00:03:05,140
+to some state that they go
+to work in a good state.
+
+52
+00:03:05,140 --> 00:03:07,340
+The better their state is,
+the more money they earn.
+
+53
+00:03:07,340 --> 00:03:09,700
+So we're connecting
+these base motives
+
+54
+00:03:09,700 --> 00:03:13,630
+to the larger aspirations,
+which is exactly what Maslow's
+
+55
+00:03:13,630 --> 00:03:14,740
+Pyramid was all about.
+
+56
+00:03:14,740 --> 00:03:23,410
+ 
+
+57
+00:03:23,410 --> 00:03:25,200
+The game designer is
+really kind of playing
+
+58
+00:03:25,200 --> 00:03:26,610
+with the player's psychology.
+
+59
+00:03:26,610 --> 00:03:29,400
+By giving them certain
+freedoms, certain limitations,
+
+60
+00:03:29,400 --> 00:03:30,000
+certain goals
+states, you're trying
+
+61
+00:03:30,000 --> 00:03:32,040
+certain goals
+states, you're trying
+
+62
+00:03:32,040 --> 00:03:34,740
+to get them into a
+certain motivation
+
+63
+00:03:34,740 --> 00:03:37,200
+within this little world
+that you've crafted
+
+64
+00:03:37,200 --> 00:03:41,580
+and make them want
+to do things or want
+
+65
+00:03:41,580 --> 00:03:43,560
+to avoid things happening.
+
+66
+00:03:43,560 --> 00:03:46,270
+You basically want to set up
+this structure in their head
+
+67
+00:03:46,270 --> 00:03:49,470
+that they're motivated to
+do this and avoid that.
+
+68
+00:03:49,470 --> 00:03:51,240
+But you want to have
+an environment where
+
+69
+00:03:51,240 --> 00:03:54,600
+they start feeling strong
+motivations for their actions.
+
+70
+00:03:54,600 --> 00:03:58,980
+And then, now it's up
+to them to start testing
+
+71
+00:03:58,980 --> 00:04:00,000
+their model against your model.
+
+72
+00:04:00,000 --> 00:04:00,660
+their model against your model.
+
+73
+00:04:00,660 --> 00:04:03,360
+They start building that
+mental model against your game.
+
+74
+00:04:03,360 --> 00:04:06,360
+I think it was PT Barnum
+that said something like,
+
+75
+00:04:06,360 --> 00:04:11,200
+no entrepreneur ever went broke
+overestimating the intelligence
+
+76
+00:04:11,200 --> 00:04:13,430
+of the American public.
+
+77
+00:04:13,430 --> 00:04:15,600
+Kind of my version of that
+is, no game designer ever
+
+78
+00:04:15,600 --> 00:04:20,250
+went wrong by overestimating
+the narcissism of their players.
+
+79
+00:04:20,250 --> 00:04:22,170
+And so the more it
+is about the player,
+
+80
+00:04:22,170 --> 00:04:23,590
+the more the player
+is celebrated,
+
+81
+00:04:23,590 --> 00:04:26,510
+the more the player is the
+center of that universe,
+
+82
+00:04:26,510 --> 00:04:27,890
+generally, the
+more they like it.
+
+83
+00:04:27,890 --> 00:04:30,000
+ 
+
+84
+00:04:30,000 --> 00:04:35,240
+ 
+
+85
+00:04:35,240 --> 00:04:41,530
+At the very beginning, one
+of the chief fundamental
+
+86
+00:04:41,530 --> 00:04:43,540
+components of game
+design, one of the skills
+
+87
+00:04:43,540 --> 00:04:46,480
+that you really want to
+master as a game designer,
+
+88
+00:04:46,480 --> 00:04:50,890
+is the ability to build a mental
+model in your player's head.
+
+89
+00:04:50,890 --> 00:04:54,580
+And this is really
+kind of an art form.
+
+90
+00:04:54,580 --> 00:04:56,950
+This is something I've
+learned from magic actually,
+
+91
+00:04:56,950 --> 00:04:59,380
+from magicians, is that when
+a magician is performing
+
+92
+00:04:59,380 --> 00:05:00,000
+a trick, what they're
+actually doing
+
+93
+00:05:00,000 --> 00:05:01,240
+a trick, what they're
+actually doing
+
+94
+00:05:01,240 --> 00:05:03,430
+is they're getting the
+viewers, the audience,
+
+95
+00:05:03,430 --> 00:05:06,520
+to craft a mental model
+of what's going on,
+
+96
+00:05:06,520 --> 00:05:07,900
+but they're getting
+them to craft
+
+97
+00:05:07,900 --> 00:05:10,240
+exactly the wrong mental model.
+
+98
+00:05:10,240 --> 00:05:12,080
+Such that, you think
+this is in my hand,
+
+99
+00:05:12,080 --> 00:05:14,410
+you think this is my hand, I
+pull the handkerchief back,
+
+100
+00:05:14,410 --> 00:05:15,080
+it's not.
+
+101
+00:05:15,080 --> 00:05:17,370
+I've actually, thought a
+lot of different techniques
+
+102
+00:05:17,370 --> 00:05:21,580
+as a magician, got you to build
+an incorrect mental model,
+
+103
+00:05:21,580 --> 00:05:23,050
+and then when I
+do the reveal, you
+
+104
+00:05:23,050 --> 00:05:24,910
+see that hey, my
+mental model was wrong.
+
+105
+00:05:24,910 --> 00:05:26,410
+In fact, what the
+magician was doing
+
+106
+00:05:26,410 --> 00:05:28,680
+was some other
+manipulation over here.
+
+107
+00:05:28,680 --> 00:05:30,000
+And as a game designer,
+we take that kind
+
+108
+00:05:30,000 --> 00:05:31,030
+And as a game designer,
+we take that kind
+
+109
+00:05:31,030 --> 00:05:32,560
+of approach in some ways.
+
+110
+00:05:32,560 --> 00:05:35,140
+We're actually having
+our players interact
+
+111
+00:05:35,140 --> 00:05:38,560
+with little pieces of computer
+memory and code and interface
+
+112
+00:05:38,560 --> 00:05:41,050
+buttons, but in
+their head they're
+
+113
+00:05:41,050 --> 00:05:42,610
+building an entirely
+different model.
+
+114
+00:05:42,610 --> 00:05:46,270
+There's a world that they're
+in with verbs and nouns
+
+115
+00:05:46,270 --> 00:05:49,780
+and affordances and agency
+and actions and possibilities
+
+116
+00:05:49,780 --> 00:05:50,920
+and goal states.
+
+117
+00:05:50,920 --> 00:05:53,650
+That's what we're actually
+building in our player's head.
+
+118
+00:05:53,650 --> 00:05:56,080
+And so in some sense,
+the game designer
+
+119
+00:05:56,080 --> 00:05:59,890
+is a much more elaborate
+magician doing this.
+
+120
+00:05:59,890 --> 00:06:00,000
+ 
+
+121
+00:06:00,000 --> 00:06:07,720
+ 
+
+122
+00:06:07,720 --> 00:06:09,660
+We're modeling
+things all the time.
+
+123
+00:06:09,660 --> 00:06:11,670
+You're modeling other
+people all the time.
+
+124
+00:06:11,670 --> 00:06:14,610
+I'm imagining what my
+friend is thinking about me.
+
+125
+00:06:14,610 --> 00:06:17,010
+I'm imagining what
+they know about me
+
+126
+00:06:17,010 --> 00:06:18,550
+and I try to be
+consistent with that.
+
+127
+00:06:18,550 --> 00:06:20,820
+So I'm not only building
+a model of my friend,
+
+128
+00:06:20,820 --> 00:06:23,680
+but I am building a model
+of their model of me.
+
+129
+00:06:23,680 --> 00:06:24,610
+It's recursive.
+
+130
+00:06:24,610 --> 00:06:26,820
+I can remember
+what they have seen
+
+131
+00:06:26,820 --> 00:06:28,470
+me do, how they've
+see me behave,
+
+132
+00:06:28,470 --> 00:06:30,000
+and I have a very rough sense
+of what their model of me
+
+133
+00:06:30,000 --> 00:06:30,420
+and I have a very rough sense
+of what their model of me
+
+134
+00:06:30,420 --> 00:06:32,140
+is and I try to be
+consistent with that.
+
+135
+00:06:32,140 --> 00:06:35,640
+So this modeling is pretty deep
+and recursive in that sense.
+
+136
+00:06:35,640 --> 00:06:37,470
+You can put any kid in
+front of a video game
+
+137
+00:06:37,470 --> 00:06:39,270
+and right off the bat they
+start mashing buttons, looking
+
+138
+00:06:39,270 --> 00:06:41,490
+at what's happening,
+they observe, and it's
+
+139
+00:06:41,490 --> 00:06:44,250
+very much the scientific
+process where they are doing
+
+140
+00:06:44,250 --> 00:06:47,850
+hypothesis, experiment,
+look at the result,
+
+141
+00:06:47,850 --> 00:06:51,880
+go back refine the hypothesis,
+experiment, look at the result.
+
+142
+00:06:51,880 --> 00:06:53,610
+It's that iterative
+scientific process.
+
+143
+00:06:53,610 --> 00:06:56,910
+And that is basically model
+building of a different sort.
+
+144
+00:06:56,910 --> 00:06:59,430
+Now, in building
+models we take in a lot
+
+145
+00:06:59,430 --> 00:07:00,000
+of data, a lot of examples.
+
+146
+00:07:00,000 --> 00:07:01,020
+of data, a lot of examples.
+
+147
+00:07:01,020 --> 00:07:02,400
+And from that, we
+started looking
+
+148
+00:07:02,400 --> 00:07:06,060
+for patterns in that data and
+things that are different,
+
+149
+00:07:06,060 --> 00:07:08,860
+things that are the same,
+and after that we start
+
+150
+00:07:08,860 --> 00:07:10,320
+building abstractions
+out of that--
+
+151
+00:07:10,320 --> 00:07:12,090
+these what we call schema.
+
+152
+00:07:12,090 --> 00:07:13,530
+And basically,
+these are patterns
+
+153
+00:07:13,530 --> 00:07:14,710
+that we see in the world.
+
+154
+00:07:14,710 --> 00:07:16,170
+Any kid can tell
+you the difference
+
+155
+00:07:16,170 --> 00:07:18,150
+between a dog and a
+cat, and that's a schema
+
+156
+00:07:18,150 --> 00:07:19,360
+that we have internally.
+
+157
+00:07:19,360 --> 00:07:20,910
+And it's really a very
+fine set of features
+
+158
+00:07:20,910 --> 00:07:23,130
+to distinguish the difference
+between a dog and a cat.
+
+159
+00:07:23,130 --> 00:07:24,840
+But it's a schema that
+we have, and so we
+
+160
+00:07:24,840 --> 00:07:26,730
+can look at any new
+dog or cat and say
+
+161
+00:07:26,730 --> 00:07:30,000
+right off the bat it's a dog
+or a cat against our schema.
+
+162
+00:07:30,000 --> 00:07:30,130
+right off the bat it's a dog
+or a cat against our schema.
+
+163
+00:07:30,130 --> 00:07:32,910
+Now, from that we started
+building more elaborate things
+
+164
+00:07:32,910 --> 00:07:33,820
+called models.
+
+165
+00:07:33,820 --> 00:07:35,190
+These schema,
+these patterns, now
+
+166
+00:07:35,190 --> 00:07:38,130
+become the components of the
+models that we're building.
+
+167
+00:07:38,130 --> 00:07:40,320
+And that now influences
+our behavior.
+
+168
+00:07:40,320 --> 00:07:43,930
+We behave against these models,
+basically running scenarios.
+
+169
+00:07:43,930 --> 00:07:45,020
+Should I do this or that?
+
+170
+00:07:45,020 --> 00:07:46,440
+Should I get this
+job or that job?
+
+171
+00:07:46,440 --> 00:07:47,680
+Should I say A or B?
+
+172
+00:07:47,680 --> 00:07:49,050
+And so all of our
+behavior really
+
+173
+00:07:49,050 --> 00:07:52,230
+is based against us playing
+these models in our head
+
+174
+00:07:52,230 --> 00:07:53,970
+about what we should do.
+
+175
+00:07:53,970 --> 00:07:56,550
+Now schema are really
+interesting in that we
+
+176
+00:07:56,550 --> 00:07:58,450
+have schema for some
+different things.
+
+177
+00:07:58,450 --> 00:08:00,000
+For instance, in
+a restaurant, we
+
+178
+00:08:00,000 --> 00:08:00,390
+For instance, in
+a restaurant, we
+
+179
+00:08:00,390 --> 00:08:02,220
+have this rough idea
+of things that happen
+
+180
+00:08:02,220 --> 00:08:04,040
+when we go into a restaurant.
+
+181
+00:08:04,040 --> 00:08:07,200
+Not all these things always
+happen, but in general, that's
+
+182
+00:08:07,200 --> 00:08:08,910
+a pretty good schema
+for what to expect
+
+183
+00:08:08,910 --> 00:08:10,620
+when I walk into a restaurant.
+
+184
+00:08:10,620 --> 00:08:12,660
+Some of the schema that
+we are dealing with.
+
+185
+00:08:12,660 --> 00:08:15,810
+Classification, who are the
+good guys and the bad guys?
+
+186
+00:08:15,810 --> 00:08:19,230
+Causality, if you find a
+pot of gold, you'll be rich.
+
+187
+00:08:19,230 --> 00:08:22,660
+Empathy, if you see a hungry
+dog, you feel bad for it.
+
+188
+00:08:22,660 --> 00:08:26,670
+Agency, if you have control,
+you can command your fate.
+
+189
+00:08:26,670 --> 00:08:29,280
+We have schema for all of
+these different things.
+
+190
+00:08:29,280 --> 00:08:30,000
+And you're controlling
+the player's schema
+
+191
+00:08:30,000 --> 00:08:31,920
+And you're controlling
+the player's schema
+
+192
+00:08:31,920 --> 00:08:34,590
+in some sense as a designer by
+what you present them with, how
+
+193
+00:08:34,590 --> 00:08:36,090
+it operates, how it behaves.
+
+194
+00:08:36,090 --> 00:08:39,090
+When I see five turtles come at
+me in a row and all attack me,
+
+195
+00:08:39,090 --> 00:08:41,460
+I start saying, OK, turtles
+are a bad thing in this game.
+
+196
+00:08:41,460 --> 00:08:43,360
+That's a schema I'm building
+as I play the game, part
+
+197
+00:08:43,360 --> 00:08:44,190
+of a model building.
+
+198
+00:08:44,190 --> 00:08:47,310
+And games, in some sense,
+are generating these worlds
+
+199
+00:08:47,310 --> 00:08:48,690
+from the models.
+
+200
+00:08:48,690 --> 00:08:50,910
+So a game is really almost
+the reverse of science.
+
+201
+00:08:50,910 --> 00:08:53,160
+Science is really taking all
+this data from the world,
+
+202
+00:08:53,160 --> 00:08:56,880
+compressing it down into a
+very concise, small rule set--
+
+203
+00:08:56,880 --> 00:08:57,990
+laws of physics.
+
+204
+00:08:57,990 --> 00:09:00,000
+Games take a very
+concise codebase
+
+205
+00:09:00,000 --> 00:09:00,240
+Games take a very
+concise codebase
+
+206
+00:09:00,240 --> 00:09:02,600
+and try to expand it into a
+wide range of possibilities
+
+207
+00:09:02,600 --> 00:09:04,950
+that the player's going
+to encounter in your game.
+
+208
+00:09:04,950 --> 00:09:07,800
+And then the player is trying
+to reverse engineer that process
+
+209
+00:09:07,800 --> 00:09:09,860
+and now build a concise
+representation of that.
+
+210
+00:09:09,860 --> 00:09:11,610
+So it's really kind
+of interesting the way
+
+211
+00:09:11,610 --> 00:09:13,140
+these models are
+coming and going
+
+212
+00:09:13,140 --> 00:09:15,530
+against the data and the
+operation of the world.
+
+213
+00:09:15,530 --> 00:09:17,160
+But again, these
+mental models are key,
+
+214
+00:09:17,160 --> 00:09:19,140
+I think, for a game
+designer to realize
+
+215
+00:09:19,140 --> 00:09:20,350
+that's what they're building.
+
+216
+00:09:20,350 --> 00:09:27,880
+ 
+
+217
+00:09:27,880 --> 00:09:30,000
+The mental model that we're
+trying to create in the player
+
+218
+00:09:30,000 --> 00:09:30,370
+The mental model that we're
+trying to create in the player
+
+219
+00:09:30,370 --> 00:09:34,410
+is something that may or may not
+have a purpose really for you.
+
+220
+00:09:34,410 --> 00:09:36,400
+I might be building
+a mental model
+
+221
+00:09:36,400 --> 00:09:39,730
+for some player of SimCity
+about how cities work.
+
+222
+00:09:39,730 --> 00:09:41,410
+But I know, as a
+designer of SimCity,
+
+223
+00:09:41,410 --> 00:09:43,280
+that that model is not
+going to be correct.
+
+224
+00:09:43,280 --> 00:09:44,740
+There are things
+about SimCity that
+
+225
+00:09:44,740 --> 00:09:47,410
+do not match the real world.
+
+226
+00:09:47,410 --> 00:09:49,030
+A lot of times,
+games and filmmakers
+
+227
+00:09:49,030 --> 00:09:52,100
+as well will actually
+build a model
+
+228
+00:09:52,100 --> 00:09:53,890
+that they know is
+incorrect, because that's
+
+229
+00:09:53,890 --> 00:09:56,280
+what the players expect.
+
+230
+00:09:56,280 --> 00:09:59,310
+SimCity 2000 I know that if
+the nuclear power plant caught
+
+231
+00:09:59,310 --> 00:10:00,000
+on fire there'd be a giant
+nuclear explosion, which
+
+232
+00:10:00,000 --> 00:10:01,750
+on fire there'd be a giant
+nuclear explosion, which
+
+233
+00:10:01,750 --> 00:10:02,380
+doesn't happen.
+
+234
+00:10:02,380 --> 00:10:04,240
+It doesn't happen that way.
+
+235
+00:10:04,240 --> 00:10:06,010
+There's fallout, but
+no nuclear explosion.
+
+236
+00:10:06,010 --> 00:10:07,440
+But all the players
+expected that.
+
+237
+00:10:07,440 --> 00:10:08,760
+And when it didn't happen they
+were saying, why didn't it
+
+238
+00:10:08,760 --> 00:10:09,790
+blow up?
+
+239
+00:10:09,790 --> 00:10:12,160
+So we made it behave that way.
+
+240
+00:10:12,160 --> 00:10:14,350
+In movies, you see people
+shooting guns all the time
+
+241
+00:10:14,350 --> 00:10:16,180
+and never hitting each
+other, or cars always
+
+242
+00:10:16,180 --> 00:10:17,620
+blow up in the crash.
+
+243
+00:10:17,620 --> 00:10:20,320
+All these things that you're
+building the wrong model
+
+244
+00:10:20,320 --> 00:10:22,420
+in the player's head
+compared to reality,
+
+245
+00:10:22,420 --> 00:10:25,060
+but as an enjoyable experience,
+they kind of expected--
+
+246
+00:10:25,060 --> 00:10:26,620
+why didn't the car blow up?
+
+247
+00:10:26,620 --> 00:10:29,530
+So I'd say that what
+is correct is really
+
+248
+00:10:29,530 --> 00:10:30,000
+the open question here.
+
+249
+00:10:30,000 --> 00:10:30,730
+the open question here.
+
+250
+00:10:30,730 --> 00:10:31,930
+Are you trying to build--
+
+251
+00:10:31,930 --> 00:10:33,300
+if I'm trying to
+build a training
+
+252
+00:10:33,300 --> 00:10:35,470
+simulator for an
+airline pilot, then
+
+253
+00:10:35,470 --> 00:10:37,570
+yes, I want that simulator
+to actually train
+
+254
+00:10:37,570 --> 00:10:40,300
+them to build a model of the
+way that plane really behaves,
+
+255
+00:10:40,300 --> 00:10:42,010
+and that's my target.
+
+256
+00:10:42,010 --> 00:10:44,950
+As an entertainment designer,
+and if I'm designing
+
+257
+00:10:44,950 --> 00:10:46,700
+a city simulator and--
+
+258
+00:10:46,700 --> 00:10:48,160
+most of these
+players are not going
+
+259
+00:10:48,160 --> 00:10:49,420
+to be designing
+a city like this.
+
+260
+00:10:49,420 --> 00:10:51,630
+In fact, real cities are
+not designed with one person
+
+261
+00:10:51,630 --> 00:10:53,030
+as the overlord like that.
+
+262
+00:10:53,030 --> 00:10:54,790
+It's much more political.
+
+263
+00:10:54,790 --> 00:10:58,360
+So I'm not that concerned that
+we take liberties like that.
+
+264
+00:10:58,360 --> 00:11:00,000
+ 
+
+265
+00:11:00,000 --> 00:11:05,800
+ 
+
+266
+00:11:05,800 --> 00:11:08,050
+As an interactive experience,
+we want this whole thing
+
+267
+00:11:08,050 --> 00:11:09,970
+to be centered on the player.
+
+268
+00:11:09,970 --> 00:11:12,790
+And understanding that
+every player is different
+
+269
+00:11:12,790 --> 00:11:13,990
+is kind of key to that.
+
+270
+00:11:13,990 --> 00:11:16,280
+We want every player to be
+able to take their own path,
+
+271
+00:11:16,280 --> 00:11:19,530
+have some freedom,
+agency, within our games.
+
+272
+00:11:19,530 --> 00:11:21,910
+So we need to start thinking
+about how the players see
+
+273
+00:11:21,910 --> 00:11:24,040
+themselves, their identity.
+
+274
+00:11:24,040 --> 00:11:28,380
+Now, everybody wraps a lot of
+things around who they are.
+
+275
+00:11:28,380 --> 00:11:30,000
+When you present
+yourself to other people,
+
+276
+00:11:30,000 --> 00:11:30,130
+When you present
+yourself to other people,
+
+277
+00:11:30,130 --> 00:11:32,320
+depending on the context,
+there's a place we live,
+
+278
+00:11:32,320 --> 00:11:33,480
+your neighbors.
+
+279
+00:11:33,480 --> 00:11:35,500
+I'm from Ohio, whatever it is.
+
+280
+00:11:35,500 --> 00:11:38,220
+Your job, your profession,
+your skill set.
+
+281
+00:11:38,220 --> 00:11:39,760
+Hobbies, things that you do.
+
+282
+00:11:39,760 --> 00:11:43,390
+Or brands, products that you
+maybe have some allegiance to.
+
+283
+00:11:43,390 --> 00:11:46,330
+All these things are
+components of your identity.
+
+284
+00:11:46,330 --> 00:11:49,600
+And when you're interacting
+with other people,
+
+285
+00:11:49,600 --> 00:11:51,790
+these are ways in which
+you mark yourself.
+
+286
+00:11:51,790 --> 00:11:54,160
+You kind of surround
+yourself with these things
+
+287
+00:11:54,160 --> 00:11:57,220
+saying this is part of
+what defines who I am.
+
+288
+00:11:57,220 --> 00:12:00,000
+Now, we actually have a lot
+of very personal aspects
+
+289
+00:12:00,000 --> 00:12:00,970
+Now, we actually have a lot
+of very personal aspects
+
+290
+00:12:00,970 --> 00:12:03,850
+to our identity,
+but also, we have
+
+291
+00:12:03,850 --> 00:12:05,290
+communities that we live in.
+
+292
+00:12:05,290 --> 00:12:07,030
+Sometimes real
+geographic communities,
+
+293
+00:12:07,030 --> 00:12:09,030
+other times online communities.
+
+294
+00:12:09,030 --> 00:12:10,660
+Some of these are
+based upon locations,
+
+295
+00:12:10,660 --> 00:12:13,570
+some are based upon
+interest, profession.
+
+296
+00:12:13,570 --> 00:12:15,880
+And then there's
+the world around us
+
+297
+00:12:15,880 --> 00:12:18,930
+that we all kind of share what's
+going on in the wider world.
+
+298
+00:12:18,930 --> 00:12:21,010
+It's almost like this
+target with successive rings
+
+299
+00:12:21,010 --> 00:12:21,780
+going outward.
+
+300
+00:12:21,780 --> 00:12:23,580
+The innermost ring
+being the most personal,
+
+301
+00:12:23,580 --> 00:12:26,140
+the thing that most
+defines me as most unique.
+
+302
+00:12:26,140 --> 00:12:27,220
+Going to the very general.
+
+303
+00:12:27,220 --> 00:12:29,320
+We all live in the same world.
+
+304
+00:12:29,320 --> 00:12:30,000
+Now, we find that as
+players get into games,
+
+305
+00:12:30,000 --> 00:12:33,880
+Now, we find that as
+players get into games,
+
+306
+00:12:33,880 --> 00:12:36,270
+they kind of all come
+in in the same way.
+
+307
+00:12:36,270 --> 00:12:37,730
+They're all kind
+of casual players.
+
+308
+00:12:37,730 --> 00:12:39,730
+I'm going to check this
+out, see what it's like.
+
+309
+00:12:39,730 --> 00:12:41,100
+Some people really get into it.
+
+310
+00:12:41,100 --> 00:12:42,700
+Other people might play it for
+a little while, put it aside,
+
+311
+00:12:42,700 --> 00:12:44,050
+this game isn't for me.
+
+312
+00:12:44,050 --> 00:12:45,880
+But the players that
+kind of keep going down
+
+313
+00:12:45,880 --> 00:12:50,560
+that path into your
+game have a trajectory,
+
+314
+00:12:50,560 --> 00:12:52,840
+and depending on what
+kind of game it is,
+
+315
+00:12:52,840 --> 00:12:56,200
+they can take different paths
+into that what a lot of times
+
+316
+00:12:56,200 --> 00:12:57,830
+becomes a community.
+
+317
+00:12:57,830 --> 00:12:59,290
+For The Sims, we
+actually had a lot
+
+318
+00:12:59,290 --> 00:13:00,000
+of casual players
+started to turn
+
+319
+00:13:00,000 --> 00:13:01,270
+of casual players
+started to turn
+
+320
+00:13:01,270 --> 00:13:02,560
+into what we called collectors.
+
+321
+00:13:02,560 --> 00:13:03,930
+They would go on
+the web and they
+
+322
+00:13:03,930 --> 00:13:06,400
+found a lot of other people
+had made objects or characters
+
+323
+00:13:06,400 --> 00:13:08,110
+that they could download
+into their game,
+
+324
+00:13:08,110 --> 00:13:10,240
+and so they would start
+collecting specific things.
+
+325
+00:13:10,240 --> 00:13:12,110
+Some people would actually
+kind of specialize
+
+326
+00:13:12,110 --> 00:13:13,060
+their collections.
+
+327
+00:13:13,060 --> 00:13:17,080
+I want to do Wild West
+stuff or Star Wars things
+
+328
+00:13:17,080 --> 00:13:18,550
+or whatever it is.
+
+329
+00:13:18,550 --> 00:13:20,410
+Other people were
+actually the ones
+
+330
+00:13:20,410 --> 00:13:23,440
+starting to build these
+collections on their web sites.
+
+331
+00:13:23,440 --> 00:13:25,900
+And at first they would make
+a few objects, make a website,
+
+332
+00:13:25,900 --> 00:13:26,890
+but then other
+people would start
+
+333
+00:13:26,890 --> 00:13:28,150
+contributing to their website.
+
+334
+00:13:28,150 --> 00:13:30,000
+Some of these websites
+grew very large
+
+335
+00:13:30,000 --> 00:13:30,070
+Some of these websites
+grew very large
+
+336
+00:13:30,070 --> 00:13:31,890
+and even became subscription.
+
+337
+00:13:31,890 --> 00:13:34,530
+People were paying money
+just to download content
+
+338
+00:13:34,530 --> 00:13:36,430
+that other players had created.
+
+339
+00:13:36,430 --> 00:13:39,160
+And the core creators that were
+doing the really cool stuff
+
+340
+00:13:39,160 --> 00:13:41,030
+were the ones kind of
+feeding these websites.
+
+341
+00:13:41,030 --> 00:13:43,420
+So there was kind of an
+ecology that was happening here
+
+342
+00:13:43,420 --> 00:13:46,130
+over time as the player
+got more and more involved,
+
+343
+00:13:46,130 --> 00:13:48,460
+and then it became more and
+more part of their identity.
+
+344
+00:13:48,460 --> 00:13:49,390
+The ones that were
+actually creating
+
+345
+00:13:49,390 --> 00:13:51,310
+this stuff for The Sims,
+this was their hobby.
+
+346
+00:13:51,310 --> 00:13:53,160
+They spent many hours
+doing this stuff.
+
+347
+00:13:53,160 --> 00:13:55,270
+And it was kind of how
+they saw themselves
+
+348
+00:13:55,270 --> 00:13:57,520
+as a creator of
+stuff for this game.
+
+349
+00:13:57,520 --> 00:14:00,000
+In a lot of ways, it's kind
+of like an ecological pyramid,
+
+350
+00:14:00,000 --> 00:14:00,520
+In a lot of ways, it's kind
+of like an ecological pyramid,
+
+351
+00:14:00,520 --> 00:14:03,040
+and the numbers kind of
+decrease as you go up,
+
+352
+00:14:03,040 --> 00:14:05,830
+but there's also a base to
+that pyramid that's supporting
+
+353
+00:14:05,830 --> 00:14:07,640
+the upper people, the creators.
+
+354
+00:14:07,640 --> 00:14:10,810
+The very skilled people
+who are making cool things
+
+355
+00:14:10,810 --> 00:14:14,440
+are supported by this very
+wide base of casual players.
+
+356
+00:14:14,440 --> 00:14:18,360
+There's flow within this
+ecology of recognition.
+
+357
+00:14:18,360 --> 00:14:20,440
+Casual players are saying,
+oh, that person's stuff
+
+358
+00:14:20,440 --> 00:14:22,630
+is the best, or this
+is the coolest website.
+
+359
+00:14:22,630 --> 00:14:25,900
+And that's what was fueling the
+people building these things.
+
+360
+00:14:25,900 --> 00:14:28,630
+They just liked having
+that recognition.
+
+361
+00:14:28,630 --> 00:14:30,000
+That whole thing has
+given rise to very large
+
+362
+00:14:30,000 --> 00:14:32,290
+That whole thing has
+given rise to very large
+
+363
+00:14:32,290 --> 00:14:34,600
+online communities around games.
+
+364
+00:14:34,600 --> 00:14:37,160
+And these communities--
+a lot of times
+
+365
+00:14:37,160 --> 00:14:38,830
+the people involved
+in these communities
+
+366
+00:14:38,830 --> 00:14:40,000
+don't even play
+the game anymore.
+
+367
+00:14:40,000 --> 00:14:41,710
+That's actually kind
+of interesting to me
+
+368
+00:14:41,710 --> 00:14:44,150
+is that the people that were
+doing The Sims for instance,
+
+369
+00:14:44,150 --> 00:14:45,680
+some of them were running
+big websites, creating
+
+370
+00:14:45,680 --> 00:14:47,260
+all this stuff, and
+they hadn't played
+
+371
+00:14:47,260 --> 00:14:49,140
+the game in months or years.
+
+372
+00:14:49,140 --> 00:14:51,460
+But still, these were
+people they knew,
+
+373
+00:14:51,460 --> 00:14:53,920
+they had relationships, they
+had a place in this community,
+
+374
+00:14:53,920 --> 00:14:57,430
+they had recognition,
+they had a reputation.
+
+375
+00:14:57,430 --> 00:15:00,000
+And for a lot of people, these
+games become kind of a hook
+
+376
+00:15:00,000 --> 00:15:01,600
+And for a lot of people, these
+games become kind of a hook
+
+377
+00:15:01,600 --> 00:15:03,970
+into a social network of
+sorts or different types
+
+378
+00:15:03,970 --> 00:15:05,020
+of social networks.
+
+379
+00:15:05,020 --> 00:15:06,490
+And there are other games that
+are more competitive where
+
+380
+00:15:06,490 --> 00:15:08,900
+they're actually playing
+professional sports
+
+381
+00:15:08,900 --> 00:15:11,320
+like in these games and there
+are whole leagues and things
+
+382
+00:15:11,320 --> 00:15:11,820
+like that.
+
+383
+00:15:11,820 --> 00:15:14,200
+So these games, for
+a lot of people,
+
+384
+00:15:14,200 --> 00:15:17,840
+became a doorway into
+these communities,
+
+385
+00:15:17,840 --> 00:15:19,420
+which now becomes a
+very integral part
+
+386
+00:15:19,420 --> 00:15:22,040
+of their identity, which is
+kind of a different thing
+
+387
+00:15:22,040 --> 00:15:24,460
+than having the game just be
+focused on what the player is
+
+388
+00:15:24,460 --> 00:15:25,700
+doing in the game.
+
+389
+00:15:25,700 --> 00:15:28,450
+But now the game is
+kind of part of how
+
+390
+00:15:28,450 --> 00:15:30,000
+they think about themselves
+and how they present themselves
+
+391
+00:15:30,000 --> 00:15:30,910
+they think about themselves
+and how they present themselves
+
+392
+00:15:30,910 --> 00:15:31,450
+to the world.
+
+393
+00:15:31,450 --> 00:15:38,370
+ 
+
+394
+00:15:38,370 --> 00:15:40,890
+I've heard a lot of
+stories from players
+
+395
+00:15:40,890 --> 00:15:43,710
+about how they've taken
+their game experiences
+
+396
+00:15:43,710 --> 00:15:46,650
+and how it's changed their life.
+
+397
+00:15:46,650 --> 00:15:49,920
+For some people, they
+became storytellers.
+
+398
+00:15:49,920 --> 00:15:52,110
+They started making a few
+stories, either Machinima
+
+399
+00:15:52,110 --> 00:15:55,290
+or whatever, uploaded
+it, and a lot of people
+
+400
+00:15:55,290 --> 00:15:57,660
+liked it and loved their style
+and the stories they told.
+
+401
+00:15:57,660 --> 00:15:59,880
+And so it really pushed
+them into creative writing
+
+402
+00:15:59,880 --> 00:16:00,000
+or filmmaking.
+
+403
+00:16:00,000 --> 00:16:00,800
+or filmmaking.
+
+404
+00:16:00,800 --> 00:16:02,880
+I've talked to a lot of
+people who actually played
+
+405
+00:16:02,880 --> 00:16:04,590
+SimCity went into
+civil engineering
+
+406
+00:16:04,590 --> 00:16:07,110
+just because they
+enjoyed dealing
+
+407
+00:16:07,110 --> 00:16:08,670
+with that kind of system.
+
+408
+00:16:08,670 --> 00:16:10,670
+Other people that have
+gone into biology because
+
+409
+00:16:10,670 --> 00:16:12,300
+of SimAnt, things like that.
+
+410
+00:16:12,300 --> 00:16:14,340
+So sometimes it's motivational.
+
+411
+00:16:14,340 --> 00:16:18,090
+And in fact, in education I
+think the fundamental issue
+
+412
+00:16:18,090 --> 00:16:21,630
+we have in education isn't
+so much how we teach kids,
+
+413
+00:16:21,630 --> 00:16:23,370
+but it's how we motivate kids.
+
+414
+00:16:23,370 --> 00:16:25,950
+If you can get a kid
+motivated in a subject,
+
+415
+00:16:25,950 --> 00:16:29,560
+they have plenty of resources
+to go learn it on their own.
+
+416
+00:16:29,560 --> 00:16:30,000
+In fact, I have
+three boys at home,
+
+417
+00:16:30,000 --> 00:16:31,080
+In fact, I have
+three boys at home,
+
+418
+00:16:31,080 --> 00:16:32,580
+and they're learning
+more on YouTube
+
+419
+00:16:32,580 --> 00:16:34,670
+right now than they
+are in school by far.
+
+420
+00:16:34,670 --> 00:16:36,420
+And they're following
+their own interests.
+
+421
+00:16:36,420 --> 00:16:37,560
+Once they get motivated--
+
+422
+00:16:37,560 --> 00:16:39,540
+my 8-year-old wants to
+learn about Minecraft,
+
+423
+00:16:39,540 --> 00:16:41,190
+and he finds these
+Minecraft videos,
+
+424
+00:16:41,190 --> 00:16:44,520
+and he can learn at his own pace
+exactly what wants to learn.
+
+425
+00:16:44,520 --> 00:16:47,250
+So once you can get them
+motivated about something,
+
+426
+00:16:47,250 --> 00:16:50,160
+just get out of
+their way basically.
+

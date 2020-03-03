@@ -1,0 +1,1352 @@
+1
+00:00:00,000 --> 00:00:02,400
+[MUSIC PLAYING]
+
+2
+00:00:02,400 --> 00:00:10,060
+ 
+
+3
+00:00:10,060 --> 00:00:12,820
+WILL WRIGHT: Inside of each
+of us, there's a subconscious.
+
+4
+00:00:12,820 --> 00:00:16,270
+There's a whole region of who
+you are that is, in some sense,
+
+5
+00:00:16,270 --> 00:00:19,950
+inaccessible to you, but
+drives your behavior.
+
+6
+00:00:19,950 --> 00:00:22,000
+The game I'm working
+on now is called Proxi.
+
+7
+00:00:22,000 --> 00:00:25,150
+And my core motivation
+there is, can I
+
+8
+00:00:25,150 --> 00:00:27,730
+build a gameplay experience,
+an entertainment experience,
+
+9
+00:00:27,730 --> 00:00:30,000
+where the computer is actively
+trying to gain a deeper
+
+10
+00:00:30,000 --> 00:00:31,750
+where the computer is actively
+trying to gain a deeper
+
+11
+00:00:31,750 --> 00:00:34,330
+understanding of the player?
+
+12
+00:00:34,330 --> 00:00:36,880
+Primarily through the
+player's past experiences,
+
+13
+00:00:36,880 --> 00:00:39,460
+through their memories,
+can I kind of interpret
+
+14
+00:00:39,460 --> 00:00:42,250
+the memories of your life, the
+most important memories that
+
+15
+00:00:42,250 --> 00:00:45,610
+made you who you
+are, and from that,
+
+16
+00:00:45,610 --> 00:00:48,190
+come to some understanding
+of how you think?
+
+17
+00:00:48,190 --> 00:00:50,980
+What makes you behave
+the way you behave.
+
+18
+00:00:50,980 --> 00:00:53,020
+Why you connect these
+certain things in your mind
+
+19
+00:00:53,020 --> 00:00:55,090
+that most people don't connect.
+
+20
+00:00:55,090 --> 00:00:56,770
+What drives your interests.
+
+21
+00:00:56,770 --> 00:00:58,840
+You know, how much
+can I get a computer
+
+22
+00:00:58,840 --> 00:01:00,000
+to learn that
+about you, and then
+
+23
+00:01:00,000 --> 00:01:00,880
+to learn that
+about you, and then
+
+24
+00:01:00,880 --> 00:01:02,970
+try to build a representational
+avatar of your id,
+
+25
+00:01:02,970 --> 00:01:06,970
+of your subconscious, that
+you can now interact with.
+
+26
+00:01:06,970 --> 00:01:09,460
+And as it learns more
+and more about you,
+
+27
+00:01:09,460 --> 00:01:11,650
+it kind of, in some
+sense, comes to life
+
+28
+00:01:11,650 --> 00:01:14,350
+and can now interact
+with other people's ids
+
+29
+00:01:14,350 --> 00:01:15,910
+kind of asynchronously.
+
+30
+00:01:15,910 --> 00:01:18,280
+It can go off in the world
+and interact with your friends
+
+31
+00:01:18,280 --> 00:01:21,250
+or with, you know,
+real or historic
+
+32
+00:01:21,250 --> 00:01:22,810
+or fictional
+characters, you know?
+
+33
+00:01:22,810 --> 00:01:26,230
+How does your proxy get along
+with Homer Simpson's proxy or,
+
+34
+00:01:26,230 --> 00:01:28,810
+you know, the pope's
+proxy, or Mother Teresa.
+
+35
+00:01:28,810 --> 00:01:30,000
+I want to know, can we
+build a map of that?
+
+36
+00:01:30,000 --> 00:01:31,420
+I want to know, can we
+build a map of that?
+
+37
+00:01:31,420 --> 00:01:32,680
+Can we start to understand it?
+
+38
+00:01:32,680 --> 00:01:35,890
+Can we build, you know,
+a structural description
+
+39
+00:01:35,890 --> 00:01:38,710
+of how this thing works and
+the connections it makes?
+
+40
+00:01:38,710 --> 00:01:40,880
+And what makes you different
+from another person?
+
+41
+00:01:40,880 --> 00:01:43,470
+How is your id different
+than that person's id?
+
+42
+00:01:43,470 --> 00:01:45,220
+How does it make you
+behave in a situation
+
+43
+00:01:45,220 --> 00:01:47,920
+differently than they behave?
+
+44
+00:01:47,920 --> 00:01:50,350
+If we can start getting that
+level of understanding--
+
+45
+00:01:50,350 --> 00:01:53,380
+And we're-- you know, I
+think that analyzing memories
+
+46
+00:01:53,380 --> 00:01:55,180
+and life experience
+is the path there.
+
+47
+00:01:55,180 --> 00:01:56,340
+And I'm not sure about this.
+
+48
+00:01:56,340 --> 00:01:57,790
+This is just kind of my--
+
+49
+00:01:57,790 --> 00:01:58,690
+my theory.
+
+50
+00:01:58,690 --> 00:02:00,000
+But that's kind of what we're
+trying to do with Proxi.
+
+51
+00:02:00,000 --> 00:02:00,940
+But that's kind of what we're
+trying to do with Proxi.
+
+52
+00:02:00,940 --> 00:02:03,370
+[MUSIC PLAYING]
+
+53
+00:02:03,370 --> 00:02:03,800
+ 
+
+54
+00:02:03,800 --> 00:02:06,220
+Today, we're going to walk
+through the process of creating
+
+55
+00:02:06,220 --> 00:02:07,500
+a game prototype.
+
+56
+00:02:07,500 --> 00:02:08,919
+Basically, we're
+always doing this
+
+57
+00:02:08,919 --> 00:02:10,960
+to answer some specific
+question about the design
+
+58
+00:02:10,960 --> 00:02:12,830
+that we're working on.
+
+59
+00:02:12,830 --> 00:02:15,670
+I'm here with my
+programmer Zecmo,
+
+60
+00:02:15,670 --> 00:02:17,530
+and we're working on
+this project here.
+
+61
+00:02:17,530 --> 00:02:20,260
+And in this project, the
+user is creating memories
+
+62
+00:02:20,260 --> 00:02:22,540
+that come into this
+world and basically turn
+
+63
+00:02:22,540 --> 00:02:24,150
+into this kind of landscape.
+
+64
+00:02:24,150 --> 00:02:25,480
+And this is what we have so far.
+
+65
+00:02:25,480 --> 00:02:28,000
+We're trying to figure out
+how should these memories come
+
+66
+00:02:28,000 --> 00:02:28,710
+into the world.
+
+67
+00:02:28,710 --> 00:02:30,000
+Right now when I
+create a memory,
+
+68
+00:02:30,000 --> 00:02:30,080
+Right now when I
+create a memory,
+
+69
+00:02:30,080 --> 00:02:31,940
+it just kind of pops randomly
+into the world, right?
+
+70
+00:02:31,940 --> 00:02:32,100
+ Yeah.
+
+71
+00:02:32,100 --> 00:02:32,300
+Yeah.
+
+72
+00:02:32,300 --> 00:02:33,010
+WILL WRIGHT: Yeah,
+it feels like it
+
+73
+00:02:33,010 --> 00:02:35,300
+should be more tangible,
+though, like this world really
+
+74
+00:02:35,300 --> 00:02:38,320
+should have more rules and
+more specific interactions.
+
+75
+00:02:38,320 --> 00:02:41,050
+So I want to prototype
+something where
+
+76
+00:02:41,050 --> 00:02:43,870
+we try different ways to bring
+new memories into the world
+
+77
+00:02:43,870 --> 00:02:44,440
+here.
+
+78
+00:02:44,440 --> 00:02:46,120
+I've been kind of thinking
+about the idea of maybe
+
+79
+00:02:46,120 --> 00:02:48,340
+they come in on boats because
+it's mostly ocean here.
+
+80
+00:02:48,340 --> 00:02:48,580
+ Yeah.
+
+81
+00:02:48,580 --> 00:02:49,530
+And they can wander
+around and try
+
+82
+00:02:49,530 --> 00:02:51,100
+to find a good place
+to land or something.
+
+83
+00:02:51,100 --> 00:02:51,600
+ Yeah.
+
+84
+00:02:51,600 --> 00:02:54,160
+So we could actually maybe
+have, when I create a memory,
+
+85
+00:02:54,160 --> 00:02:56,730
+it actually is on a little
+boat coming into the world.
+
+86
+00:02:56,730 --> 00:02:59,060
+And it sails around kind of
+looking for a place to live,
+
+87
+00:02:59,060 --> 00:02:59,560
+you know?
+
+88
+00:02:59,560 --> 00:03:00,000
+I'm seeing here, you know,
+seeing this little boat,
+
+89
+00:03:00,000 --> 00:03:01,690
+I'm seeing here, you know,
+seeing this little boat,
+
+90
+00:03:01,690 --> 00:03:03,110
+and I want to put it somewhere.
+
+91
+00:03:03,110 --> 00:03:04,480
+And as I'm looking
+at this world,
+
+92
+00:03:04,480 --> 00:03:07,260
+I get the opportunity-- in fact,
+I have to offload the memory.
+
+93
+00:03:07,260 --> 00:03:09,910
+And as I do, it will actually
+kind of change the terrain.
+
+94
+00:03:09,910 --> 00:03:12,690
+It'll actually make continents
+bigger, change the form.
+
+95
+00:03:12,690 --> 00:03:13,930
+And then the boat just
+kind of disappears.
+
+96
+00:03:13,930 --> 00:03:15,650
+The boat's really just kind
+of, like, the messenger.
+
+97
+00:03:15,650 --> 00:03:17,170
+But then it feels
+more tangible, right?
+
+98
+00:03:17,170 --> 00:03:17,420
+ Yeah.
+
+99
+00:03:17,420 --> 00:03:17,920
+Yeah.
+
+100
+00:03:17,920 --> 00:03:20,580
+ So I think if we can kind
+of prototype this, you know,
+
+101
+00:03:20,580 --> 00:03:23,370
+this little world with,
+you know, landscapes,
+
+102
+00:03:23,370 --> 00:03:25,750
+but at the same time, have
+new memories come in as boats
+
+103
+00:03:25,750 --> 00:03:28,780
+and let me kind of manipulate
+the memories off the boats,
+
+104
+00:03:28,780 --> 00:03:30,000
+let's just see how that feels.
+
+105
+00:03:30,000 --> 00:03:30,130
+let's just see how that feels.
+
+106
+00:03:30,130 --> 00:03:32,620
+[MUSIC PLAYING]
+
+107
+00:03:32,620 --> 00:03:37,590
+ 
+
+108
+00:03:37,590 --> 00:03:38,840
+So show me how this works.
+
+109
+00:03:38,840 --> 00:03:39,340
+ Yeah.
+
+110
+00:03:39,340 --> 00:03:41,230
+So the players just
+created a new memory,
+
+111
+00:03:41,230 --> 00:03:42,150
+and they've come back.
+
+112
+00:03:42,150 --> 00:03:43,710
+And so we're going to simulate
+this with a simple button
+
+113
+00:03:43,710 --> 00:03:44,340
+press.
+
+114
+00:03:44,340 --> 00:03:44,660
+WILL WRIGHT: All right.
+
+115
+00:03:44,660 --> 00:03:46,360
+ZECMO: And so here's a
+new memory they just made.
+
+116
+00:03:46,360 --> 00:03:47,030
+WILL WRIGHT: OK.
+
+117
+00:03:47,030 --> 00:03:48,030
+And what do I do with it?
+
+118
+00:03:48,030 --> 00:03:48,840
+ZECMO: Yeah, so
+it's running around.
+
+119
+00:03:48,840 --> 00:03:50,170
+Hopefully, you want to touch it.
+
+120
+00:03:50,170 --> 00:03:51,470
+WILL WRIGHT: Do I grab it?
+
+121
+00:03:51,470 --> 00:03:52,110
+OK.
+
+122
+00:03:52,110 --> 00:03:52,870
+Oh, I see.
+
+123
+00:03:52,870 --> 00:03:54,030
+So I pulled the memory off.
+
+124
+00:03:54,030 --> 00:03:54,440
+Oh, it made an island.
+
+125
+00:03:54,440 --> 00:03:55,620
+ZECMO: It made some
+terrain, right?
+
+126
+00:03:55,620 --> 00:03:55,860
+WILL WRIGHT: OK.
+
+127
+00:03:55,860 --> 00:03:57,190
+So can I put more boats in here?
+
+128
+00:03:57,190 --> 00:03:57,690
+ZECMO: Yeah.
+
+129
+00:03:57,690 --> 00:03:59,180
+So they made a
+couple new memories.
+
+130
+00:03:59,180 --> 00:03:59,870
+WILL WRIGHT: Oh, two boats.
+
+131
+00:03:59,870 --> 00:03:59,940
+ZECMO: Yeah.
+
+132
+00:03:59,940 --> 00:04:00,000
+And then they made two, and then
+they came back to this area.
+
+133
+00:04:00,000 --> 00:04:01,920
+And then they made two, and then
+they came back to this area.
+
+134
+00:04:01,920 --> 00:04:02,970
+WILL WRIGHT: And
+so basically, I'm
+
+135
+00:04:02,970 --> 00:04:04,380
+grabbing the memory
+off the boat.
+
+136
+00:04:04,380 --> 00:04:05,130
+Oh, I see.
+
+137
+00:04:05,130 --> 00:04:07,530
+As I move it around, I get a
+sense of the landscape, huh?
+
+138
+00:04:07,530 --> 00:04:09,030
+ It tries some
+good feedback so you
+
+139
+00:04:09,030 --> 00:04:11,020
+know where the connections are.
+
+140
+00:04:11,020 --> 00:04:12,810
+ Oh, and I actually
+get to see the terrain
+
+141
+00:04:12,810 --> 00:04:13,640
+before I release it.
+
+142
+00:04:13,640 --> 00:04:14,280
+ Yeah.
+
+143
+00:04:14,280 --> 00:04:15,240
+ OK, that's different.
+
+144
+00:04:15,240 --> 00:04:16,760
+That's kind of cool.
+
+145
+00:04:16,760 --> 00:04:18,880
+I like the tangibility of this.
+
+146
+00:04:18,880 --> 00:04:20,930
+These boats could have a
+lot more elaborate rules
+
+147
+00:04:20,930 --> 00:04:22,260
+if we wanted to.
+
+148
+00:04:22,260 --> 00:04:23,300
+ Pathfinding, sure.
+
+149
+00:04:23,300 --> 00:04:24,510
+ There'll be the shipwrecks.
+
+150
+00:04:24,510 --> 00:04:26,250
+We could have collisions.
+
+151
+00:04:26,250 --> 00:04:28,620
+The boats, you know, maybe
+have pathfinding and gravitate
+
+152
+00:04:28,620 --> 00:04:30,000
+towards certain
+areas where it thinks
+
+153
+00:04:30,000 --> 00:04:30,160
+towards certain
+areas where it thinks
+
+154
+00:04:30,160 --> 00:04:31,370
+it wants the memory to be.
+
+155
+00:04:31,370 --> 00:04:33,390
+ZECMO: I could totally have
+that in another iteration, sure.
+
+156
+00:04:33,390 --> 00:04:34,140
+WILL WRIGHT: Yeah.
+
+157
+00:04:34,140 --> 00:04:37,020
+So this is adding a certain
+level of tangibility
+
+158
+00:04:37,020 --> 00:04:38,820
+to our world and, you
+know, kind of going
+
+159
+00:04:38,820 --> 00:04:42,010
+with that landscape metaphor
+a little bit more heavily.
+
+160
+00:04:42,010 --> 00:04:43,720
+I'm going to play with
+this a bit longer,
+
+161
+00:04:43,720 --> 00:04:46,110
+but I think this is actually
+a good direction for us
+
+162
+00:04:46,110 --> 00:04:47,610
+to go now.
+
+163
+00:04:47,610 --> 00:04:50,700
+I think maybe we're done
+with this prototype.
+
+164
+00:04:50,700 --> 00:04:52,530
+I'd like to play with
+it a little bit longer
+
+165
+00:04:52,530 --> 00:04:53,640
+and figure out, you
+know, do we want
+
+166
+00:04:53,640 --> 00:04:56,260
+to elaborate on this prototype
+or maybe go to another one.
+
+167
+00:04:56,260 --> 00:04:59,040
+But I think right now
+this feels much-- oh, I
+
+168
+00:04:59,040 --> 00:05:00,000
+got a turtle this time.
+
+169
+00:05:00,000 --> 00:05:01,630
+ZECMO: Yeah, you
+know, I had some time.
+
+170
+00:05:01,630 --> 00:05:02,520
+I finished a little
+early, so I thought,
+
+171
+00:05:02,520 --> 00:05:03,630
+I'll throw in a little
+fun thing like that.
+
+172
+00:05:03,630 --> 00:05:04,630
+WILL WRIGHT: Well
+actually, I mean,
+
+173
+00:05:04,630 --> 00:05:05,750
+that's an interesting idea.
+
+174
+00:05:05,750 --> 00:05:08,520
+It could be that the memory
+type is somehow related
+
+175
+00:05:08,520 --> 00:05:10,770
+to the vessel, you know?
+
+176
+00:05:10,770 --> 00:05:11,850
+Hadn't thought about that.
+
+177
+00:05:11,850 --> 00:05:13,630
+But just playing
+with this prototype,
+
+178
+00:05:13,630 --> 00:05:15,300
+just because you threw
+that in there, it
+
+179
+00:05:15,300 --> 00:05:17,640
+makes me think that, you
+know, somehow the system could
+
+180
+00:05:17,640 --> 00:05:19,560
+actually look at the
+memory type you're doing,
+
+181
+00:05:19,560 --> 00:05:21,510
+put it on a sailing
+ship, on a motorboat,
+
+182
+00:05:21,510 --> 00:05:23,940
+on a turtle, whatever, so
+it could have different kind
+
+183
+00:05:23,940 --> 00:05:25,110
+of classes of memory.
+
+184
+00:05:25,110 --> 00:05:26,220
+ZECMO: Yeah, I could
+definitely add that.
+
+185
+00:05:26,220 --> 00:05:27,420
+If we want to iterate
+on this one more time,
+
+186
+00:05:27,420 --> 00:05:29,010
+that would not be
+hard to test out.
+
+187
+00:05:29,010 --> 00:05:29,400
+WILL WRIGHT: OK.
+
+188
+00:05:29,400 --> 00:05:30,000
+We might do one more
+iteration on this prototype.
+
+189
+00:05:30,000 --> 00:05:31,440
+We might do one more
+iteration on this prototype.
+
+190
+00:05:31,440 --> 00:05:33,660
+But I think this clearly
+kind of answers--
+
+191
+00:05:33,660 --> 00:05:35,550
+this feels a lot better
+than it was before.
+
+192
+00:05:35,550 --> 00:05:36,060
+ZECMO: Yeah, definitely.
+
+193
+00:05:36,060 --> 00:05:37,560
+ And it's a fairly
+simple code fix,
+
+194
+00:05:37,560 --> 00:05:39,370
+right, I mean, to
+actually realize this?
+
+195
+00:05:39,370 --> 00:05:39,870
+ Yeah.
+
+196
+00:05:39,870 --> 00:05:40,450
+I could do it.
+
+197
+00:05:40,450 --> 00:05:42,000
+In less than a day,
+I could knock out
+
+198
+00:05:42,000 --> 00:05:43,080
+what you're talking about.
+
+199
+00:05:43,080 --> 00:05:43,650
+Sure.
+
+200
+00:05:43,650 --> 00:05:46,080
+WILL WRIGHT: So this case,
+we've established basically
+
+201
+00:05:46,080 --> 00:05:48,330
+a resolution to this question
+of how new memories come
+
+202
+00:05:48,330 --> 00:05:49,560
+into the world.
+
+203
+00:05:49,560 --> 00:05:51,480
+And just playing with
+this for a few minutes,
+
+204
+00:05:51,480 --> 00:05:53,690
+I can clearly see that it
+feels much better than what
+
+205
+00:05:53,690 --> 00:05:54,740
+we were doing before.
+
+206
+00:05:54,740 --> 00:05:57,900
+And not only that, but
+based on just some things
+
+207
+00:05:57,900 --> 00:05:59,760
+that Zecmo threw in
+there, it kind of
+
+208
+00:05:59,760 --> 00:06:00,000
+inspired me to think in a
+different design direction
+
+209
+00:06:00,000 --> 00:06:01,560
+inspired me to think in a
+different design direction
+
+210
+00:06:01,560 --> 00:06:02,060
+slightly.
+
+211
+00:06:02,060 --> 00:06:05,390
+So I'd say this, you know, was
+a very worthwhile prototype
+
+212
+00:06:05,390 --> 00:06:06,600
+for the amount of time spent.
+
+213
+00:06:06,600 --> 00:06:08,560
+And again, it's not like
+we spent a lot of time
+
+214
+00:06:08,560 --> 00:06:12,120
+on this prototype, but it
+gives us much more clarity
+
+215
+00:06:12,120 --> 00:06:13,710
+on going down the design branch.
+
+216
+00:06:13,710 --> 00:06:16,100
+[MUSIC PLAYING]
+
+217
+00:06:16,100 --> 00:06:21,670
+ 
+
+218
+00:06:21,670 --> 00:06:23,170
+So I think that
+prototypes like this
+
+219
+00:06:23,170 --> 00:06:26,560
+are really helping us explore
+the space much faster and more
+
+220
+00:06:26,560 --> 00:06:28,010
+efficiently.
+
+221
+00:06:28,010 --> 00:06:30,000
+We're still basically in
+an overhead world here.
+
+222
+00:06:30,000 --> 00:06:30,510
+We're still basically in
+an overhead world here.
+
+223
+00:06:30,510 --> 00:06:32,220
+And I think one of
+the other things we're
+
+224
+00:06:32,220 --> 00:06:34,300
+going to want to prototype
+is different renderings
+
+225
+00:06:34,300 --> 00:06:37,200
+of the world, whether
+we go to 3D, isometric,
+
+226
+00:06:37,200 --> 00:06:39,150
+with a full camera
+rotation and all that.
+
+227
+00:06:39,150 --> 00:06:41,110
+It's going to be a real
+balance there, I think,
+
+228
+00:06:41,110 --> 00:06:45,060
+between legibility of
+the world and, you know,
+
+229
+00:06:45,060 --> 00:06:47,350
+the player being able to do
+interesting exciting things
+
+230
+00:06:47,350 --> 00:06:50,800
+in there without having to worry
+about the camera angle, right?
+
+231
+00:06:50,800 --> 00:06:53,170
+ Well if we're looking
+at doing a 3D version,
+
+232
+00:06:53,170 --> 00:06:55,990
+I could take another day or two
+to do a very simple version,
+
+233
+00:06:55,990 --> 00:06:58,990
+where it's just simple objects,
+basic terrain generation
+
+234
+00:06:58,990 --> 00:07:00,000
+and just dragging things around,
+and see how we like that.
+
+235
+00:07:00,000 --> 00:07:01,540
+and just dragging things around,
+and see how we like that.
+
+236
+00:07:01,540 --> 00:07:03,370
+ If we could do it
+without the user getting
+
+237
+00:07:03,370 --> 00:07:04,500
+too involved in the--
+
+238
+00:07:04,500 --> 00:07:06,310
+well, the camera
+manipulation is the key.
+
+239
+00:07:06,310 --> 00:07:09,340
+ So perhaps just lock it to,
+like, 90 degrees, 45 degrees.
+
+240
+00:07:09,340 --> 00:07:11,220
+It sort of frees them
+from that constraint,
+
+241
+00:07:11,220 --> 00:07:13,720
+but it focuses on just where
+you're placing it in the world.
+
+242
+00:07:13,720 --> 00:07:13,960
+ Right.
+
+243
+00:07:13,960 --> 00:07:16,130
+But also, this landscape, you
+know, it's kind of a mnemonic.
+
+244
+00:07:16,130 --> 00:07:18,280
+So as I get a sense of that
+landscape, all of a sudden,
+
+245
+00:07:18,280 --> 00:07:19,950
+you rotate it, it
+looks different to me.
+
+246
+00:07:19,950 --> 00:07:22,570
+And, you know, the memory that
+I put in the upper right corner
+
+247
+00:07:22,570 --> 00:07:24,290
+is now in the lower left corner.
+
+248
+00:07:24,290 --> 00:07:25,990
+And so that's why
+I'm a little reticent
+
+249
+00:07:25,990 --> 00:07:29,540
+to go to full 3D, or at least
+constrain the camera direction,
+
+250
+00:07:29,540 --> 00:07:30,000
+but we can still
+kind of tilt it back.
+
+251
+00:07:30,000 --> 00:07:31,120
+but we can still
+kind of tilt it back.
+
+252
+00:07:31,120 --> 00:07:32,410
+You know, get some pitch on it.
+
+253
+00:07:32,410 --> 00:07:32,910
+ OK.
+
+254
+00:07:32,910 --> 00:07:33,670
+So no rotation.
+
+255
+00:07:33,670 --> 00:07:33,930
+ Yeah.
+
+256
+00:07:33,930 --> 00:07:34,990
+ Just locked orientation.
+
+257
+00:07:34,990 --> 00:07:35,280
+I got you.
+
+258
+00:07:35,280 --> 00:07:36,890
+And just have that sort
+of gradual pitch, that--
+
+259
+00:07:36,890 --> 00:07:37,270
+ Yeah.
+
+260
+00:07:37,270 --> 00:07:39,400
+And probably-- we're definitely
+gonna want some amount of zoom
+
+261
+00:07:39,400 --> 00:07:41,320
+in, so the zoom might
+be relative to the pitch
+
+262
+00:07:41,320 --> 00:07:42,230
+of the camera.
+
+263
+00:07:42,230 --> 00:07:44,440
+So maybe one of the things
+we might want to prototype
+
+264
+00:07:44,440 --> 00:07:47,260
+is a world like this
+where I can now, you know,
+
+265
+00:07:47,260 --> 00:07:50,140
+zoom in, have the camera
+pitch change with the zoom,
+
+266
+00:07:50,140 --> 00:07:53,200
+pull back out, get
+the overhead map.
+
+267
+00:07:53,200 --> 00:07:55,740
+Then I think we've gone a long
+way toward establishing kind
+
+268
+00:07:55,740 --> 00:07:58,260
+of the user interaction
+and the look
+
+269
+00:07:58,260 --> 00:08:00,000
+and feel that we now have to
+kind of produce, you know,
+
+270
+00:08:00,000 --> 00:08:00,550
+and feel that we now have to
+kind of produce, you know,
+
+271
+00:08:00,550 --> 00:08:01,970
+at a production level.
+
+272
+00:08:01,970 --> 00:08:02,470
+ Yeah.
+
+273
+00:08:02,470 --> 00:08:04,660
+I think the simple
+restrictions would help maybe
+
+274
+00:08:04,660 --> 00:08:05,410
+produce it faster.
+
+275
+00:08:05,410 --> 00:08:06,150
+So that's the idea.
+
+276
+00:08:06,150 --> 00:08:06,450
+Yeah.
+
+277
+00:08:06,450 --> 00:08:06,800
+ Yeah.
+
+278
+00:08:06,800 --> 00:08:07,600
+And, you know,
+again, we don't want
+
+279
+00:08:07,600 --> 00:08:09,900
+to spend more than a few
+days, a week at the most, on,
+
+280
+00:08:09,900 --> 00:08:11,020
+you know, prototyping that.
+
+281
+00:08:11,020 --> 00:08:11,520
+ Yeah.
+
+282
+00:08:11,520 --> 00:08:13,420
+ And if we had that
+plus this prototype,
+
+283
+00:08:13,420 --> 00:08:14,800
+now we're well on
+our way to kind
+
+284
+00:08:14,800 --> 00:08:16,140
+of knowing what's happening
+in that world, what
+
+285
+00:08:16,140 --> 00:08:18,460
+the affordances are, how
+the user's, you know,
+
+286
+00:08:18,460 --> 00:08:21,230
+picking the camera angle
+and all that stuff.
+
+287
+00:08:21,230 --> 00:08:23,800
+And yeah, I think it won't
+take too many more prototypes
+
+288
+00:08:23,800 --> 00:08:26,890
+like this to get pretty
+far down the design tree,
+
+289
+00:08:26,890 --> 00:08:29,020
+and we can actually start
+committing real resources
+
+290
+00:08:29,020 --> 00:08:30,000
+to it.
+
+291
+00:08:30,000 --> 00:08:30,400
+to it.
+

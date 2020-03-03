@@ -1,0 +1,2098 @@
+1
+00:00:00,000 --> 00:00:03,440
+[MUSIC PLAYING]
+
+2
+00:00:03,440 --> 00:00:10,010
+ 
+
+3
+00:00:10,010 --> 00:00:12,510
+WILL WRIGHT: As we get further
+down the development process,
+
+4
+00:00:12,510 --> 00:00:14,930
+the prototyping we're
+doing is far more granular.
+
+5
+00:00:14,930 --> 00:00:16,680
+There are a lot of
+things that you can do,
+
+6
+00:00:16,680 --> 00:00:18,870
+and a very small
+subset of that is what
+
+7
+00:00:18,870 --> 00:00:20,910
+you should do for the player.
+
+8
+00:00:20,910 --> 00:00:22,710
+Scoping really is
+going to come down
+
+9
+00:00:22,710 --> 00:00:28,450
+to what is the right sweet spot
+for complexity and interest.
+
+10
+00:00:28,450 --> 00:00:30,000
+And so you try to
+find that sweet spot
+
+11
+00:00:30,000 --> 00:00:30,030
+And so you try to
+find that sweet spot
+
+12
+00:00:30,030 --> 00:00:32,220
+with scoping and prototyping
+as one of your tools
+
+13
+00:00:32,220 --> 00:00:34,150
+for discovering that.
+
+14
+00:00:34,150 --> 00:00:36,280
+For "Spore," we did
+50 or 60 prototypes
+
+15
+00:00:36,280 --> 00:00:38,290
+of different areas
+of science that we
+
+16
+00:00:38,290 --> 00:00:39,730
+might have included in "Spore."
+
+17
+00:00:39,730 --> 00:00:41,860
+And again, most of
+them were not included.
+
+18
+00:00:41,860 --> 00:00:43,280
+After playing with
+the prototypes,
+
+19
+00:00:43,280 --> 00:00:44,700
+we decided either
+it didn't really
+
+20
+00:00:44,700 --> 00:00:47,020
+fit in with the overall
+concept, or that system
+
+21
+00:00:47,020 --> 00:00:49,430
+as a little toy, this wasn't
+a very fun toy to play with.
+
+22
+00:00:49,430 --> 00:00:51,100
+But the ones that
+were fun to play with,
+
+23
+00:00:51,100 --> 00:00:52,850
+we figured out, OK,
+which one of these can
+
+24
+00:00:52,850 --> 00:00:56,950
+we now click together and
+build into a larger experience.
+
+25
+00:00:56,950 --> 00:00:59,440
+And then eventually, they
+turned into gameplay prototypes,
+
+26
+00:00:59,440 --> 00:01:00,000
+where actually there
+is a game there.
+
+27
+00:01:00,000 --> 00:01:00,980
+where actually there
+is a game there.
+
+28
+00:01:00,980 --> 00:01:09,800
+ 
+
+29
+00:01:09,800 --> 00:01:12,900
+One of the prototypes that
+we developed for "Spore"
+
+30
+00:01:12,900 --> 00:01:14,560
+had a scripting language.
+
+31
+00:01:14,560 --> 00:01:16,890
+And in fact, I could take
+the same little code base--
+
+32
+00:01:16,890 --> 00:01:19,470
+I, as the designer, could go in
+and change the scripting of it
+
+33
+00:01:19,470 --> 00:01:23,110
+and change the rules within
+the simple prototype.
+
+34
+00:01:23,110 --> 00:01:25,350
+And so I, in fact, was doing
+a lot of the programming
+
+35
+00:01:25,350 --> 00:01:28,500
+on these prototypes to
+explore different rule sets.
+
+36
+00:01:28,500 --> 00:01:30,000
+And in fact, I was able to
+recreate very simple versions
+
+37
+00:01:30,000 --> 00:01:30,970
+And in fact, I was able to
+recreate very simple versions
+
+38
+00:01:30,970 --> 00:01:32,430
+of "Sim City" and
+a few other games
+
+39
+00:01:32,430 --> 00:01:33,960
+within these "Spore" prototypes.
+
+40
+00:01:33,960 --> 00:01:36,420
+And some of them were using
+very interesting systems
+
+41
+00:01:36,420 --> 00:01:37,620
+and typologies.
+
+42
+00:01:37,620 --> 00:01:42,180
+Some were network-based, others
+were grid [INAUDIBLE] based.
+
+43
+00:01:42,180 --> 00:01:44,700
+And the fact that as a
+designer I could very quickly
+
+44
+00:01:44,700 --> 00:01:46,200
+go on and script--
+over one evening,
+
+45
+00:01:46,200 --> 00:01:48,180
+I could try five or six
+different rule sets,
+
+46
+00:01:48,180 --> 00:01:51,150
+play with them for a while,
+gravitate toward an area.
+
+47
+00:01:51,150 --> 00:01:53,490
+Once they got roughly
+in some area I liked,
+
+48
+00:01:53,490 --> 00:01:55,450
+I could take it back to
+the programmer and say,
+
+49
+00:01:55,450 --> 00:01:57,210
+now build me a better
+version of this.
+
+50
+00:01:57,210 --> 00:01:59,670
+Or maybe it had some limitation,
+I wanted to add a little--
+
+51
+00:01:59,670 --> 00:02:00,000
+couple more commands to
+the scripting language.
+
+52
+00:02:00,000 --> 00:02:01,230
+couple more commands to
+the scripting language.
+
+53
+00:02:01,230 --> 00:02:03,450
+But, in fact, I was doing
+some of the programming
+
+54
+00:02:03,450 --> 00:02:05,280
+on the last half
+of the prototype.
+
+55
+00:02:05,280 --> 00:02:07,740
+The programmer would give
+me a little scripting engine
+
+56
+00:02:07,740 --> 00:02:11,310
+and code base that I could
+script and change the rules on.
+
+57
+00:02:11,310 --> 00:02:13,980
+So again, it very rapidly
+allowed me as a designer
+
+58
+00:02:13,980 --> 00:02:15,330
+to explore different rule sets.
+
+59
+00:02:15,330 --> 00:02:22,730
+ 
+
+60
+00:02:22,730 --> 00:02:26,310
+A lot of times, I would
+work with design teams.
+
+61
+00:02:26,310 --> 00:02:29,300
+And every week, there
+would be a triage session,
+
+62
+00:02:29,300 --> 00:02:30,000
+and we would say, OK,
+what are the biggest
+
+63
+00:02:30,000 --> 00:02:31,050
+and we would say, OK,
+what are the biggest
+
+64
+00:02:31,050 --> 00:02:32,940
+risks of this project?
+
+65
+00:02:32,940 --> 00:02:34,520
+They could be
+technological risks,
+
+66
+00:02:34,520 --> 00:02:39,030
+they could be design risks,
+they could be production risks.
+
+67
+00:02:39,030 --> 00:02:40,450
+And then we step
+back and say, OK,
+
+68
+00:02:40,450 --> 00:02:42,970
+how do we mitigate
+that most effectively?
+
+69
+00:02:42,970 --> 00:02:45,470
+Sometimes a technological risk--
+can we actually build this?
+
+70
+00:02:45,470 --> 00:02:46,890
+Let's build a prototype and see.
+
+71
+00:02:46,890 --> 00:02:49,040
+If it's a design risk, let's
+see if we can find some--
+
+72
+00:02:49,040 --> 00:02:50,750
+build a prototype or
+find some other game
+
+73
+00:02:50,750 --> 00:02:53,590
+that shows us this will be fun.
+
+74
+00:02:53,590 --> 00:02:55,770
+Can the production team
+manage these assets
+
+75
+00:02:55,770 --> 00:02:57,640
+in time, whatever it is?
+
+76
+00:02:57,640 --> 00:02:59,580
+And hopefully, every
+week we're trying
+
+77
+00:02:59,580 --> 00:03:00,000
+to basically attack the
+top things on that list
+
+78
+00:03:00,000 --> 00:03:01,930
+to basically attack the
+top things on that list
+
+79
+00:03:01,930 --> 00:03:03,720
+to where they get
+lower on the list.
+
+80
+00:03:03,720 --> 00:03:06,310
+Now something else becomes
+the top design risk.
+
+81
+00:03:06,310 --> 00:03:08,880
+So I think that as you're
+going through iteration,
+
+82
+00:03:08,880 --> 00:03:11,730
+it's continually that process
+of attacking the highest risk
+
+83
+00:03:11,730 --> 00:03:12,610
+items.
+
+84
+00:03:12,610 --> 00:03:14,370
+One of the typical
+aspects of risk
+
+85
+00:03:14,370 --> 00:03:20,370
+in this kind of development is
+that the longer you delay it,
+
+86
+00:03:20,370 --> 00:03:22,320
+the more expensive it is.
+
+87
+00:03:22,320 --> 00:03:24,030
+If I could mitigate
+that risk this month,
+
+88
+00:03:24,030 --> 00:03:26,320
+it's going to cost me $10.
+
+89
+00:03:26,320 --> 00:03:27,900
+If I wait three
+months to mitigate it,
+
+90
+00:03:27,900 --> 00:03:29,530
+it's going to cost
+me $100, because
+
+91
+00:03:29,530 --> 00:03:30,000
+of all of these other things
+that have to change around it.
+
+92
+00:03:30,000 --> 00:03:32,020
+of all of these other things
+that have to change around it.
+
+93
+00:03:32,020 --> 00:03:34,830
+So again, this is
+about efficiency.
+
+94
+00:03:34,830 --> 00:03:37,810
+How efficiently can I
+prune that design tree?
+
+95
+00:03:37,810 --> 00:03:39,480
+And I want every
+pruning of every branch
+
+96
+00:03:39,480 --> 00:03:44,140
+to be as expedient and
+as efficient as possible.
+
+97
+00:03:44,140 --> 00:03:46,630
+And a lot of times, you
+really want to put it off.
+
+98
+00:03:46,630 --> 00:03:48,010
+You really want to say, oh,
+I know it's going to work.
+
+99
+00:03:48,010 --> 00:03:49,000
+I know it's going to work.
+
+100
+00:03:49,000 --> 00:03:50,380
+But if you can
+mitigate it early,
+
+101
+00:03:50,380 --> 00:03:52,040
+it gives you more
+confidence later on
+
+102
+00:03:52,040 --> 00:03:53,290
+that you're on the right path.
+
+103
+00:03:53,290 --> 00:04:00,000
+ 
+
+104
+00:04:00,000 --> 00:04:01,450
+ 
+
+105
+00:04:01,450 --> 00:04:03,810
+There's so many times when
+you're developing something
+
+106
+00:04:03,810 --> 00:04:05,600
+and it gets to some
+point where it's really
+
+107
+00:04:05,600 --> 00:04:08,790
+starting to coalesce and
+starting to feel pretty good,
+
+108
+00:04:08,790 --> 00:04:10,920
+but it feels that no
+matter where you push it,
+
+109
+00:04:10,920 --> 00:04:12,460
+from that direction gets worse.
+
+110
+00:04:12,460 --> 00:04:15,090
+And this is you being
+stuck in a local maxima.
+
+111
+00:04:15,090 --> 00:04:18,000
+And at that point, it can be
+kind of apparent intellectually
+
+112
+00:04:18,000 --> 00:04:20,700
+to you that what you
+really need to do is,
+
+113
+00:04:20,700 --> 00:04:22,490
+again, rip this thing
+out, add that thing--
+
+114
+00:04:22,490 --> 00:04:24,450
+do some major change to it.
+
+115
+00:04:24,450 --> 00:04:26,680
+And you feel like
+it's going to go here.
+
+116
+00:04:26,680 --> 00:04:28,350
+You're not sure, but
+you're pretty sure.
+
+117
+00:04:28,350 --> 00:04:30,000
+But you know that you're
+stuck here on this peak.
+
+118
+00:04:30,000 --> 00:04:30,810
+But you know that you're
+stuck here on this peak.
+
+119
+00:04:30,810 --> 00:04:33,480
+And that's a very hard thing
+for you to kind of actually
+
+120
+00:04:33,480 --> 00:04:37,530
+take that hit and try
+it, and maybe when
+
+121
+00:04:37,530 --> 00:04:39,010
+you do that, it's now worse.
+
+122
+00:04:39,010 --> 00:04:41,010
+But with a little bit of
+iteration around there,
+
+123
+00:04:41,010 --> 00:04:43,620
+you find that, in fact,
+you are on a taller slope.
+
+124
+00:04:43,620 --> 00:04:47,020
+But that's a very kind of
+stressful kind of process
+
+125
+00:04:47,020 --> 00:04:48,810
+to go through, especially
+with a team who's
+
+126
+00:04:48,810 --> 00:04:51,330
+invested a lot of time and
+effort to get you here.
+
+127
+00:04:51,330 --> 00:04:54,080
+Now, really, you always do have
+the opportunity to kind of fall
+
+128
+00:04:54,080 --> 00:04:55,890
+back if this is a total
+failure over here--
+
+129
+00:04:55,890 --> 00:04:57,430
+come back to this thing and
+try a different direction--
+
+130
+00:04:57,430 --> 00:04:59,330
+but that's incredibly expensive.
+
+131
+00:04:59,330 --> 00:05:00,000
+In my experience, all the very
+best games, and all the games
+
+132
+00:05:00,000 --> 00:05:01,830
+In my experience, all the very
+best games, and all the games
+
+133
+00:05:01,830 --> 00:05:05,160
+I've worked on that ended up as
+hits were things where we went
+
+134
+00:05:05,160 --> 00:05:07,400
+through that several
+times, where we really
+
+135
+00:05:07,400 --> 00:05:09,360
+had to kind of take this
+hit and say, OK, look,
+
+136
+00:05:09,360 --> 00:05:11,530
+we're going to have to do
+something pretty radically
+
+137
+00:05:11,530 --> 00:05:14,290
+different here, and I think
+it'll get us on a taller slope.
+
+138
+00:05:14,290 --> 00:05:15,160
+In most cases it did.
+
+139
+00:05:15,160 --> 00:05:17,330
+A few cases it didn't, and
+we had to kind of go back
+
+140
+00:05:17,330 --> 00:05:18,160
+to do it twice.
+
+141
+00:05:18,160 --> 00:05:21,120
+But it's almost like you're kind
+of dropping little paratroopers
+
+142
+00:05:21,120 --> 00:05:22,720
+in to do recon.
+
+143
+00:05:22,720 --> 00:05:24,250
+Each one of these
+is very expensive,
+
+144
+00:05:24,250 --> 00:05:26,750
+but if they land on a slope,
+they can now tell you, oh, it's
+
+145
+00:05:26,750 --> 00:05:28,680
+a good slope or a bad slope.
+
+146
+00:05:28,680 --> 00:05:30,000
+But I think that's
+really the difference
+
+147
+00:05:30,000 --> 00:05:30,660
+But I think that's
+really the difference
+
+148
+00:05:30,660 --> 00:05:32,420
+between making a
+really good kind
+
+149
+00:05:32,420 --> 00:05:34,260
+of mediocre game and a hit.
+
+150
+00:05:34,260 --> 00:05:41,950
+ 
+
+151
+00:05:41,950 --> 00:05:44,300
+Tuning can be very,
+very challenging,
+
+152
+00:05:44,300 --> 00:05:47,980
+and in fact, it's really
+more a process of discovery.
+
+153
+00:05:47,980 --> 00:05:51,010
+And what I was doing for a lot
+of things, like for "Sim City,"
+
+154
+00:05:51,010 --> 00:05:52,810
+I would actually
+build test patterns.
+
+155
+00:05:52,810 --> 00:05:55,480
+I would say, I would expect
+with this pattern of roads
+
+156
+00:05:55,480 --> 00:05:58,060
+or buildings, I would expect to
+see this result on the traffic
+
+157
+00:05:58,060 --> 00:05:59,860
+layer in my head, then I
+would actually draw these out.
+
+158
+00:05:59,860 --> 00:06:00,000
+This is kind of
+what I would expect.
+
+159
+00:06:00,000 --> 00:06:01,360
+This is kind of
+what I would expect.
+
+160
+00:06:01,360 --> 00:06:02,710
+And then I would run the model.
+
+161
+00:06:02,710 --> 00:06:05,440
+It would be nothing like that,
+and it wasn't apparent to me
+
+162
+00:06:05,440 --> 00:06:07,600
+how I would change it
+to make it like that.
+
+163
+00:06:07,600 --> 00:06:10,090
+But instead, what
+I found was, I had
+
+164
+00:06:10,090 --> 00:06:13,030
+to make it easy to just
+explore that space--
+
+165
+00:06:13,030 --> 00:06:15,330
+change the rules very
+rapidly, very quickly
+
+166
+00:06:15,330 --> 00:06:18,280
+and look at the result, to
+zero in on the right rule set.
+
+167
+00:06:18,280 --> 00:06:20,800
+And again, because it's
+an immersion system,
+
+168
+00:06:20,800 --> 00:06:23,980
+there's no really predictive
+way to know which way to go.
+
+169
+00:06:23,980 --> 00:06:25,750
+It's more like you had
+to learn to explore
+
+170
+00:06:25,750 --> 00:06:27,580
+this space very, very rapidly.
+
+171
+00:06:27,580 --> 00:06:30,000
+And in more of just kind of
+typical parametric tuning,
+
+172
+00:06:30,000 --> 00:06:30,760
+And in more of just kind of
+typical parametric tuning,
+
+173
+00:06:30,760 --> 00:06:32,470
+Sid Meier had actually
+a really good rule
+
+174
+00:06:32,470 --> 00:06:34,450
+of thumb, which is
+that whenever you're
+
+175
+00:06:34,450 --> 00:06:38,470
+tuning your variable on a game,
+don't move it by 10%, 20%.
+
+176
+00:06:38,470 --> 00:06:40,870
+Double it or half it initially.
+
+177
+00:06:40,870 --> 00:06:43,060
+And usually, it's
+going to be way off.
+
+178
+00:06:43,060 --> 00:06:45,250
+So you double it or half
+it, whichever direction
+
+179
+00:06:45,250 --> 00:06:47,280
+you need to go until
+you're in the region,
+
+180
+00:06:47,280 --> 00:06:48,400
+then you can do the tuning.
+
+181
+00:06:48,400 --> 00:06:50,320
+But really, you're
+probably way off to begin
+
+182
+00:06:50,320 --> 00:06:51,790
+with on almost everything.
+
+183
+00:06:51,790 --> 00:06:54,820
+And don't be afraid, even once
+you have it running, to try it.
+
+184
+00:06:54,820 --> 00:06:56,860
+Just for the hell of it,
+try doubling some value,
+
+185
+00:06:56,860 --> 00:06:57,830
+and see maybe--
+
+186
+00:06:57,830 --> 00:06:59,290
+the result might surprise you.
+
+187
+00:06:59,290 --> 00:07:00,000
+It might not be something
+you were looking for,
+
+188
+00:07:00,000 --> 00:07:00,580
+It might not be something
+you were looking for,
+
+189
+00:07:00,580 --> 00:07:02,110
+but it might be
+something very cool
+
+190
+00:07:02,110 --> 00:07:03,230
+that you discover that way.
+
+191
+00:07:03,230 --> 00:07:10,790
+ 
+
+192
+00:07:10,790 --> 00:07:13,090
+Most of the
+prototypes that we've
+
+193
+00:07:13,090 --> 00:07:15,350
+created for the
+games I worked on
+
+194
+00:07:15,350 --> 00:07:17,890
+were failures, which is good,
+because, again, they're helping
+
+195
+00:07:17,890 --> 00:07:19,030
+us prune design branches.
+
+196
+00:07:19,030 --> 00:07:19,900
+Do we want to go that way?
+
+197
+00:07:19,900 --> 00:07:20,290
+No.
+
+198
+00:07:20,290 --> 00:07:21,370
+Do we want to go that way?
+
+199
+00:07:21,370 --> 00:07:22,000
+No.
+
+200
+00:07:22,000 --> 00:07:26,200
+If you actually look, once I've
+taken this branching decision
+
+201
+00:07:26,200 --> 00:07:29,750
+tree all the way down, most
+of the branches can be pruned.
+
+202
+00:07:29,750 --> 00:07:30,000
+They're failures.
+
+203
+00:07:30,000 --> 00:07:30,460
+They're failures.
+
+204
+00:07:30,460 --> 00:07:31,680
+We don't want to go that way.
+
+205
+00:07:31,680 --> 00:07:33,100
+We did some really
+cool prototypes
+
+206
+00:07:33,100 --> 00:07:37,120
+for "Spore" of the
+galactic dynamics,
+
+207
+00:07:37,120 --> 00:07:40,720
+the balance between
+interstellar matter and stars--
+
+208
+00:07:40,720 --> 00:07:43,600
+which I can spend quite a
+while talking about it--
+
+209
+00:07:43,600 --> 00:07:46,270
+but it's a very cool dynamic
+of the way stars are formed.
+
+210
+00:07:46,270 --> 00:07:49,630
+The gas cools, it coalesces,
+gathers into molecular clouds
+
+211
+00:07:49,630 --> 00:07:51,820
+and starts more star
+formation, which propagates
+
+212
+00:07:51,820 --> 00:07:53,110
+a wave around the galaxy.
+
+213
+00:07:53,110 --> 00:07:54,910
+Very, very cool dynamics.
+
+214
+00:07:54,910 --> 00:07:57,310
+But as we started scoping
+the rest of the game,
+
+215
+00:07:57,310 --> 00:07:59,440
+we realized this
+really just had no part
+
+216
+00:07:59,440 --> 00:08:00,000
+in the context of
+the rest of the game,
+
+217
+00:08:00,000 --> 00:08:01,330
+in the context of
+the rest of the game,
+
+218
+00:08:01,330 --> 00:08:03,280
+with the kind of point
+of view the player had,
+
+219
+00:08:03,280 --> 00:08:04,670
+the tools, and all that.
+
+220
+00:08:04,670 --> 00:08:07,030
+So that was-- would've been
+a very cool part of "Spore",
+
+221
+00:08:07,030 --> 00:08:08,860
+but, in fact, would've
+been a very cool part
+
+222
+00:08:08,860 --> 00:08:10,000
+of a different
+game, not "Spore."
+
+223
+00:08:10,000 --> 00:08:11,250
+And that's what we determined.
+
+224
+00:08:11,250 --> 00:08:13,180
+That's a cool game,
+but it's not "Spore."
+
+225
+00:08:13,180 --> 00:08:14,890
+It's really hard
+when you've invested
+
+226
+00:08:14,890 --> 00:08:18,670
+a lot of time and effort
+into one of your just
+
+227
+00:08:18,670 --> 00:08:21,820
+passionate features
+or components,
+
+228
+00:08:21,820 --> 00:08:24,130
+and either through
+prototyping, testing,
+
+229
+00:08:24,130 --> 00:08:27,690
+whatever, it just doesn't have
+a place in the original design.
+
+230
+00:08:27,690 --> 00:08:30,000
+Emotionally, I think you need to
+kind of sit back as a designer
+
+231
+00:08:30,000 --> 00:08:30,310
+Emotionally, I think you need to
+kind of sit back as a designer
+
+232
+00:08:30,310 --> 00:08:33,460
+and say, OK, am I
+designing something that--
+
+233
+00:08:33,460 --> 00:08:35,860
+for myself aesthetically,
+or something
+
+234
+00:08:35,860 --> 00:08:39,850
+that I really want to impact
+a large number of people?
+
+235
+00:08:39,850 --> 00:08:42,250
+Other times, it'll
+really surprise you.
+
+236
+00:08:42,250 --> 00:08:44,650
+The very first
+game I did involved
+
+237
+00:08:44,650 --> 00:08:47,410
+flying this little helicopter
+around this world and bombing
+
+238
+00:08:47,410 --> 00:08:49,000
+things.
+
+239
+00:08:49,000 --> 00:08:50,710
+One of the things I
+built as part of that
+
+240
+00:08:50,710 --> 00:08:52,900
+was this thing where I
+could scroll on and create
+
+241
+00:08:52,900 --> 00:08:55,470
+the world to bomb.
+
+242
+00:08:55,470 --> 00:08:57,470
+And that thing, which was
+originally going to be
+
+243
+00:08:57,470 --> 00:09:00,000
+a throwaway-- this is the editor
+I built for bombing the world--
+
+244
+00:09:00,000 --> 00:09:01,870
+a throwaway-- this is the editor
+I built for bombing the world--
+
+245
+00:09:01,870 --> 00:09:03,100
+later, I was so into that--
+
+246
+00:09:03,100 --> 00:09:05,470
+I had so much fun playing with
+that little world builder,
+
+247
+00:09:05,470 --> 00:09:07,690
+I took that and it
+turned into "Sim City."
+
+248
+00:09:07,690 --> 00:09:10,480
+So what would have been a
+throwaway prototype actually
+
+249
+00:09:10,480 --> 00:09:12,340
+evolved into my first big hit.
+
+250
+00:09:12,340 --> 00:09:15,190
+So sometimes if that thing
+that you really personally care
+
+251
+00:09:15,190 --> 00:09:17,330
+about doesn't have a
+place in your design,
+
+252
+00:09:17,330 --> 00:09:19,450
+that doesn't mean it doesn't
+have a place somewhere
+
+253
+00:09:19,450 --> 00:09:20,860
+else in some other design.
+
+254
+00:09:20,860 --> 00:09:23,920
+It might be that's going to be
+the thing that you eventually
+
+255
+00:09:23,920 --> 00:09:25,460
+turn into what it
+should have been,
+
+256
+00:09:25,460 --> 00:09:27,790
+or maybe even you jump ship
+and you go with that instead
+
+257
+00:09:27,790 --> 00:09:29,320
+and throw away
+your original idea.
+
+258
+00:09:29,320 --> 00:09:30,000
+I mean, there's no hard
+and fast rule for this.
+
+259
+00:09:30,000 --> 00:09:32,200
+I mean, there's no hard
+and fast rule for this.
+
+260
+00:09:32,200 --> 00:09:35,500
+And again, that's a lot
+times very hard emotionally
+
+261
+00:09:35,500 --> 00:09:37,780
+when you've invested that
+much in a certain direction
+
+262
+00:09:37,780 --> 00:09:39,320
+to throw it away.
+
+263
+00:09:39,320 --> 00:09:42,200
+But that's something
+that's, I think--
+
+264
+00:09:42,200 --> 00:09:43,780
+every field, you
+need to kind of learn
+
+265
+00:09:43,780 --> 00:09:46,870
+when to fail and
+recognize that failure,
+
+266
+00:09:46,870 --> 00:09:48,370
+and sometimes celebrate it.
+
+267
+00:09:48,370 --> 00:09:50,640
+Don't say, oh my gosh,
+poor me, I failed.
+
+268
+00:09:50,640 --> 00:09:52,810
+It's more like, OK, I failed,
+let's learn from this.
+
+269
+00:09:52,810 --> 00:09:55,570
+Let's make it a
+monument to learning.
+
+270
+00:09:55,570 --> 00:10:00,000
+ 
+
+271
+00:10:00,000 --> 00:10:02,880
+ 
+
+272
+00:10:02,880 --> 00:10:05,170
+In your design, at
+some point you're
+
+273
+00:10:05,170 --> 00:10:07,210
+going to have to finish it--
+
+274
+00:10:07,210 --> 00:10:08,050
+finish building it.
+
+275
+00:10:08,050 --> 00:10:10,760
+You have to scope your design.
+
+276
+00:10:10,760 --> 00:10:13,780
+It's important to not
+overreach, but at the same time,
+
+277
+00:10:13,780 --> 00:10:15,320
+you don't want to
+make it too simple.
+
+278
+00:10:15,320 --> 00:10:18,100
+You want to achieve
+something kind of cool.
+
+279
+00:10:18,100 --> 00:10:22,330
+But it's really kind of a sweet
+spot of diminishing returns
+
+280
+00:10:22,330 --> 00:10:24,790
+in some sense, but
+also it's surprising
+
+281
+00:10:24,790 --> 00:10:27,340
+how the simplest
+little things in a game
+
+282
+00:10:27,340 --> 00:10:30,000
+sometimes can be the biggest
+features that people just love,
+
+283
+00:10:30,000 --> 00:10:30,130
+sometimes can be the biggest
+features that people just love,
+
+284
+00:10:30,130 --> 00:10:32,000
+that you spent no time at all.
+
+285
+00:10:32,000 --> 00:10:34,420
+And a lot of times, you'll
+spend all this time and effort
+
+286
+00:10:34,420 --> 00:10:36,910
+on some elaborate thing
+that you think will be cool,
+
+287
+00:10:36,910 --> 00:10:39,370
+and it turns out
+to just fall flat.
+
+288
+00:10:39,370 --> 00:10:41,290
+If you can discover that
+prototyping early on,
+
+289
+00:10:41,290 --> 00:10:43,480
+that's the best way
+to deal with it.
+
+290
+00:10:43,480 --> 00:10:46,510
+But overall in terms
+of scope, I think
+
+291
+00:10:46,510 --> 00:10:49,360
+you want to put the
+player into an experience
+
+292
+00:10:49,360 --> 00:10:52,390
+where they have an
+understanding of the boundaries
+
+293
+00:10:52,390 --> 00:10:54,220
+to some degree.
+
+294
+00:10:54,220 --> 00:10:57,640
+And again, it's almost like you
+can put a kid into any game,
+
+295
+00:10:57,640 --> 00:11:00,000
+and within a few minutes,
+they can kind of intuit how
+
+296
+00:11:00,000 --> 00:11:00,760
+and within a few minutes,
+they can kind of intuit how
+
+297
+00:11:00,760 --> 00:11:02,410
+open-ended that game is--
+
+298
+00:11:02,410 --> 00:11:05,570
+how much freedom and how much
+agency they have in that game.
+
+299
+00:11:05,570 --> 00:11:07,780
+If you put a tiger in a
+cage, the first thing he does
+
+300
+00:11:07,780 --> 00:11:10,030
+is walk around the perimeter
+to define his space.
+
+301
+00:11:10,030 --> 00:11:11,870
+You know, how big is my world?
+
+302
+00:11:11,870 --> 00:11:16,420
+A lot of times, people
+over-engineer things,
+
+303
+00:11:16,420 --> 00:11:17,830
+and programmers
+tend to do that--
+
+304
+00:11:17,830 --> 00:11:19,210
+what if you decide
+you want this later,
+
+305
+00:11:19,210 --> 00:11:21,100
+so I'm going to go
+ahead and put it in now.
+
+306
+00:11:21,100 --> 00:11:23,270
+And they'll build something
+twice as complex as what
+
+307
+00:11:23,270 --> 00:11:24,570
+you actually need for the game.
+
+308
+00:11:24,570 --> 00:11:26,280
+And this happens all
+the time, especially
+
+309
+00:11:26,280 --> 00:11:28,480
+on the programming side.
+
+310
+00:11:28,480 --> 00:11:30,000
+The artists, I think, are a
+little bit better about that.
+
+311
+00:11:30,000 --> 00:11:31,640
+The artists, I think, are a
+little bit better about that.
+
+312
+00:11:31,640 --> 00:11:33,010
+Kind of understanding
+hey, here's
+
+313
+00:11:33,010 --> 00:11:34,630
+the resolution we're
+working at, here's
+
+314
+00:11:34,630 --> 00:11:36,400
+the way the animations behave.
+
+315
+00:11:36,400 --> 00:11:38,320
+And they're pretty good
+at hitting their mark,
+
+316
+00:11:38,320 --> 00:11:39,940
+in terms of the sweet spot--
+
+317
+00:11:39,940 --> 00:11:42,700
+amount of time and effort
+and budget spent on it.
+
+318
+00:11:42,700 --> 00:11:45,190
+I think the designer has to
+have some understanding--
+
+319
+00:11:45,190 --> 00:11:46,720
+almost this psychology--
+
+320
+00:11:46,720 --> 00:11:49,050
+of the different components
+of your game team--
+
+321
+00:11:49,050 --> 00:11:50,470
+this is the way
+programmers think,
+
+322
+00:11:50,470 --> 00:11:53,200
+this is the way artists think,
+this is the way the writers
+
+323
+00:11:53,200 --> 00:11:54,670
+and the sound people think--
+
+324
+00:11:54,670 --> 00:11:58,220
+and make sure that nobody--
+
+325
+00:11:58,220 --> 00:12:00,000
+no one side of that is
+spending way too much relative
+
+326
+00:12:00,000 --> 00:12:00,870
+no one side of that is
+spending way too much relative
+
+327
+00:12:00,870 --> 00:12:01,950
+to the others.
+
+328
+00:12:01,950 --> 00:12:04,010
+So I think a lot of it
+really is a more balancing
+
+329
+00:12:04,010 --> 00:12:06,540
+act across the different
+components of your game design.
+
+330
+00:12:06,540 --> 00:12:08,330
+So players are going
+to come into your game
+
+331
+00:12:08,330 --> 00:12:10,030
+with this expectation as well.
+
+332
+00:12:10,030 --> 00:12:11,900
+They're going to see
+it's an open-ended game.
+
+333
+00:12:11,900 --> 00:12:14,510
+I expect to be able to
+do this many things,
+
+334
+00:12:14,510 --> 00:12:16,070
+I expect the world
+to be this big.
+
+335
+00:12:16,070 --> 00:12:17,480
+Especially if somebody
+says, oh, I like your idea,
+
+336
+00:12:17,480 --> 00:12:18,680
+I like your idea.
+
+337
+00:12:18,680 --> 00:12:20,690
+And then you ask them
+describe it back to you
+
+338
+00:12:20,690 --> 00:12:23,360
+and see which parts of your idea
+that they're actually repeating
+
+339
+00:12:23,360 --> 00:12:25,360
+back to you, and are
+they adding things to it
+
+340
+00:12:25,360 --> 00:12:26,440
+or removing stuff from it.
+
+341
+00:12:26,440 --> 00:12:30,000
+ 
+
+342
+00:12:30,000 --> 00:12:34,420
+ 
+
+343
+00:12:34,420 --> 00:12:37,260
+As we're going through this
+process of game design,
+
+344
+00:12:37,260 --> 00:12:39,060
+one thing that I found
+incredibly useful--
+
+345
+00:12:39,060 --> 00:12:41,060
+and a lot of design teams
+do this-- is basically
+
+346
+00:12:41,060 --> 00:12:42,330
+a form of triage.
+
+347
+00:12:42,330 --> 00:12:45,180
+The designers-- once they have
+some handle around what this
+
+348
+00:12:45,180 --> 00:12:46,020
+game might be--
+
+349
+00:12:46,020 --> 00:12:47,560
+will come up with
+a set of features--
+
+350
+00:12:47,560 --> 00:12:50,370
+it'd be cool if it had
+this, that, and the other.
+
+351
+00:12:50,370 --> 00:12:52,720
+Designers will actually
+put value judgments--
+
+352
+00:12:52,720 --> 00:12:54,300
+that would be really
+cool, that's kind
+
+353
+00:12:54,300 --> 00:12:56,040
+of cool, that's so-so.
+
+354
+00:12:56,040 --> 00:12:58,440
+And so designers might
+go in and give the A, B,
+
+355
+00:12:58,440 --> 00:13:00,000
+and C in terms of
+this is what we
+
+356
+00:13:00,000 --> 00:13:00,780
+and C in terms of
+this is what we
+
+357
+00:13:00,780 --> 00:13:02,070
+would like to have in the game.
+
+358
+00:13:02,070 --> 00:13:03,530
+Then you bring it
+to the engineers,
+
+359
+00:13:03,530 --> 00:13:06,220
+and the engineers will assign
+a cost to each of these things.
+
+360
+00:13:06,220 --> 00:13:07,020
+That's a seven.
+
+361
+00:13:07,020 --> 00:13:07,680
+That's a one.
+
+362
+00:13:07,680 --> 00:13:09,430
+That's a 10, that's really hard.
+
+363
+00:13:09,430 --> 00:13:11,020
+And so then you have to kind
+of look at the two together.
+
+364
+00:13:11,020 --> 00:13:13,060
+You have to say, the
+designers think that's an A,
+
+365
+00:13:13,060 --> 00:13:15,730
+but the engineers
+say it's 10, hard.
+
+366
+00:13:15,730 --> 00:13:17,310
+This one, the designers
+say it's an A,
+
+367
+00:13:17,310 --> 00:13:18,660
+but the engineers say it's two.
+
+368
+00:13:18,660 --> 00:13:20,550
+So that's a much better
+return investment.
+
+369
+00:13:20,550 --> 00:13:22,970
+So basically, you're going for
+the low-hanging fruit here.
+
+370
+00:13:22,970 --> 00:13:24,720
+And you use this to
+reorder the list,
+
+371
+00:13:24,720 --> 00:13:25,920
+and say, OK, we're going
+to go for the things
+
+372
+00:13:25,920 --> 00:13:27,900
+the designers want the
+most and the engineers
+
+373
+00:13:27,900 --> 00:13:29,050
+say will cost the least.
+
+374
+00:13:29,050 --> 00:13:30,000
+And you read over the list.
+
+375
+00:13:30,000 --> 00:13:30,180
+And you read over the list.
+
+376
+00:13:30,180 --> 00:13:32,220
+Now imagine if we just
+had those features.
+
+377
+00:13:32,220 --> 00:13:33,840
+Is that something viable?
+
+378
+00:13:33,840 --> 00:13:34,650
+Probably not.
+
+379
+00:13:34,650 --> 00:13:37,680
+So we keep going through this
+over and over again, and--
+
+380
+00:13:37,680 --> 00:13:39,890
+But still, this might
+really influence the order
+
+381
+00:13:39,890 --> 00:13:41,310
+in which we build
+this, because we
+
+382
+00:13:41,310 --> 00:13:43,910
+can have something playable
+much more early if we pick
+
+383
+00:13:43,910 --> 00:13:45,870
+the things that are a
+little bit easier, faster
+
+384
+00:13:45,870 --> 00:13:47,550
+for the programmers
+to produce, even
+
+385
+00:13:47,550 --> 00:13:49,440
+as just milestone prototypes.
+
+386
+00:13:49,440 --> 00:13:56,670
+ 
+
+387
+00:13:56,670 --> 00:13:57,840
+There have been examples--
+
+388
+00:13:57,840 --> 00:14:00,000
+I mean situations where it was
+so important to the designers,
+
+389
+00:14:00,000 --> 00:14:02,250
+I mean situations where it was
+so important to the designers,
+
+390
+00:14:02,250 --> 00:14:05,310
+the cost was almost irrelevant.
+
+391
+00:14:05,310 --> 00:14:06,960
+It was really could
+we do it or not
+
+392
+00:14:06,960 --> 00:14:09,210
+and can we afford that cost.
+
+393
+00:14:09,210 --> 00:14:11,290
+When we did "Spore," we
+really wanted the players
+
+394
+00:14:11,290 --> 00:14:12,780
+design the creatures,
+and we wanted
+
+395
+00:14:12,780 --> 00:14:14,910
+to have a wide variety
+of possible creatures.
+
+396
+00:14:14,910 --> 00:14:16,950
+And we basically
+couldn't figure out
+
+397
+00:14:16,950 --> 00:14:18,570
+how to animate these
+things, because we
+
+398
+00:14:18,570 --> 00:14:20,070
+didn't know what they were yet.
+
+399
+00:14:20,070 --> 00:14:21,840
+Typically, animation
+is very data driven--
+
+400
+00:14:21,840 --> 00:14:25,540
+the skeleton, that's moving,
+has two feet, a head.
+
+401
+00:14:25,540 --> 00:14:27,080
+In this case, we
+had no idea how many
+
+402
+00:14:27,080 --> 00:14:29,920
+legs does this creature
+have, what's its shape,
+
+403
+00:14:29,920 --> 00:14:30,000
+where does the spine go.
+
+404
+00:14:30,000 --> 00:14:31,650
+where does the spine go.
+
+405
+00:14:31,650 --> 00:14:33,810
+So we kind of realized
+early on that we
+
+406
+00:14:33,810 --> 00:14:36,570
+had to crack this nut
+of procedural animation
+
+407
+00:14:36,570 --> 00:14:38,250
+to make it even viable.
+
+408
+00:14:38,250 --> 00:14:42,400
+And without that, we couldn't
+go down that path at all.
+
+409
+00:14:42,400 --> 00:14:45,180
+And so we kind of
+stopped everything--
+
+410
+00:14:45,180 --> 00:14:47,250
+got some very skilled
+people, very smart people
+
+411
+00:14:47,250 --> 00:14:50,100
+working on this problem
+for a few months.
+
+412
+00:14:50,100 --> 00:14:53,160
+And after a few months, they had
+actually said, we can do this,
+
+413
+00:14:53,160 --> 00:14:55,390
+and they were actually
+showing us examples--
+
+414
+00:14:55,390 --> 00:14:57,510
+prototypes they had built
+where they were doing it.
+
+415
+00:14:57,510 --> 00:14:59,020
+And once we were convinced
+that they could do it
+
+416
+00:14:59,020 --> 00:15:00,000
+and it wasn't an
+expensive thing to do,
+
+417
+00:15:00,000 --> 00:15:00,780
+and it wasn't an
+expensive thing to do,
+
+418
+00:15:00,780 --> 00:15:02,910
+we decided to go down
+that design path.
+
+419
+00:15:02,910 --> 00:15:08,040
+So that was one where it was
+basically imperative to have
+
+420
+00:15:08,040 --> 00:15:10,980
+that feature, and we just had
+to find out if we could do it.
+
+421
+00:15:10,980 --> 00:15:14,220
+Other times, there were
+things in a game where--
+
+422
+00:15:14,220 --> 00:15:18,300
+like in "Sim City," we wanted
+to have boats and water traffic
+
+423
+00:15:18,300 --> 00:15:19,520
+in "Sim City 2000."
+
+424
+00:15:19,520 --> 00:15:21,810
+And because the way we were
+doing the type of graphics,
+
+425
+00:15:21,810 --> 00:15:23,100
+we would have had to
+go back and really
+
+426
+00:15:23,100 --> 00:15:25,220
+change a lot of the
+graphics system to do that.
+
+427
+00:15:25,220 --> 00:15:27,640
+And the value was very low for
+that version of "Sim City."
+
+428
+00:15:27,640 --> 00:15:29,580
+We eventually added
+later versions.
+
+429
+00:15:29,580 --> 00:15:30,000
+That was one where the
+design value of the feature
+
+430
+00:15:30,000 --> 00:15:33,210
+That was one where the
+design value of the feature
+
+431
+00:15:33,210 --> 00:15:35,930
+was really pretty low and
+the cost was really high.
+
+432
+00:15:35,930 --> 00:15:37,800
+And it depends also on
+all the other features
+
+433
+00:15:37,800 --> 00:15:38,610
+you currently have.
+
+434
+00:15:38,610 --> 00:15:40,440
+You can't take any one
+feature in isolation.
+
+435
+00:15:40,440 --> 00:15:42,990
+You have to say, OK, how does
+that influence everything else?
+
+436
+00:15:42,990 --> 00:15:44,980
+Ideally, every time you
+add something to a game,
+
+437
+00:15:44,980 --> 00:15:46,300
+it's like a force multiplier.
+
+438
+00:15:46,300 --> 00:15:47,970
+It's making the other
+stuff even cooler,
+
+439
+00:15:47,970 --> 00:15:50,790
+making the world seem even
+richer, or more emergent.
+
+440
+00:15:50,790 --> 00:15:54,430
+So it's important
+that, as a designer,
+
+441
+00:15:54,430 --> 00:15:57,100
+you're always keeping in
+mind the entire design,
+

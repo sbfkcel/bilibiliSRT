@@ -1,0 +1,2702 @@
+1
+00:00:00,000 --> 00:00:02,990
+[MUSIC PLAYING]
+
+2
+00:00:02,990 --> 00:00:08,470
+ 
+
+3
+00:00:08,470 --> 00:00:10,810
+WILL WRIGHT: Within these
+games, within these worlds,
+
+4
+00:00:10,810 --> 00:00:12,950
+there are a lot of moving
+parts, a lot of dynamics.
+
+5
+00:00:12,950 --> 00:00:15,310
+You want this to be a rich,
+interesting environment
+
+6
+00:00:15,310 --> 00:00:16,830
+for the player to explore.
+
+7
+00:00:16,830 --> 00:00:18,910
+My approach has always
+been to step back and think
+
+8
+00:00:18,910 --> 00:00:20,300
+of this whole thing as a system.
+
+9
+00:00:20,300 --> 00:00:22,010
+What is the system
+that's happening here?
+
+10
+00:00:22,010 --> 00:00:24,510
+And actually, when you get down
+to the engineering of things
+
+11
+00:00:24,510 --> 00:00:26,260
+like simulations,
+you really do need
+
+12
+00:00:26,260 --> 00:00:27,510
+to think of it as a system.
+
+13
+00:00:27,510 --> 00:00:29,350
+And you need to think about
+it, what is my paradigm?
+
+14
+00:00:29,350 --> 00:00:30,000
+What is the way in which I'm
+going to structure the world?
+
+15
+00:00:30,000 --> 00:00:31,670
+What is the way in which I'm
+going to structure the world?
+
+16
+00:00:31,670 --> 00:00:32,409
+How is it going to operate?
+
+17
+00:00:32,409 --> 00:00:33,040
+What are the parts?
+
+18
+00:00:33,040 --> 00:00:34,580
+How do they interact
+with each other?
+
+19
+00:00:34,580 --> 00:00:45,850
+ 
+
+20
+00:00:45,850 --> 00:00:47,810
+Systems are interesting.
+
+21
+00:00:47,810 --> 00:00:49,190
+In some sense,
+what they're going
+
+22
+00:00:49,190 --> 00:00:51,930
+to lead us to is this idea
+that everybody in a game
+
+23
+00:00:51,930 --> 00:00:54,430
+is going to be exploring the
+possibility space of that game.
+
+24
+00:00:54,430 --> 00:00:55,990
+Where are all the
+possible states
+
+25
+00:00:55,990 --> 00:00:57,820
+that that world could be in?
+
+26
+00:00:57,820 --> 00:01:00,000
+For something like chess,
+it's fairly obvious,
+
+27
+00:01:00,000 --> 00:01:00,430
+For something like chess,
+it's fairly obvious,
+
+28
+00:01:00,430 --> 00:01:03,320
+although it's a very
+big, branching tree.
+
+29
+00:01:03,320 --> 00:01:04,239
+It's a branching tree.
+
+30
+00:01:04,239 --> 00:01:07,840
+Every move in chess leads to
+another set of possible moves.
+
+31
+00:01:07,840 --> 00:01:10,390
+And you unfold that branching
+tree of all the possible moves
+
+32
+00:01:10,390 --> 00:01:13,090
+of chess and you come up
+with an astronomical number,
+
+33
+00:01:13,090 --> 00:01:14,230
+but it's still finite.
+
+34
+00:01:14,230 --> 00:01:19,500
+There are a finite number
+of possible states in chess.
+
+35
+00:01:19,500 --> 00:01:22,390
+The very early games had
+very simple branching trees,
+
+36
+00:01:22,390 --> 00:01:23,620
+very much like chess.
+
+37
+00:01:23,620 --> 00:01:26,080
+Basically, structure branching
+trees that were explicitly
+
+38
+00:01:26,080 --> 00:01:27,370
+put there by the designer.
+
+39
+00:01:27,370 --> 00:01:29,160
+And this is very much
+like one of those old
+
+40
+00:01:29,160 --> 00:01:30,000
+choose your own adventure books.
+
+41
+00:01:30,000 --> 00:01:30,610
+choose your own adventure books.
+
+42
+00:01:30,610 --> 00:01:33,190
+If you're going to go into
+the cave, go to page 7.
+
+43
+00:01:33,190 --> 00:01:35,830
+If you're going to go to the
+top of the hill, go to page 20.
+
+44
+00:01:35,830 --> 00:01:37,270
+But basically, the
+writer's having
+
+45
+00:01:37,270 --> 00:01:39,290
+to fill out every possible
+branch of that book.
+
+46
+00:01:39,290 --> 00:01:42,040
+So it's a very limited
+structure, a very limited world
+
+47
+00:01:42,040 --> 00:01:43,270
+to explore.
+
+48
+00:01:43,270 --> 00:01:47,140
+Later games started doing what
+I call gated experiences, a game
+
+49
+00:01:47,140 --> 00:01:49,170
+like, let's say, Quake or Doom.
+
+50
+00:01:49,170 --> 00:01:51,490
+You're within a level and
+you have all this agency
+
+51
+00:01:51,490 --> 00:01:53,320
+and freedom within that
+level, but until you
+
+52
+00:01:53,320 --> 00:01:56,690
+get through the level and get
+to that locked door at the end,
+
+53
+00:01:56,690 --> 00:01:58,270
+basically, you're
+in this little room,
+
+54
+00:01:58,270 --> 00:02:00,000
+this little, small regional
+possibility of space.
+
+55
+00:02:00,000 --> 00:02:01,450
+this little, small regional
+possibility of space.
+
+56
+00:02:01,450 --> 00:02:02,980
+Once you get through
+that, it opens
+
+57
+00:02:02,980 --> 00:02:04,630
+another regional
+possibility of space.
+
+58
+00:02:04,630 --> 00:02:06,380
+So you basically have
+these little islands
+
+59
+00:02:06,380 --> 00:02:09,500
+of possibility of space
+with gates between them.
+
+60
+00:02:09,500 --> 00:02:12,700
+And then there have been basic
+hybrids of these two models
+
+61
+00:02:12,700 --> 00:02:13,780
+over time.
+
+62
+00:02:13,780 --> 00:02:15,830
+But then as players
+and designers
+
+63
+00:02:15,830 --> 00:02:18,250
+started building more
+open-ended simulations,
+
+64
+00:02:18,250 --> 00:02:19,990
+it opened up a lot more.
+
+65
+00:02:19,990 --> 00:02:22,630
+So as we started building
+open-ended games--
+
+66
+00:02:22,630 --> 00:02:25,070
+sandbox games, Grand
+Theft Auto, Sims--
+
+67
+00:02:25,070 --> 00:02:27,070
+we're actually looking
+at a possibility of space
+
+68
+00:02:27,070 --> 00:02:28,110
+that's vast, large.
+
+69
+00:02:28,110 --> 00:02:30,000
+And this is when we
+really have to now view it
+
+70
+00:02:30,000 --> 00:02:30,030
+And this is when we
+really have to now view it
+
+71
+00:02:30,030 --> 00:02:32,710
+as a system, not as a
+branching tree of possibility.
+
+72
+00:02:32,710 --> 00:02:34,670
+We're not going to map
+out every possibility.
+
+73
+00:02:34,670 --> 00:02:35,390
+What we're going to
+do is we're going
+
+74
+00:02:35,390 --> 00:02:37,840
+to build a set of things
+that interact in a way
+
+75
+00:02:37,840 --> 00:02:40,780
+to, basically, generate
+these possibilities for us.
+
+76
+00:02:40,780 --> 00:02:42,460
+For the Sims, the
+way I visualized
+
+77
+00:02:42,460 --> 00:02:46,030
+it was that, basically,
+you had two directions you
+
+78
+00:02:46,030 --> 00:02:47,350
+could go for achievement.
+
+79
+00:02:47,350 --> 00:02:50,350
+You go for social achievement
+or material achievement.
+
+80
+00:02:50,350 --> 00:02:52,690
+You could try to make a
+lot of friends in the Sims,
+
+81
+00:02:52,690 --> 00:02:54,970
+build a big family,
+have people like you.
+
+82
+00:02:54,970 --> 00:02:57,100
+Or you could try to
+make a lot of money,
+
+83
+00:02:57,100 --> 00:03:00,000
+buy things for your
+house, grow, acquire.
+
+84
+00:03:00,000 --> 00:03:00,670
+buy things for your
+house, grow, acquire.
+
+85
+00:03:00,670 --> 00:03:03,850
+And really, the way I visualized
+it was almost like a bowling
+
+86
+00:03:03,850 --> 00:03:07,090
+alley here, in that if I went
+down one path or the other,
+
+87
+00:03:07,090 --> 00:03:09,010
+it was like getting
+stuck in a gutter.
+
+88
+00:03:09,010 --> 00:03:10,960
+To achieve maximum
+success, you had
+
+89
+00:03:10,960 --> 00:03:12,950
+to balance the two
+achievements together
+
+90
+00:03:12,950 --> 00:03:14,620
+to get the highest
+level of achievement,
+
+91
+00:03:14,620 --> 00:03:15,610
+which is right down the middle.
+
+92
+00:03:15,610 --> 00:03:17,760
+If you went too far to
+one side or the other,
+
+93
+00:03:17,760 --> 00:03:20,270
+you'd actually get stuck on
+a local maxim on either side.
+
+94
+00:03:20,270 --> 00:03:22,930
+So this is basically the
+way I was visualizing
+
+95
+00:03:22,930 --> 00:03:24,670
+a certain region of
+the possibility space
+
+96
+00:03:24,670 --> 00:03:26,500
+within the Sims the
+players would encounter.
+
+97
+00:03:26,500 --> 00:03:30,000
+We use that as a guideline
+for tuning the game.
+
+98
+00:03:30,000 --> 00:03:30,700
+We use that as a guideline
+for tuning the game.
+
+99
+00:03:30,700 --> 00:03:33,640
+After we actually were really
+in deep tuning of the game--
+
+100
+00:03:33,640 --> 00:03:35,310
+we had thousands of
+players playing it--
+
+101
+00:03:35,310 --> 00:03:37,600
+we, in fact, were actually
+mapping the real possibility
+
+102
+00:03:37,600 --> 00:03:39,020
+of space they were
+going through,
+
+103
+00:03:39,020 --> 00:03:41,560
+and we were actually looking at
+how the players would fan out
+
+104
+00:03:41,560 --> 00:03:42,630
+across these dimensions.
+
+105
+00:03:42,630 --> 00:03:45,340
+These are graphs here
+of the way players
+
+106
+00:03:45,340 --> 00:03:46,480
+were actually fanning out.
+
+107
+00:03:46,480 --> 00:03:48,360
+At first, we saw too
+many on this side,
+
+108
+00:03:48,360 --> 00:03:49,360
+not enough on that side.
+
+109
+00:03:49,360 --> 00:03:51,440
+We changed the parameters
+of the game a little bit
+
+110
+00:03:51,440 --> 00:03:53,530
+and actually evened
+out so that these
+
+111
+00:03:53,530 --> 00:03:56,150
+were equally attractive
+to a wide group
+
+112
+00:03:56,150 --> 00:03:57,730
+players, that whole space.
+
+113
+00:03:57,730 --> 00:04:00,000
+ 
+
+114
+00:04:00,000 --> 00:04:05,290
+ 
+
+115
+00:04:05,290 --> 00:04:07,900
+Going a little bit deeper, and
+actually, how do we build this?
+
+116
+00:04:07,900 --> 00:04:08,940
+How do we think about it?
+
+117
+00:04:08,940 --> 00:04:10,490
+How do we engineer it?
+
+118
+00:04:10,490 --> 00:04:12,090
+I needed to find
+two things here,
+
+119
+00:04:12,090 --> 00:04:13,260
+the way I think about them.
+
+120
+00:04:13,260 --> 00:04:14,630
+What is structure?
+
+121
+00:04:14,630 --> 00:04:16,420
+What is something made of?
+
+122
+00:04:16,420 --> 00:04:17,740
+What are its parts?
+
+123
+00:04:17,740 --> 00:04:19,420
+A structure of a
+tree, it has a trunk.
+
+124
+00:04:19,420 --> 00:04:20,100
+It has branches.
+
+125
+00:04:20,100 --> 00:04:21,769
+It has leaves.
+
+126
+00:04:21,769 --> 00:04:24,470
+Then there are dynamics,
+and this is process.
+
+127
+00:04:24,470 --> 00:04:26,000
+This is what happens over time.
+
+128
+00:04:26,000 --> 00:04:27,880
+In this case, it's what
+can happen to a tree?
+
+129
+00:04:27,880 --> 00:04:29,320
+How does it grow?
+
+130
+00:04:29,320 --> 00:04:30,000
+Can you cut it down?
+
+131
+00:04:30,000 --> 00:04:30,610
+Can you cut it down?
+
+132
+00:04:30,610 --> 00:04:32,110
+Can you turn it into firewood?
+
+133
+00:04:32,110 --> 00:04:33,790
+What happens over the seasons?
+
+134
+00:04:33,790 --> 00:04:35,350
+So those are all
+the dynamics that
+
+135
+00:04:35,350 --> 00:04:36,850
+can happen to a
+tree, which are very
+
+136
+00:04:36,850 --> 00:04:39,610
+different than the
+structure of a tree.
+
+137
+00:04:39,610 --> 00:04:43,270
+From that, I started
+imagining the different things
+
+138
+00:04:43,270 --> 00:04:45,640
+I use as a designer to
+build these systems.
+
+139
+00:04:45,640 --> 00:04:49,450
+And structurally, I
+basically think in terms
+
+140
+00:04:49,450 --> 00:04:51,590
+of three types of structure.
+
+141
+00:04:51,590 --> 00:04:53,140
+One is what I call agents.
+
+142
+00:04:53,140 --> 00:04:56,230
+These are objects that can move
+around, interact in a world
+
+143
+00:04:56,230 --> 00:04:57,190
+somehow.
+
+144
+00:04:57,190 --> 00:04:58,190
+Next is networks.
+
+145
+00:04:58,190 --> 00:05:00,000
+These are things that are
+connected through some type
+
+146
+00:05:00,000 --> 00:05:00,400
+These are things that are
+connected through some type
+
+147
+00:05:00,400 --> 00:05:02,860
+of relationship formally.
+
+148
+00:05:02,860 --> 00:05:04,430
+And it could be relationships.
+
+149
+00:05:04,430 --> 00:05:05,800
+It could be economic.
+
+150
+00:05:05,800 --> 00:05:06,760
+It could be biological.
+
+151
+00:05:06,760 --> 00:05:07,630
+It could be anything.
+
+152
+00:05:07,630 --> 00:05:09,200
+And the last one is layers.
+
+153
+00:05:09,200 --> 00:05:10,880
+And this tends to
+be more spatial.
+
+154
+00:05:10,880 --> 00:05:12,250
+Something like
+Sim City, there's,
+
+155
+00:05:12,250 --> 00:05:14,500
+basically, the pollution layer.
+
+156
+00:05:14,500 --> 00:05:15,650
+There's the traffic layer.
+
+157
+00:05:15,650 --> 00:05:18,520
+These are things
+that are specialized.
+
+158
+00:05:18,520 --> 00:05:21,370
+And everything in the
+game, like Sim City,
+
+159
+00:05:21,370 --> 00:05:22,580
+is one of these three things.
+
+160
+00:05:22,580 --> 00:05:25,090
+It's either an agent,
+a network, or layer.
+
+161
+00:05:25,090 --> 00:05:28,330
+The road, basically, is a
+network of intersections
+
+162
+00:05:28,330 --> 00:05:29,680
+connecting areas.
+
+163
+00:05:29,680 --> 00:05:30,000
+Something like pollution,
+crime are layers.
+
+164
+00:05:30,000 --> 00:05:33,010
+Something like pollution,
+crime are layers.
+
+165
+00:05:33,010 --> 00:05:35,860
+Cars moving around, people
+around, even buildings
+
+166
+00:05:35,860 --> 00:05:38,590
+are agents, sitting on the
+landscape with some identity
+
+167
+00:05:38,590 --> 00:05:41,390
+and some parameters.
+
+168
+00:05:41,390 --> 00:05:46,330
+So that's the typologies,
+or the structure, of games,
+
+169
+00:05:46,330 --> 00:05:55,150
+the way I think of systems
+
+170
+00:05:55,150 --> 00:05:59,540
+Next, when we get into dynamics,
+any of these topologies,
+
+171
+00:05:59,540 --> 00:06:00,000
+any one of these dynamics can
+occur, things like propagation.
+
+172
+00:06:00,000 --> 00:06:02,080
+any one of these dynamics can
+occur, things like propagation.
+
+173
+00:06:02,080 --> 00:06:04,930
+How does something
+spread through that?
+
+174
+00:06:04,930 --> 00:06:08,620
+Growth, grouping, order,
+allocation, mapping,
+
+175
+00:06:08,620 --> 00:06:10,750
+specialization, all
+these are dynamics that
+
+176
+00:06:10,750 --> 00:06:13,940
+occur within these typologies.
+
+177
+00:06:13,940 --> 00:06:15,940
+In some sense, these
+are now the verbs.
+
+178
+00:06:15,940 --> 00:06:17,800
+The topologies are
+the nouns that we're
+
+179
+00:06:17,800 --> 00:06:19,030
+building the game out of.
+
+180
+00:06:19,030 --> 00:06:21,370
+These dynamics are the verbs.
+
+181
+00:06:21,370 --> 00:06:25,150
+And lastly, how do
+we think about this?
+
+182
+00:06:25,150 --> 00:06:28,300
+What is our underlying metaphor
+for bringing these things
+
+183
+00:06:28,300 --> 00:06:28,820
+together?
+
+184
+00:06:28,820 --> 00:06:30,000
+And that's what
+I call paradigms.
+
+185
+00:06:30,000 --> 00:06:30,220
+And that's what
+I call paradigms.
+
+186
+00:06:30,220 --> 00:06:32,050
+Initially, there
+were things way back
+
+187
+00:06:32,050 --> 00:06:34,090
+in the '40s called cybernetics.
+
+188
+00:06:34,090 --> 00:06:37,050
+But really, it was very simple
+systems, like a thermostat.
+
+189
+00:06:37,050 --> 00:06:38,470
+And originally,
+this was developed
+
+190
+00:06:38,470 --> 00:06:41,560
+for things like autopilot, a
+very simple machine control.
+
+191
+00:06:41,560 --> 00:06:43,570
+Governors on steam
+engines, even,
+
+192
+00:06:43,570 --> 00:06:45,880
+are an example of a
+cybernetic system.
+
+193
+00:06:45,880 --> 00:06:48,610
+But in essence, it's a
+very simple, little system
+
+194
+00:06:48,610 --> 00:06:50,670
+trying to seek a behavior,
+seek some set point.
+
+195
+00:06:50,670 --> 00:06:51,670
+It might be temperature.
+
+196
+00:06:51,670 --> 00:06:54,820
+It might be the speed
+of an engine, whatever.
+
+197
+00:06:54,820 --> 00:06:56,650
+It was only in the '50s,
+when the very first
+
+198
+00:06:56,650 --> 00:06:59,100
+primitive computers
+started coming around,
+
+199
+00:06:59,100 --> 00:07:00,000
+that the idea of system
+dynamics came out.
+
+200
+00:07:00,000 --> 00:07:01,630
+that the idea of system
+dynamics came out.
+
+201
+00:07:01,630 --> 00:07:04,810
+A guy named Jay Forrester kind
+of came up with this concept.
+
+202
+00:07:04,810 --> 00:07:06,990
+And it's almost hydrological.
+
+203
+00:07:06,990 --> 00:07:10,710
+It's almost based upon
+a chemical refinery
+
+204
+00:07:10,710 --> 00:07:14,500
+in that in system dynamics,
+you just basically have valves
+
+205
+00:07:14,500 --> 00:07:16,740
+and flows and containers.
+
+206
+00:07:16,740 --> 00:07:20,650
+A container might be population
+or it might be number of cars.
+
+207
+00:07:20,650 --> 00:07:23,020
+A flow might be birth
+rate or death rate.
+
+208
+00:07:23,020 --> 00:07:25,460
+And you have little algorithms
+that will adjust the flows.
+
+209
+00:07:25,460 --> 00:07:26,920
+For the birth rate,
+death rate, you
+
+210
+00:07:26,920 --> 00:07:28,810
+can see what the
+population does over time.
+
+211
+00:07:28,810 --> 00:07:30,000
+And he would build these
+very elaborate models
+
+212
+00:07:30,000 --> 00:07:31,090
+And he would build these
+very elaborate models
+
+213
+00:07:31,090 --> 00:07:34,720
+of very complicated systems,
+things like the world--
+
+214
+00:07:34,720 --> 00:07:35,560
+food production.
+
+215
+00:07:35,560 --> 00:07:37,020
+Or in fact, he was
+the first person
+
+216
+00:07:37,020 --> 00:07:39,730
+to actually build a city model
+using this kind of paradigm.
+
+217
+00:07:39,730 --> 00:07:41,230
+The next one I'm
+going to talk about
+
+218
+00:07:41,230 --> 00:07:45,850
+is cellular automata, which
+really kind of came to its own
+
+219
+00:07:45,850 --> 00:07:47,560
+when PCs were really
+starting to come out
+
+220
+00:07:47,560 --> 00:07:49,640
+and people had access
+to cheaper computers.
+
+221
+00:07:49,640 --> 00:07:51,370
+Although, in fact,
+cellular automata were
+
+222
+00:07:51,370 --> 00:07:53,300
+predated system dynamics.
+
+223
+00:07:53,300 --> 00:07:55,450
+Cellular automata are
+basically the idea
+
+224
+00:07:55,450 --> 00:07:59,320
+that there's a grid and cells.
+
+225
+00:07:59,320 --> 00:08:00,000
+And these cells can
+either be on or off
+
+226
+00:08:00,000 --> 00:08:02,130
+And these cells can
+either be on or off
+
+227
+00:08:02,130 --> 00:08:03,560
+or have quantities in them.
+
+228
+00:08:03,560 --> 00:08:05,530
+But basically, all the
+dynamics within that
+
+229
+00:08:05,530 --> 00:08:08,410
+are based upon the neighbors and
+the behavior of the neighbors.
+
+230
+00:08:08,410 --> 00:08:11,140
+The simplest example of
+this is a game called Life.
+
+231
+00:08:11,140 --> 00:08:13,690
+John Conway, a mathematician,
+came up with this very simple
+
+232
+00:08:13,690 --> 00:08:15,820
+system, and it's a grid.
+
+233
+00:08:15,820 --> 00:08:17,790
+Actually, I'm going to
+go to the whiteboard,
+
+234
+00:08:17,790 --> 00:08:21,070
+just to explain this because
+it's actually quite simple.
+
+235
+00:08:21,070 --> 00:08:24,860
+ 
+
+236
+00:08:24,860 --> 00:08:27,740
+So in Conway's Life, you
+basically have a little world.
+
+237
+00:08:27,740 --> 00:08:29,870
+It's a grid.
+
+238
+00:08:29,870 --> 00:08:30,000
+Within this grid, every cell can
+either have one of two states.
+
+239
+00:08:30,000 --> 00:08:34,880
+Within this grid, every cell can
+either have one of two states.
+
+240
+00:08:34,880 --> 00:08:38,720
+It's either alive, it is full,
+or it's dead and it's off.
+
+241
+00:08:38,720 --> 00:08:40,190
+Now, the rules
+for Life basically
+
+242
+00:08:40,190 --> 00:08:46,280
+say that if one cell, right
+here, has exactly three
+
+243
+00:08:46,280 --> 00:08:49,020
+neighbors-- and we're counting
+all the neighbors like that.
+
+244
+00:08:49,020 --> 00:08:52,790
+If there are exactly three
+cells alive around it,
+
+245
+00:08:52,790 --> 00:08:55,430
+like so, this empty
+cell now comes to life.
+
+246
+00:08:55,430 --> 00:08:58,860
+On the next turn, the
+new cell appears here.
+
+247
+00:08:58,860 --> 00:09:00,000
+Now, if a given cell
+is already alive
+
+248
+00:09:00,000 --> 00:09:03,300
+Now, if a given cell
+is already alive
+
+249
+00:09:03,300 --> 00:09:10,740
+and it has three or two
+neighbors, it stays there.
+
+250
+00:09:10,740 --> 00:09:13,870
+If it has less than two or
+more than three, it dies.
+
+251
+00:09:13,870 --> 00:09:16,230
+So this one only has one
+neighbor, so it dies.
+
+252
+00:09:16,230 --> 00:09:19,680
+So basically, that's the whole
+rule set for Conway's Life.
+
+253
+00:09:19,680 --> 00:09:21,180
+Now, it sounds very simple.
+
+254
+00:09:21,180 --> 00:09:23,790
+You're just counting whether
+it has two or three neighbors
+
+255
+00:09:23,790 --> 00:09:25,830
+and whether it comes
+to life or dies.
+
+256
+00:09:25,830 --> 00:09:27,330
+Turns out that when
+you turn this on
+
+257
+00:09:27,330 --> 00:09:28,990
+and you put a few
+cells in there,
+
+258
+00:09:28,990 --> 00:09:30,000
+there's an explosion
+of complexity.
+
+259
+00:09:30,000 --> 00:09:30,780
+there's an explosion
+of complexity.
+
+260
+00:09:30,780 --> 00:09:33,870
+All this stuff starts
+happening, really unpredictable,
+
+261
+00:09:33,870 --> 00:09:34,860
+surprising stuff.
+
+262
+00:09:34,860 --> 00:09:36,960
+And people have studied
+this thing for years.
+
+263
+00:09:36,960 --> 00:09:39,270
+I spent months studying.
+
+264
+00:09:39,270 --> 00:09:41,010
+In fact, I taught
+myself programming
+
+265
+00:09:41,010 --> 00:09:42,510
+trying to program
+Life and make it
+
+266
+00:09:42,510 --> 00:09:43,720
+faster and faster and faster.
+
+267
+00:09:43,720 --> 00:09:47,070
+ 
+
+268
+00:09:47,070 --> 00:09:52,210
+As an example, if you
+put this shape into Life
+
+269
+00:09:52,210 --> 00:09:55,070
+at the very beginning
+and just start it,
+
+270
+00:09:55,070 --> 00:09:58,330
+it will explode into this whole
+set of hundreds of things,
+
+271
+00:09:58,330 --> 00:10:00,000
+and start moving around
+and have behavior.
+
+272
+00:10:00,000 --> 00:10:00,830
+and start moving around
+and have behavior.
+
+273
+00:10:00,830 --> 00:10:02,660
+And it's always exactly
+the same every time.
+
+274
+00:10:02,660 --> 00:10:04,460
+It's deterministic.
+
+275
+00:10:04,460 --> 00:10:08,330
+But it's all a result of
+the two simple little rules.
+
+276
+00:10:08,330 --> 00:10:11,960
+And this is one of the
+best examples of emergence
+
+277
+00:10:11,960 --> 00:10:15,300
+that Conway, who programmed
+this, discovered it.
+
+278
+00:10:15,300 --> 00:10:16,970
+There was no way he
+could have predicted
+
+279
+00:10:16,970 --> 00:10:18,110
+the elaborate
+behaviors that were
+
+280
+00:10:18,110 --> 00:10:20,490
+going to happen in this little
+world based upon those two
+
+281
+00:10:20,490 --> 00:10:21,380
+rules.
+
+282
+00:10:21,380 --> 00:10:23,280
+It just emerges as
+a result of that.
+
+283
+00:10:23,280 --> 00:10:24,950
+And it's emergent complexity.
+
+284
+00:10:24,950 --> 00:10:27,440
+So you have this amazingly
+complex, little world
+
+285
+00:10:27,440 --> 00:10:29,880
+that's emerging out of this
+incredibly simple, little rule
+
+286
+00:10:29,880 --> 00:10:30,000
+set.
+
+287
+00:10:30,000 --> 00:10:30,490
+set.
+
+288
+00:10:30,490 --> 00:10:32,910
+Somebody asked me just recently
+what my favorite game was,
+
+289
+00:10:32,910 --> 00:10:34,010
+and it's Go.
+
+290
+00:10:34,010 --> 00:10:35,900
+And the reason to Go
+is my favorite game
+
+291
+00:10:35,900 --> 00:10:38,630
+is because Go has very
+much the same property.
+
+292
+00:10:38,630 --> 00:10:40,580
+Go has two very simple
+rules, one of which
+
+293
+00:10:40,580 --> 00:10:41,990
+almost never happens.
+
+294
+00:10:41,990 --> 00:10:45,200
+But yet the strategy of
+Go is incredibly complex,
+
+295
+00:10:45,200 --> 00:10:46,280
+relative to the rules set.
+
+296
+00:10:46,280 --> 00:10:49,040
+And for me, that's a wonderful
+aesthetic for game design.
+
+297
+00:10:49,040 --> 00:10:52,040
+When it's the simplest set of
+rules that you can create that
+
+298
+00:10:52,040 --> 00:10:54,530
+leads to the widest
+range of complexity
+
+299
+00:10:54,530 --> 00:10:57,530
+and the most interesting
+world that you can explore,
+
+300
+00:10:57,530 --> 00:10:59,690
+with strategy and behavior.
+
+301
+00:10:59,690 --> 00:11:00,000
+Cellular automata actually
+became a key part of Sim City
+
+302
+00:11:00,000 --> 00:11:02,920
+Cellular automata actually
+became a key part of Sim City
+
+303
+00:11:02,920 --> 00:11:04,360
+in the way it operates.
+
+304
+00:11:04,360 --> 00:11:06,110
+Basically, a lot of
+complexity of Sim City
+
+305
+00:11:06,110 --> 00:11:09,680
+comes from this connected
+to a system dynamics
+
+306
+00:11:09,680 --> 00:11:11,330
+model, like Jay Forrester had.
+
+307
+00:11:11,330 --> 00:11:15,490
+Again, Jay Forrester's model
+was, basically, containers
+
+308
+00:11:15,490 --> 00:11:16,070
+with whatever.
+
+309
+00:11:16,070 --> 00:11:18,210
+Let's say population.
+
+310
+00:11:18,210 --> 00:11:21,960
+And then little valves
+that would control.
+
+311
+00:11:21,960 --> 00:11:24,660
+This might be birth rate.
+
+312
+00:11:24,660 --> 00:11:26,760
+This might be death rate.
+
+313
+00:11:26,760 --> 00:11:29,640
+Later on, we might
+have another one
+
+314
+00:11:29,640 --> 00:11:30,000
+that we add for migration,
+whatever we want to.
+
+315
+00:11:30,000 --> 00:11:34,700
+that we add for migration,
+whatever we want to.
+
+316
+00:11:34,700 --> 00:11:39,020
+Now, Jay Forrester came up with
+this model, central dynamics,
+
+317
+00:11:39,020 --> 00:11:41,520
+and people started trying to
+model a lot of different things
+
+318
+00:11:41,520 --> 00:11:42,690
+with it.
+
+319
+00:11:42,690 --> 00:11:45,870
+Back in the late
+'60s, early '70s,
+
+320
+00:11:45,870 --> 00:11:48,000
+there was a group that
+started building what they
+
+321
+00:11:48,000 --> 00:11:49,390
+called the World Dynamic model.
+
+322
+00:11:49,390 --> 00:11:51,600
+And they actually started
+modeling the world economy,
+
+323
+00:11:51,600 --> 00:11:54,300
+food production, population
+growth, all this stuff,
+
+324
+00:11:54,300 --> 00:11:57,330
+to get some sense of where
+the world was headed.
+
+325
+00:11:57,330 --> 00:11:59,580
+In fact, they started a group
+called the Club of Rome,
+
+326
+00:11:59,580 --> 00:12:00,000
+and there was a very
+famous book published
+
+327
+00:12:00,000 --> 00:12:01,330
+and there was a very
+famous book published
+
+328
+00:12:01,330 --> 00:12:03,040
+called "The Limits to Growth."
+
+329
+00:12:03,040 --> 00:12:05,000
+And in that book,
+they were basically
+
+330
+00:12:05,000 --> 00:12:06,870
+showing the results of
+their world simulation
+
+331
+00:12:06,870 --> 00:12:09,300
+that they were
+running around 1970.
+
+332
+00:12:09,300 --> 00:12:11,430
+And it was showing that
+the world economy would
+
+333
+00:12:11,430 --> 00:12:14,130
+collapse around 1985 to 1990.
+
+334
+00:12:14,130 --> 00:12:16,170
+And food production,
+people would starve.
+
+335
+00:12:16,170 --> 00:12:18,310
+And it didn't happen.
+
+336
+00:12:18,310 --> 00:12:20,310
+What turned out is they
+looked back at the model
+
+337
+00:12:20,310 --> 00:12:22,730
+and they found that they were
+off on a few little factors.
+
+338
+00:12:22,730 --> 00:12:25,020
+They didn't foresee the Green
+Revolution, for instance,
+
+339
+00:12:25,020 --> 00:12:27,930
+that the efficiency of food
+production per land area
+
+340
+00:12:27,930 --> 00:12:30,000
+was going to go up a little
+bit more than they thought.
+
+341
+00:12:30,000 --> 00:12:30,580
+was going to go up a little
+bit more than they thought.
+
+342
+00:12:30,580 --> 00:12:32,670
+And what was surprising
+was that that little
+
+343
+00:12:32,670 --> 00:12:37,100
+bit that they were off led to
+an incredibly different result
+
+344
+00:12:37,100 --> 00:12:38,670
+than what really happened.
+
+345
+00:12:38,670 --> 00:12:40,260
+And that was really
+our first inkling
+
+346
+00:12:40,260 --> 00:12:43,080
+into what became known
+as chaos theory, the idea
+
+347
+00:12:43,080 --> 00:12:47,670
+that sometimes the initial
+starting position of something
+
+348
+00:12:47,670 --> 00:12:49,290
+can lead to a totally
+different outcome
+
+349
+00:12:49,290 --> 00:12:51,480
+if it's just a
+little bit displaced.
+
+350
+00:12:51,480 --> 00:12:53,640
+A good way to think
+about chaos theory,
+
+351
+00:12:53,640 --> 00:12:55,890
+we have basically, what
+we call, chaotic systems
+
+352
+00:12:55,890 --> 00:12:57,360
+and stable systems.
+
+353
+00:12:57,360 --> 00:13:00,000
+If I take a bowl, for
+instance, like that,
+
+354
+00:13:00,000 --> 00:13:00,390
+If I take a bowl, for
+instance, like that,
+
+355
+00:13:00,390 --> 00:13:04,410
+and I drop a marble into
+it, it might land here
+
+356
+00:13:04,410 --> 00:13:05,590
+or I might drop it there.
+
+357
+00:13:05,590 --> 00:13:07,590
+Either way, it's going
+to go around a little bit
+
+358
+00:13:07,590 --> 00:13:09,710
+and it's going to pretty
+much end up at the bottom.
+
+359
+00:13:09,710 --> 00:13:11,280
+OK, that's a stable system.
+
+360
+00:13:11,280 --> 00:13:14,040
+A chaotic system, if we take
+that bowl and we invert it,
+
+361
+00:13:14,040 --> 00:13:17,760
+like so, and we drop a ball
+and displace it a little bit,
+
+362
+00:13:17,760 --> 00:13:20,500
+now if it lands here, it
+might roll way off over here.
+
+363
+00:13:20,500 --> 00:13:23,440
+If it lands right there, it
+might roll way off over there.
+
+364
+00:13:23,440 --> 00:13:25,420
+So this is really
+a chaotic system,
+
+365
+00:13:25,420 --> 00:13:28,350
+where a very small change
+in the initial position
+
+366
+00:13:28,350 --> 00:13:30,000
+can lead to a wildly
+different outcome.
+
+367
+00:13:30,000 --> 00:13:30,850
+can lead to a wildly
+different outcome.
+
+368
+00:13:30,850 --> 00:13:34,840
+And that's what they discovered
+in the World Dynamic model.
+
+369
+00:13:34,840 --> 00:13:36,210
+And all of a
+sudden, chaos theory
+
+370
+00:13:36,210 --> 00:13:38,400
+started putting real
+limits on things
+
+371
+00:13:38,400 --> 00:13:40,050
+that we could predict
+with simulations.
+
+372
+00:13:40,050 --> 00:13:42,810
+Turns out that
+things like weather,
+
+373
+00:13:42,810 --> 00:13:45,300
+and even other things
+like [INAUDIBLE],,
+
+374
+00:13:45,300 --> 00:13:48,060
+tend to be chaotic so
+that even if we have
+
+375
+00:13:48,060 --> 00:13:50,430
+a very detailed simulation
+and we put a lot of horsepower
+
+376
+00:13:50,430 --> 00:13:52,170
+behind it, there's
+still going to be
+
+377
+00:13:52,170 --> 00:13:54,720
+a very deep level
+of unpredictability
+
+378
+00:13:54,720 --> 00:13:56,460
+to these kind of a system.
+
+379
+00:13:56,460 --> 00:13:58,500
+Another direction that
+these paradigms have taken
+
+380
+00:13:58,500 --> 00:14:00,000
+is called network theory.
+
+381
+00:14:00,000 --> 00:14:00,690
+is called network theory.
+
+382
+00:14:00,690 --> 00:14:05,910
+And a network is just anything
+containing nodes and links,
+
+383
+00:14:05,910 --> 00:14:07,890
+like that.
+
+384
+00:14:07,890 --> 00:14:11,760
+Turns out you can visualize
+so many things as a network.
+
+385
+00:14:11,760 --> 00:14:16,470
+You can visualize biological
+systems and metabolic systems,
+
+386
+00:14:16,470 --> 00:14:19,140
+things within your body, the way
+the chemicals and proteins flow
+
+387
+00:14:19,140 --> 00:14:20,190
+through your body.
+
+388
+00:14:20,190 --> 00:14:23,250
+Economics, social
+systems, all these things
+
+389
+00:14:23,250 --> 00:14:25,260
+can be visualized as a network.
+
+390
+00:14:25,260 --> 00:14:27,750
+And of course,
+including the internet.
+
+391
+00:14:27,750 --> 00:14:30,000
+Now, it turns out that
+these networks have
+
+392
+00:14:30,000 --> 00:14:30,090
+Now, it turns out that
+these networks have
+
+393
+00:14:30,090 --> 00:14:31,650
+some surprising properties.
+
+394
+00:14:31,650 --> 00:14:34,140
+Things are just not obvious.
+
+395
+00:14:34,140 --> 00:14:36,330
+One of those things
+is that if you
+
+396
+00:14:36,330 --> 00:14:39,370
+have a disconnected
+network, like this,
+
+397
+00:14:39,370 --> 00:14:43,390
+and you start randomly
+connecting these things,
+
+398
+00:14:43,390 --> 00:14:47,470
+just randomly, it turns
+out that all you need
+
+399
+00:14:47,470 --> 00:14:50,590
+is the average of about one
+connection per node to have
+
+400
+00:14:50,590 --> 00:14:53,260
+a fully connected
+network, basically,
+
+401
+00:14:53,260 --> 00:14:54,950
+for any sized network.
+
+402
+00:14:54,950 --> 00:14:58,090
+So over time, if I just do
+one connection per node,
+
+403
+00:14:58,090 --> 00:14:59,590
+I almost always
+end up with almost
+
+404
+00:14:59,590 --> 00:15:00,000
+a fully connected network.
+
+405
+00:15:00,000 --> 00:15:01,100
+a fully connected network.
+
+406
+00:15:01,100 --> 00:15:05,180
+Another surprising result is
+that for any sized network,
+
+407
+00:15:05,180 --> 00:15:08,050
+above a very simple
+one like this,
+
+408
+00:15:08,050 --> 00:15:11,050
+the distance, what they
+call the graph width,
+
+409
+00:15:11,050 --> 00:15:13,750
+between any two
+points in this network
+
+410
+00:15:13,750 --> 00:15:17,450
+is almost never
+more than six steps.
+
+411
+00:15:17,450 --> 00:15:22,240
+So from point there to
+point there, 1, 2, 3, 4.
+
+412
+00:15:22,240 --> 00:15:25,330
+And this is, of course, the six
+degrees of Kevin Bacon thing,
+
+413
+00:15:25,330 --> 00:15:28,120
+that even across
+the earth, they've
+
+414
+00:15:28,120 --> 00:15:30,000
+shown that I can find
+any other person on earth
+
+415
+00:15:30,000 --> 00:15:31,420
+shown that I can find
+any other person on earth
+
+416
+00:15:31,420 --> 00:15:34,840
+through six steps of people.
+
+417
+00:15:34,840 --> 00:15:35,710
+I know this person.
+
+418
+00:15:35,710 --> 00:15:36,640
+That person knows that person.
+
+419
+00:15:36,640 --> 00:15:37,930
+That person knows that person.
+
+420
+00:15:37,930 --> 00:15:41,500
+I can connect myself to almost
+any other person on the planet.
+
+421
+00:15:41,500 --> 00:15:45,370
+So these are very non-intuitive
+things, but actually,
+
+422
+00:15:45,370 --> 00:15:47,530
+as a designer, this is
+part of your language
+
+423
+00:15:47,530 --> 00:15:50,560
+that you can use within your
+game to build these systems.
+
+424
+00:15:50,560 --> 00:15:53,950
+You can represent any kind
+of system in your game.
+
+425
+00:15:53,950 --> 00:15:55,600
+Using multiple
+paradigms, you can
+
+426
+00:15:55,600 --> 00:15:57,800
+choose which paradigm is
+best suited for my game
+
+427
+00:15:57,800 --> 00:15:59,020
+when I'm building a system.
+
+428
+00:15:59,020 --> 00:16:00,000
+And this occurs both at
+the conceptual level,
+
+429
+00:16:00,000 --> 00:16:02,090
+And this occurs both at
+the conceptual level,
+
+430
+00:16:02,090 --> 00:16:03,860
+but also at the
+engineering level as well.
+
+431
+00:16:03,860 --> 00:16:11,420
+ 
+
+432
+00:16:11,420 --> 00:16:13,150
+So these become a
+lot of things that I
+
+433
+00:16:13,150 --> 00:16:15,580
+think of as a
+designer of systems
+
+434
+00:16:15,580 --> 00:16:17,140
+that I use to build games.
+
+435
+00:16:17,140 --> 00:16:20,290
+On top of this, there are
+also certain properties
+
+436
+00:16:20,290 --> 00:16:22,810
+that I find interesting to
+think, in terms of dimensions
+
+437
+00:16:22,810 --> 00:16:23,870
+within the system.
+
+438
+00:16:23,870 --> 00:16:26,440
+One is local to global,
+how much of local effects
+
+439
+00:16:26,440 --> 00:16:28,760
+versus global effects
+and where do they meet.
+
+440
+00:16:28,760 --> 00:16:30,000
+In Sim City,
+something like traffic
+
+441
+00:16:30,000 --> 00:16:31,180
+In Sim City,
+something like traffic
+
+442
+00:16:31,180 --> 00:16:34,810
+is very local to that
+one spot on the road.
+
+443
+00:16:34,810 --> 00:16:37,080
+The overall tax rate
+of the city is global.
+
+444
+00:16:37,080 --> 00:16:38,910
+And there's some things
+that are in between.
+
+445
+00:16:38,910 --> 00:16:42,160
+What's the police
+effectiveness within the city?
+
+446
+00:16:42,160 --> 00:16:43,990
+Order to disorder.
+
+447
+00:16:43,990 --> 00:16:45,910
+Things that are
+very, very ordered
+
+448
+00:16:45,910 --> 00:16:48,350
+become very predictable,
+and sometimes you
+
+449
+00:16:48,350 --> 00:16:49,270
+want that in the game.
+
+450
+00:16:49,270 --> 00:16:52,600
+Other things are totally
+disordered, random, chaotic.
+
+451
+00:16:52,600 --> 00:16:56,320
+And even things like
+cooperation to competition
+
+452
+00:16:56,320 --> 00:16:58,410
+is a dimension within a game.
+
+453
+00:16:58,410 --> 00:17:00,000
+You can have some games
+that are very competitive,
+
+454
+00:17:00,000 --> 00:17:00,490
+You can have some games
+that are very competitive,
+
+455
+00:17:00,490 --> 00:17:02,110
+others that are
+very cooperative.
+
+456
+00:17:02,110 --> 00:17:05,460
+But there are also a lot of
+spots in between those two.
+
+457
+00:17:05,460 --> 00:17:08,020
+And sometimes the game can
+actually shift where one moment
+
+458
+00:17:08,020 --> 00:17:10,060
+you're playing cooperatively,
+another time you're
+
+459
+00:17:10,060 --> 00:17:11,170
+playing competitively.
+
+460
+00:17:11,170 --> 00:17:13,230
+One of my favorite
+old games is Mule.
+
+461
+00:17:13,230 --> 00:17:15,069
+And Mule had that
+beautifully done,
+
+462
+00:17:15,069 --> 00:17:16,849
+where you're competing
+with other players.
+
+463
+00:17:16,849 --> 00:17:18,970
+But in some sense, if you
+don't cooperate with them
+
+464
+00:17:18,970 --> 00:17:21,050
+to some degree, the entire
+colony collapses and so
+
+465
+00:17:21,050 --> 00:17:21,730
+you all lose.
+
+466
+00:17:21,730 --> 00:17:23,650
+And so I love the fact
+that that game actually
+
+467
+00:17:23,650 --> 00:17:26,940
+had cooperation and competition
+in the same game structure.
+
+468
+00:17:26,940 --> 00:17:30,000
+ 
+
+469
+00:17:30,000 --> 00:17:33,920
+ 
+
+470
+00:17:33,920 --> 00:17:37,340
+I tend to be a
+very visual person.
+
+471
+00:17:37,340 --> 00:17:40,850
+In school, I didn't think math
+was that interesting at all
+
+472
+00:17:40,850 --> 00:17:43,010
+until, at some point,
+I started realizing
+
+473
+00:17:43,010 --> 00:17:45,200
+that I could basically
+turn almost all of math
+
+474
+00:17:45,200 --> 00:17:46,730
+into geometry.
+
+475
+00:17:46,730 --> 00:17:48,710
+And I could take almost
+any branch of math
+
+476
+00:17:48,710 --> 00:17:51,680
+and as soon as I could
+imagine it as geometry,
+
+477
+00:17:51,680 --> 00:17:54,440
+I love it and it makes sense and
+it's totally intuitive to me.
+
+478
+00:17:54,440 --> 00:17:57,730
+So that's just the way
+I think about things,
+
+479
+00:17:57,730 --> 00:18:00,000
+is I tend to try to bring
+it into the visual realm,
+
+480
+00:18:00,000 --> 00:18:00,550
+is I tend to try to bring
+it into the visual realm,
+
+481
+00:18:00,550 --> 00:18:01,520
+in essence.
+
+482
+00:18:01,520 --> 00:18:03,230
+There's a certain
+part of my mind
+
+483
+00:18:03,230 --> 00:18:09,070
+that I think does very
+good spatial reasoning.
+
+484
+00:18:09,070 --> 00:18:11,320
+Other people tend to
+do better, I think,
+
+485
+00:18:11,320 --> 00:18:13,690
+with audio reasoning,
+or something else.
+
+486
+00:18:13,690 --> 00:18:17,230
+But as a game designer,
+I'm imagining, even
+
+487
+00:18:17,230 --> 00:18:19,360
+as a game player when
+I come into a game,
+
+488
+00:18:19,360 --> 00:18:21,190
+I'm trying to imagine,
+what are the things I
+
+489
+00:18:21,190 --> 00:18:22,360
+could do in this game?
+
+490
+00:18:22,360 --> 00:18:24,040
+How far can I go?
+
+491
+00:18:24,040 --> 00:18:25,320
+How hard is that?
+
+492
+00:18:25,320 --> 00:18:26,740
+In some sense, I'm
+building a map.
+
+493
+00:18:26,740 --> 00:18:30,000
+Not an explicit overt
+map of the terrain,
+
+494
+00:18:30,000 --> 00:18:30,280
+Not an explicit overt
+map of the terrain,
+
+495
+00:18:30,280 --> 00:18:35,110
+but a map of my abilities,
+my agency, my freedom.
+
+496
+00:18:35,110 --> 00:18:38,200
+I always tend to visualize
+that as some type of topology.
+
+497
+00:18:38,200 --> 00:18:41,860
+If it's a gated experience
+maybe with rooms,
+
+498
+00:18:41,860 --> 00:18:43,750
+I see these as nodes
+with connectors,
+
+499
+00:18:43,750 --> 00:18:45,460
+and that's just a way
+for me to visualize
+
+500
+00:18:45,460 --> 00:18:47,770
+the topology of that structure.
+
+501
+00:18:47,770 --> 00:18:51,310
+It might be more free
+floating agents moving around,
+
+502
+00:18:51,310 --> 00:18:55,100
+or it might be something very
+rigid, like a cube or layers.
+
+503
+00:18:55,100 --> 00:18:58,960
+But even the
+behavior, what we call
+
+504
+00:18:58,960 --> 00:19:00,000
+phase space in mathematics,
+can be viewed as a topology.
+
+505
+00:19:00,000 --> 00:19:03,160
+phase space in mathematics,
+can be viewed as a topology.
+
+506
+00:19:03,160 --> 00:19:06,130
+A lot of the really cool
+work in chaos theory
+
+507
+00:19:06,130 --> 00:19:09,190
+has come by visualizing
+these systems,
+
+508
+00:19:09,190 --> 00:19:12,150
+collapsing a fairly complex
+system down into something
+
+509
+00:19:12,150 --> 00:19:14,410
+that you can now
+look at as a picture.
+
+510
+00:19:14,410 --> 00:19:16,750
+You take something as simple
+as a pendulum swinging
+
+511
+00:19:16,750 --> 00:19:17,560
+back and forth.
+
+512
+00:19:17,560 --> 00:19:20,710
+And in the chaotic
+system, basically, it's
+
+513
+00:19:20,710 --> 00:19:24,340
+going from know zero movement,
+fast movement at the bottom,
+
+514
+00:19:24,340 --> 00:19:25,480
+back to zero movement.
+
+515
+00:19:25,480 --> 00:19:27,740
+One dimension is, let's
+say, the kinetic energy,
+
+516
+00:19:27,740 --> 00:19:29,490
+and the other one is
+the potential energy.
+
+517
+00:19:29,490 --> 00:19:30,000
+So the potential energy
+is how high it is.
+
+518
+00:19:30,000 --> 00:19:31,690
+So the potential energy
+is how high it is.
+
+519
+00:19:31,690 --> 00:19:33,700
+Kinetic energy is
+how fast it's going.
+
+520
+00:19:33,700 --> 00:19:36,940
+If you imagine these
+drawings of curved spacetime,
+
+521
+00:19:36,940 --> 00:19:39,690
+you put a planet on spacetime
+and it bends it down here.
+
+522
+00:19:39,690 --> 00:19:42,430
+OK, so you're actually
+bending space there.
+
+523
+00:19:42,430 --> 00:19:45,110
+Turns out time bends
+exactly the same way.
+
+524
+00:19:45,110 --> 00:19:48,430
+So if something is going past
+that planet through that bent
+
+525
+00:19:48,430 --> 00:19:50,440
+spacetime, the
+timeline for that is
+
+526
+00:19:50,440 --> 00:19:52,930
+a lot longer than if the
+planet weren't there.
+
+527
+00:19:52,930 --> 00:19:55,720
+And that's a really clear way
+of visualizing time dilation,
+
+528
+00:19:55,720 --> 00:19:56,930
+relativity.
+
+529
+00:19:56,930 --> 00:19:59,320
+So I love the fact that
+you can just take things
+
+530
+00:19:59,320 --> 00:20:00,000
+like that-- as soon as
+you make the visual,
+
+531
+00:20:00,000 --> 00:20:01,660
+like that-- as soon as
+you make the visual,
+
+532
+00:20:01,660 --> 00:20:04,990
+it's so instinctual and
+intuitive, which is actually
+
+533
+00:20:04,990 --> 00:20:06,700
+a good lesson, I think,
+for your players.
+
+534
+00:20:06,700 --> 00:20:08,470
+If you can take things
+in your game that
+
+535
+00:20:08,470 --> 00:20:11,980
+seem overly complex at first
+and make them more visual,
+
+536
+00:20:11,980 --> 00:20:15,580
+so the player can interpret
+it with their intuition
+
+537
+00:20:15,580 --> 00:20:19,150
+rather than having to do
+some more abstract reasoning,
+
+538
+00:20:19,150 --> 00:20:21,280
+you can make something
+that's very complex actually
+
+539
+00:20:21,280 --> 00:20:22,720
+seem much more approachable.
+
+540
+00:20:22,720 --> 00:20:29,590
+ 
+
+541
+00:20:29,590 --> 00:20:30,000
+Just to recap,
+basically, we have
+
+542
+00:20:30,000 --> 00:20:32,140
+Just to recap,
+basically, we have
+
+543
+00:20:32,140 --> 00:20:35,050
+these things that we can
+build our systems out of--
+
+544
+00:20:35,050 --> 00:20:37,760
+agents, networks, layers.
+
+545
+00:20:37,760 --> 00:20:39,050
+Layers tend to be more rigid.
+
+546
+00:20:39,050 --> 00:20:41,660
+Agents can be more flexible.
+
+547
+00:20:41,660 --> 00:20:44,870
+Topologies, that we can have
+a structure from these things.
+
+548
+00:20:44,870 --> 00:20:48,770
+And these networks,
+also, are not
+
+549
+00:20:48,770 --> 00:20:51,260
+just within the
+systems of our games.
+
+550
+00:20:51,260 --> 00:20:53,540
+The overall context of
+what we're dealing with--
+
+551
+00:20:53,540 --> 00:20:56,080
+the players, the world, the
+way we distribute and market
+
+552
+00:20:56,080 --> 00:20:56,750
+games--
+
+553
+00:20:56,750 --> 00:20:58,040
+can also be viewed as networks.
+
+554
+00:20:58,040 --> 00:21:00,000
+We have the technology
+networks of our computers
+
+555
+00:21:00,000 --> 00:21:00,040
+We have the technology
+networks of our computers
+
+556
+00:21:00,040 --> 00:21:01,520
+to be connected to the internet.
+
+557
+00:21:01,520 --> 00:21:04,970
+We have platform networks
+of different types
+
+558
+00:21:04,970 --> 00:21:08,180
+of platforms, so their games by
+play on this, or that, or iPad,
+
+559
+00:21:08,180 --> 00:21:09,410
+or PC.
+
+560
+00:21:09,410 --> 00:21:12,260
+We have formats networks.
+
+561
+00:21:12,260 --> 00:21:14,220
+What kind of games
+are we playing?
+
+562
+00:21:14,220 --> 00:21:16,430
+Brain networks that we're
+dealing with in the player.
+
+563
+00:21:16,430 --> 00:21:17,850
+And the social
+networks that we're
+
+564
+00:21:17,850 --> 00:21:20,540
+dealing with in the
+communities of the players.
+
+565
+00:21:20,540 --> 00:21:23,530
+So all these things, really,
+these topologies and systems,
+
+566
+00:21:23,530 --> 00:21:24,990
+aren't just things
+that we're going
+
+567
+00:21:24,990 --> 00:21:27,500
+to use to construct our
+simulations in our games,
+
+568
+00:21:27,500 --> 00:21:29,050
+but these are also
+things that we
+
+569
+00:21:29,050 --> 00:21:30,000
+can use to represent
+and understand
+
+570
+00:21:30,000 --> 00:21:31,300
+can use to represent
+and understand
+

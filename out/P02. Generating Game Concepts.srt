@@ -1,0 +1,1567 @@
+1
+00:00:00,000 --> 00:00:02,420
+[MUSIC PLAYING]
+
+2
+00:00:02,420 --> 00:00:09,180
+ 
+
+3
+00:00:09,180 --> 00:00:12,960
+WILL WRIGHT: I don't actually
+start by concepting a new game.
+
+4
+00:00:12,960 --> 00:00:17,090
+I read a lot, I like learning
+new things, and at some point
+
+5
+00:00:17,090 --> 00:00:19,010
+I'll just trip over a
+subject or some material
+
+6
+00:00:19,010 --> 00:00:21,350
+that I find particularly
+fascinating.
+
+7
+00:00:21,350 --> 00:00:23,270
+So it's not like I sit
+down and say, okay, I'm
+
+8
+00:00:23,270 --> 00:00:25,260
+going to come up
+with a new game idea.
+
+9
+00:00:25,260 --> 00:00:28,890
+It's more like I'm kind of just
+exploring, browsing the world,
+
+10
+00:00:28,890 --> 00:00:30,000
+then it's like oh, maybe I
+can make a game out of this.
+
+11
+00:00:30,000 --> 00:00:32,060
+then it's like oh, maybe I
+can make a game out of this.
+
+12
+00:00:32,060 --> 00:00:38,920
+ 
+
+13
+00:00:38,920 --> 00:00:41,420
+When I went to college I studied
+all these different things,
+
+14
+00:00:41,420 --> 00:00:43,070
+and I don't want to
+become an architect
+
+15
+00:00:43,070 --> 00:00:45,350
+or an engineer or an artist.
+
+16
+00:00:45,350 --> 00:00:47,480
+And by being a game
+designer, I found that I
+
+17
+00:00:47,480 --> 00:00:49,070
+could study whatever I want.
+
+18
+00:00:49,070 --> 00:00:51,380
+And my excuse is, I'm
+making a game about it.
+
+19
+00:00:51,380 --> 00:00:55,650
+So for me, being a game designer
+turned into a lifelong learning
+
+20
+00:00:55,650 --> 00:00:57,650
+process where I can go
+off in any subject I want
+
+21
+00:00:57,650 --> 00:01:00,000
+to and it's tax deductible.
+
+22
+00:01:00,000 --> 00:01:00,380
+to and it's tax deductible.
+
+23
+00:01:00,380 --> 00:01:04,849
+For me, it's usually some
+kind of interesting thing
+
+24
+00:01:04,849 --> 00:01:07,970
+about the world or in the
+world that as I dig deeper
+
+25
+00:01:07,970 --> 00:01:11,100
+it gets more
+interesting, not less.
+
+26
+00:01:11,100 --> 00:01:12,720
+It didn't sound that
+interesting to me,
+
+27
+00:01:12,720 --> 00:01:14,080
+but as I read about
+it a little bit more
+
+28
+00:01:14,080 --> 00:01:15,770
+it actually sounded
+kind of fascinating.
+
+29
+00:01:15,770 --> 00:01:18,020
+I read some more and it actually
+really grabbed me and pulled me
+
+30
+00:01:18,020 --> 00:01:18,440
+in.
+
+31
+00:01:18,440 --> 00:01:19,980
+A lot of the games
+I've done actually
+
+32
+00:01:19,980 --> 00:01:22,780
+were based upon cool subjects,
+usually books that I read.
+
+33
+00:01:22,780 --> 00:01:25,580
+SimCity was very
+influenced by the work
+
+34
+00:01:25,580 --> 00:01:27,780
+of a guy named Jay Forrester
+who was the first person
+
+35
+00:01:27,780 --> 00:01:29,750
+to actually model cities
+on the early computers
+
+36
+00:01:29,750 --> 00:01:30,000
+back in the 50s.
+
+37
+00:01:30,000 --> 00:01:30,660
+back in the 50s.
+
+38
+00:01:30,660 --> 00:01:32,030
+His models were
+not spatial, they
+
+39
+00:01:32,030 --> 00:01:33,280
+were just like little numbers.
+
+40
+00:01:33,280 --> 00:01:34,970
+How many people
+did the city have,
+
+41
+00:01:34,970 --> 00:01:36,770
+how much land, how many roads.
+
+42
+00:01:36,770 --> 00:01:39,030
+But he was actually
+the father of what
+
+43
+00:01:39,030 --> 00:01:40,820
+became known as system
+dynamics, which I'll
+
+44
+00:01:40,820 --> 00:01:42,680
+talk about a little bit later.
+
+45
+00:01:42,680 --> 00:01:44,450
+SimAnt was very much
+inspired by the work
+
+46
+00:01:44,450 --> 00:01:48,730
+of Edward O Wilson, very famous
+myrmecologist, studies ants.
+
+47
+00:01:48,730 --> 00:01:50,900
+He wrote this great book,
+won the Pulitzer Prize,
+
+48
+00:01:50,900 --> 00:01:51,650
+called "The Ants".
+
+49
+00:01:51,650 --> 00:01:53,720
+But he actually, in
+some sense, was reverse
+
+50
+00:01:53,720 --> 00:01:55,510
+engineering the way ants work.
+
+51
+00:01:55,510 --> 00:01:57,260
+Little ants are almost
+like little robots,
+
+52
+00:01:57,260 --> 00:01:58,770
+and it's pretty
+simple to figure out
+
+53
+00:01:58,770 --> 00:02:00,000
+in the presence
+of this pheromone
+
+54
+00:02:00,000 --> 00:02:00,280
+in the presence
+of this pheromone
+
+55
+00:02:00,280 --> 00:02:02,450
+the ant does that, in the
+presence of that pheromone
+
+56
+00:02:02,450 --> 00:02:03,250
+he does this.
+
+57
+00:02:03,250 --> 00:02:05,360
+He actually reverse
+engineered that and discovered
+
+58
+00:02:05,360 --> 00:02:06,890
+a whole level of emergence.
+
+59
+00:02:06,890 --> 00:02:09,330
+An ant colony, in fact,
+is incredibly smart.
+
+60
+00:02:09,330 --> 00:02:10,639
+It's about as smart as a dog.
+
+61
+00:02:10,639 --> 00:02:12,560
+An individual ant is
+incredibly stupid.
+
+62
+00:02:12,560 --> 00:02:14,120
+And so ant colonies
+are really one
+
+63
+00:02:14,120 --> 00:02:15,790
+of the few forms of
+intelligence that we
+
+64
+00:02:15,790 --> 00:02:17,930
+can deconstruct and
+understand at that level,
+
+65
+00:02:17,930 --> 00:02:19,520
+and he was the guy who did it.
+
+66
+00:02:19,520 --> 00:02:21,640
+These kind of
+subjects are things
+
+67
+00:02:21,640 --> 00:02:24,220
+that when you read about them,
+they're kind of dry and boring,
+
+68
+00:02:24,220 --> 00:02:26,120
+they're filled with
+technical jargon.
+
+69
+00:02:26,120 --> 00:02:29,080
+And what I always aspired to
+do was to take these things
+
+70
+00:02:29,080 --> 00:02:30,000
+and make them approachable--
+turn them into a toy.
+
+71
+00:02:30,000 --> 00:02:31,160
+and make them approachable--
+turn them into a toy.
+
+72
+00:02:31,160 --> 00:02:32,890
+How can I turn an
+ant colony into a toy
+
+73
+00:02:32,890 --> 00:02:35,100
+so that people come in and
+start interacting with it?
+
+74
+00:02:35,100 --> 00:02:37,640
+And when players are actually
+manipulating these things
+
+75
+00:02:37,640 --> 00:02:39,740
+and building them,
+they take ownership.
+
+76
+00:02:39,740 --> 00:02:42,260
+And they get so involved, so
+much more emotionally connected
+
+77
+00:02:42,260 --> 00:02:42,810
+to these.
+
+78
+00:02:42,810 --> 00:02:44,900
+And then the subject
+becomes utterly fascinating.
+
+79
+00:02:44,900 --> 00:02:47,540
+As soon as I built the very
+first prototypes of SimCity
+
+80
+00:02:47,540 --> 00:02:49,160
+and I was running a
+little simulation--
+
+81
+00:02:49,160 --> 00:02:50,690
+it was very coarse, very crude--
+
+82
+00:02:50,690 --> 00:02:54,130
+but still, my interest in
+urban planning skyrocketed.
+
+83
+00:02:54,130 --> 00:02:55,970
+All of a sudden oh,
+this is really cool.
+
+84
+00:02:55,970 --> 00:02:57,260
+I want to find out
+about traffic modeling.
+
+85
+00:02:57,260 --> 00:02:58,760
+I want to find out about
+this, that, and the other.
+
+86
+00:02:58,760 --> 00:03:00,000
+These things that would have
+sounded incredibly boring to me
+
+87
+00:03:00,000 --> 00:03:01,260
+These things that would have
+sounded incredibly boring to me
+
+88
+00:03:01,260 --> 00:03:04,640
+when I had a little Guinea
+pig in my room to play with
+
+89
+00:03:04,640 --> 00:03:05,810
+became fascinating.
+
+90
+00:03:05,810 --> 00:03:08,000
+Likewise, other games
+I did, The Sims,
+
+91
+00:03:08,000 --> 00:03:10,940
+was very much influenced by
+Christopher Alexander's work
+
+92
+00:03:10,940 --> 00:03:11,930
+in architecture.
+
+93
+00:03:11,930 --> 00:03:14,840
+So for me personally, I find
+a lot of inspiration in books,
+
+94
+00:03:14,840 --> 00:03:19,130
+also in fields I think that
+are interdisciplinary, things
+
+95
+00:03:19,130 --> 00:03:20,700
+that are almost controversial.
+
+96
+00:03:20,700 --> 00:03:23,450
+Sim Earth was very much inspired
+by James Lovelock's Gaia
+
+97
+00:03:23,450 --> 00:03:24,080
+hypothesis.
+
+98
+00:03:24,080 --> 00:03:26,990
+It's about the earth and
+the way it regulates itself.
+
+99
+00:03:26,990 --> 00:03:29,330
+And usually that's where
+the areas of science
+
+100
+00:03:29,330 --> 00:03:30,000
+are moving the fastest
+and the most interesting.
+
+101
+00:03:30,000 --> 00:03:31,630
+are moving the fastest
+and the most interesting.
+
+102
+00:03:31,630 --> 00:03:33,880
+And those are the things I
+tended to gravitate toward.
+
+103
+00:03:33,880 --> 00:03:35,030
+This is me personally
+as a designer.
+
+104
+00:03:35,030 --> 00:03:36,670
+I think every designer
+is going to find
+
+105
+00:03:36,670 --> 00:03:38,590
+their own kind of
+palette of inspiration,
+
+106
+00:03:38,590 --> 00:03:40,460
+their own direction,
+their own kind of voice.
+
+107
+00:03:40,460 --> 00:03:48,170
+ 
+
+108
+00:03:48,170 --> 00:03:51,220
+When I was starting
+out in game design,
+
+109
+00:03:51,220 --> 00:03:54,690
+there wasn't this thing
+around called the internet.
+
+110
+00:03:54,690 --> 00:03:56,320
+I actually had to go
+to this place they
+
+111
+00:03:56,320 --> 00:03:58,130
+used to call
+libraries where they
+
+112
+00:03:58,130 --> 00:03:59,930
+had these things called books.
+
+113
+00:03:59,930 --> 00:04:00,000
+And I would read these books
+and learn about things that way.
+
+114
+00:04:00,000 --> 00:04:05,290
+And I would read these books
+and learn about things that way.
+
+115
+00:04:05,290 --> 00:04:08,660
+Nowadays, it's so low
+friction to go on the web
+
+116
+00:04:08,660 --> 00:04:11,230
+and find anything you want to,
+anything at all about anything
+
+117
+00:04:11,230 --> 00:04:12,220
+you want to.
+
+118
+00:04:12,220 --> 00:04:20,350
+So I think that now designers
+have so much less friction
+
+119
+00:04:20,350 --> 00:04:25,720
+to do research around
+an idea that for me it's
+
+120
+00:04:25,720 --> 00:04:29,290
+almost magical that I can
+kind of pick any topic
+
+121
+00:04:29,290 --> 00:04:30,000
+and go down any
+little weird path
+
+122
+00:04:30,000 --> 00:04:30,970
+and go down any
+little weird path
+
+123
+00:04:30,970 --> 00:04:32,680
+and find material about it.
+
+124
+00:04:32,680 --> 00:04:35,050
+On the simulation side, it
+was really interesting to me
+
+125
+00:04:35,050 --> 00:04:37,600
+to kind of go back into
+the history of simulation,
+
+126
+00:04:37,600 --> 00:04:40,060
+back into the 60s and 50s
+and even all the way back
+
+127
+00:04:40,060 --> 00:04:42,640
+to Von Neumann
+and Turing and see
+
+128
+00:04:42,640 --> 00:04:45,190
+what they were trying to do
+with these super primitive
+
+129
+00:04:45,190 --> 00:04:45,820
+computers.
+
+130
+00:04:45,820 --> 00:04:47,690
+And some of the things
+they were trying to do
+
+131
+00:04:47,690 --> 00:04:50,620
+were amazing, way, way beyond
+anything a computer could do.
+
+132
+00:04:50,620 --> 00:04:53,950
+But they would imagine that one
+day a computer could do this.
+
+133
+00:04:53,950 --> 00:04:58,360
+And right now, my watch has
+much more power than they
+
+134
+00:04:58,360 --> 00:05:00,000
+ever envisioned.
+
+135
+00:05:00,000 --> 00:05:00,190
+ever envisioned.
+
+136
+00:05:00,190 --> 00:05:01,810
+At least as a
+designer, I don't feel
+
+137
+00:05:01,810 --> 00:05:03,520
+like there are any
+meaningful limitations
+
+138
+00:05:03,520 --> 00:05:05,780
+beyond my own imagination.
+
+139
+00:05:05,780 --> 00:05:08,470
+And so I think to me,
+that's really the thing
+
+140
+00:05:08,470 --> 00:05:13,050
+that I have to kind of
+flex and exercise and push
+
+141
+00:05:13,050 --> 00:05:15,520
+is my own imagination.
+
+142
+00:05:15,520 --> 00:05:17,300
+If I could do
+that, it's actually
+
+143
+00:05:17,300 --> 00:05:18,880
+pretty straightforward
+and easy for me
+
+144
+00:05:18,880 --> 00:05:23,170
+to figure out the research,
+the technology, to do it.
+
+145
+00:05:23,170 --> 00:05:25,660
+It feels to me like so
+many designers always
+
+146
+00:05:25,660 --> 00:05:28,030
+think about and even
+communicate their game
+
+147
+00:05:28,030 --> 00:05:30,000
+idea relative to other games.
+
+148
+00:05:30,000 --> 00:05:31,520
+idea relative to other games.
+
+149
+00:05:31,520 --> 00:05:34,150
+It's going to be World
+of Warcraft on the moon.
+
+150
+00:05:34,150 --> 00:05:36,370
+It's going to be whatever.
+
+151
+00:05:36,370 --> 00:05:39,910
+I think that there's so
+much more opportunity out
+
+152
+00:05:39,910 --> 00:05:41,730
+in the world to take things--
+
+153
+00:05:41,730 --> 00:05:43,980
+you can just take a rock off
+the ground and look at it
+
+154
+00:05:43,980 --> 00:05:46,950
+the right way and it has
+little microbes competing
+
+155
+00:05:46,950 --> 00:05:48,930
+on the surface for
+territory, and there's
+
+156
+00:05:48,930 --> 00:05:50,940
+sunlight and environmental
+consideration.
+
+157
+00:05:50,940 --> 00:05:54,090
+You could turn that into
+something fascinating.
+
+158
+00:05:54,090 --> 00:05:56,850
+You can take almost anything,
+and looking at it the right
+
+159
+00:05:56,850 --> 00:05:59,710
+way, make it a fascinating,
+interactive experience.
+
+160
+00:05:59,710 --> 00:06:00,000
+ 
+
+161
+00:06:00,000 --> 00:06:06,790
+ 
+
+162
+00:06:06,790 --> 00:06:09,000
+With The Sims, it
+wasn't really apparent
+
+163
+00:06:09,000 --> 00:06:10,740
+what I should be researching.
+
+164
+00:06:10,740 --> 00:06:13,190
+But as I started digging
+into the game design,
+
+165
+00:06:13,190 --> 00:06:15,570
+we started getting into this
+thing with the Sims motives,
+
+166
+00:06:15,570 --> 00:06:17,490
+and they had to go to
+work and all this stuff.
+
+167
+00:06:17,490 --> 00:06:19,410
+It became pretty apparent
+that this was really
+
+168
+00:06:19,410 --> 00:06:21,660
+kind of a game about time
+management, in some sense,
+
+169
+00:06:21,660 --> 00:06:22,560
+on their side.
+
+170
+00:06:22,560 --> 00:06:24,900
+How do you manage their time
+to maximize their motives
+
+171
+00:06:24,900 --> 00:06:27,270
+to make them happy?
+
+172
+00:06:27,270 --> 00:06:28,890
+And after quite
+a bit of digging,
+
+173
+00:06:28,890 --> 00:06:30,000
+I came across the work of
+a guy named James Robinson,
+
+174
+00:06:30,000 --> 00:06:33,330
+I came across the work of
+a guy named James Robinson,
+
+175
+00:06:33,330 --> 00:06:35,290
+and he did all these time
+studies of Americans,
+
+176
+00:06:35,290 --> 00:06:36,370
+how they spent their time.
+
+177
+00:06:36,370 --> 00:06:37,860
+He actually kept logs every day.
+
+178
+00:06:37,860 --> 00:06:41,430
+They spent 20 minutes of
+time doing their stuff
+
+179
+00:06:41,430 --> 00:06:42,930
+in the morning to get ready.
+
+180
+00:06:42,930 --> 00:06:44,430
+This amount of time
+with their kids.
+
+181
+00:06:44,430 --> 00:06:46,170
+This amount of time
+in front of TV.
+
+182
+00:06:46,170 --> 00:06:47,490
+And he actually broke it down.
+
+183
+00:06:47,490 --> 00:06:50,010
+And it ended up that we were
+matching those numbers fairly
+
+184
+00:06:50,010 --> 00:06:50,880
+closely.
+
+185
+00:06:50,880 --> 00:06:53,790
+We took the simulation and
+tried to match the real numbers,
+
+186
+00:06:53,790 --> 00:06:56,190
+the percentage of time
+that people actually
+
+187
+00:06:56,190 --> 00:06:59,010
+spend doing each of these
+activities in The Sims.
+
+188
+00:06:59,010 --> 00:07:00,000
+So that was
+something that wasn't
+
+189
+00:07:00,000 --> 00:07:00,420
+So that was
+something that wasn't
+
+190
+00:07:00,420 --> 00:07:03,090
+apparent that was something
+we could even research.
+
+191
+00:07:03,090 --> 00:07:04,410
+Another area of research--
+
+192
+00:07:04,410 --> 00:07:06,160
+I forgot the name of
+the guy who did this,
+
+193
+00:07:06,160 --> 00:07:07,830
+but he was interviewing
+all these people
+
+194
+00:07:07,830 --> 00:07:10,020
+about what their most
+prized possessions were
+
+195
+00:07:10,020 --> 00:07:11,340
+at different ages.
+
+196
+00:07:11,340 --> 00:07:13,200
+And it was actually
+quite interesting stuff,
+
+197
+00:07:13,200 --> 00:07:14,430
+some of which kind of
+made it into the game,
+
+198
+00:07:14,430 --> 00:07:15,300
+some of which didn't.
+
+199
+00:07:15,300 --> 00:07:18,180
+It turned out that for
+kids and really old people,
+
+200
+00:07:18,180 --> 00:07:21,340
+their most prized
+possession was their bed.
+
+201
+00:07:21,340 --> 00:07:23,790
+And in mid-life--
+and TV was second.
+
+202
+00:07:23,790 --> 00:07:25,620
+Mid-life it was like
+their car, their house,
+
+203
+00:07:25,620 --> 00:07:26,760
+all these other things.
+
+204
+00:07:26,760 --> 00:07:28,200
+But it was interesting
+that the kids list
+
+205
+00:07:28,200 --> 00:07:30,000
+of their top possessions
+was almost the same
+
+206
+00:07:30,000 --> 00:07:30,030
+of their top possessions
+was almost the same
+
+207
+00:07:30,030 --> 00:07:32,700
+as like an elderly
+person's top possessions.
+
+208
+00:07:32,700 --> 00:07:36,210
+So some of this stuff will
+become part of the game or not.
+
+209
+00:07:36,210 --> 00:07:38,610
+But still, as a designer,
+if you understand and absorb
+
+210
+00:07:38,610 --> 00:07:41,220
+all this stuff, it helps
+you think about directions
+
+211
+00:07:41,220 --> 00:07:42,990
+you might take it or
+you could take it,
+
+212
+00:07:42,990 --> 00:07:44,410
+even if you don't
+end up using it.
+
+213
+00:07:44,410 --> 00:07:51,570
+ 
+
+214
+00:07:51,570 --> 00:07:53,970
+Even when I'm
+initially imagining,
+
+215
+00:07:53,970 --> 00:07:57,330
+I'm making a game
+about this thing,
+
+216
+00:07:57,330 --> 00:07:59,900
+I don't start by thinking
+what's the game going to be
+
+217
+00:07:59,900 --> 00:08:00,000
+or what's going
+to be like, I just
+
+218
+00:08:00,000 --> 00:08:01,560
+or what's going
+to be like, I just
+
+219
+00:08:01,560 --> 00:08:04,650
+dive deeper and deeper into
+the subject and the research.
+
+220
+00:08:04,650 --> 00:08:08,460
+And then I start trying to kind
+of look at the components--
+
+221
+00:08:08,460 --> 00:08:11,220
+what are the different
+aspects of this
+
+222
+00:08:11,220 --> 00:08:12,620
+that are interesting to me?
+
+223
+00:08:12,620 --> 00:08:16,030
+And it might be the process,
+it might be the structure,
+
+224
+00:08:16,030 --> 00:08:19,200
+it might be the
+science behind it,
+
+225
+00:08:19,200 --> 00:08:21,710
+whatever, historical context.
+
+226
+00:08:21,710 --> 00:08:25,200
+From those things,
+I start imagining
+
+227
+00:08:25,200 --> 00:08:28,590
+how would I really like to view
+this or manipulate it or play
+
+228
+00:08:28,590 --> 00:08:30,000
+with it or create it.
+
+229
+00:08:30,000 --> 00:08:30,750
+with it or create it.
+
+230
+00:08:30,750 --> 00:08:33,299
+If this is a piece
+of clay, how do I
+
+231
+00:08:33,299 --> 00:08:35,010
+want to sculpt it,
+what are my tools?
+
+232
+00:08:35,010 --> 00:08:38,640
+I start just imagining 10
+or 20 different perspectives
+
+233
+00:08:38,640 --> 00:08:40,240
+on that subject.
+
+234
+00:08:40,240 --> 00:08:42,750
+And I think the
+perspectives are far more
+
+235
+00:08:42,750 --> 00:08:49,270
+valuable than particular
+solutions or approaches.
+
+236
+00:08:49,270 --> 00:08:51,480
+So actually, after kind of
+rotating this thing around
+
+237
+00:08:51,480 --> 00:08:54,210
+through 20 or 30 perspectives,
+two or three usually
+
+238
+00:08:54,210 --> 00:08:57,280
+will start to get
+traction in my head,
+
+239
+00:08:57,280 --> 00:08:59,620
+and I'll start exploring
+those a little bit further.
+
+240
+00:08:59,620 --> 00:09:00,000
+So I'm trying to describe
+something that in my head
+
+241
+00:09:00,000 --> 00:09:02,460
+So I'm trying to describe
+something that in my head
+
+242
+00:09:02,460 --> 00:09:05,160
+is really a much more
+abstract process,
+
+243
+00:09:05,160 --> 00:09:07,140
+but that's how it feels to me.
+
+244
+00:09:07,140 --> 00:09:10,470
+But I in some sense, I'm
+kind of circling the idea
+
+245
+00:09:10,470 --> 00:09:12,840
+and slowly zeroing in on it.
+
+246
+00:09:12,840 --> 00:09:15,300
+I don't dive right at it,
+but I sit there and just
+
+247
+00:09:15,300 --> 00:09:16,660
+let it turn over my mind.
+
+248
+00:09:16,660 --> 00:09:18,870
+I'll sit there and do this
+research thinking about it
+
+249
+00:09:18,870 --> 00:09:22,530
+phase for a year before I even
+think about what kind of game
+
+250
+00:09:22,530 --> 00:09:23,370
+it might be.
+
+251
+00:09:23,370 --> 00:09:27,030
+And during that time, I
+will even build models of it
+
+252
+00:09:27,030 --> 00:09:30,000
+or draw pictures of it or try to
+recreate it in different forms,
+
+253
+00:09:30,000 --> 00:09:31,200
+or draw pictures of it or try to
+recreate it in different forms,
+
+254
+00:09:31,200 --> 00:09:32,430
+tangibly.
+
+255
+00:09:32,430 --> 00:09:34,410
+And that again just
+kind of puts my brain
+
+256
+00:09:34,410 --> 00:09:36,240
+in a little bit different
+spin, a little bit
+
+257
+00:09:36,240 --> 00:09:39,450
+different perspective,
+and new ideas
+
+258
+00:09:39,450 --> 00:09:41,490
+will pop up just
+as a result of me
+
+259
+00:09:41,490 --> 00:09:42,950
+building a model of something.
+
+260
+00:09:42,950 --> 00:09:50,100
+ 
+
+261
+00:09:50,100 --> 00:09:55,230
+Spore, the original concept,
+was based on a couple of things.
+
+262
+00:09:55,230 --> 00:09:57,450
+I did a box design, an
+original box design,
+
+263
+00:09:57,450 --> 00:09:59,890
+actually I called
+it Sim Everything.
+
+264
+00:09:59,890 --> 00:10:00,000
+But there were two
+things that really
+
+265
+00:10:00,000 --> 00:10:01,650
+But there were two
+things that really
+
+266
+00:10:01,650 --> 00:10:03,570
+fascinated me especially.
+
+267
+00:10:03,570 --> 00:10:06,340
+Number one was an
+old film, Charles
+
+268
+00:10:06,340 --> 00:10:08,010
+and Ray Eames "Powers of Ten".
+
+269
+00:10:08,010 --> 00:10:10,530
+FILM NARRATION: We begin
+with a scene one meter wide.
+
+270
+00:10:10,530 --> 00:10:13,440
+Now every 10 seconds we
+will look from 10 times
+
+271
+00:10:13,440 --> 00:10:16,600
+farther away, and our field of
+view will be 10 times wider.
+
+272
+00:10:16,600 --> 00:10:18,060
+WILL WRIGHT: It
+was the same thing.
+
+273
+00:10:18,060 --> 00:10:20,910
+Starting with an atomic scale,
+every one a powers of 10
+
+274
+00:10:20,910 --> 00:10:22,650
+bigger and bigger and bigger.
+
+275
+00:10:22,650 --> 00:10:25,560
+I love that idea of
+scale across the galaxy,
+
+276
+00:10:25,560 --> 00:10:27,190
+across the universe.
+
+277
+00:10:27,190 --> 00:10:30,000
+And within that
+dimension of scale,
+
+278
+00:10:30,000 --> 00:10:30,540
+And within that
+dimension of scale,
+
+279
+00:10:30,540 --> 00:10:33,240
+that the most interesting
+thing at every single scale
+
+280
+00:10:33,240 --> 00:10:36,210
+that we know of is life.
+
+281
+00:10:36,210 --> 00:10:38,010
+Everything else is
+fairly deterministic,
+
+282
+00:10:38,010 --> 00:10:42,510
+fairly predictable,
+dry, but life
+
+283
+00:10:42,510 --> 00:10:45,450
+is the one unpredictable aspect
+in every single scale starting
+
+284
+00:10:45,450 --> 00:10:47,140
+at the cellular level.
+
+285
+00:10:47,140 --> 00:10:51,000
+The other big inspiration
+was basically astrobiology--
+
+286
+00:10:51,000 --> 00:10:53,920
+the idea of how prevalent
+is life out the galaxy
+
+287
+00:10:53,920 --> 00:10:55,320
+and what forms might it take?
+
+288
+00:10:55,320 --> 00:10:57,990
+And so it was those two
+ideas that came together
+
+289
+00:10:57,990 --> 00:11:00,000
+and I was really
+thinking about, can I
+
+290
+00:11:00,000 --> 00:11:00,300
+and I was really
+thinking about, can I
+
+291
+00:11:00,300 --> 00:11:02,670
+tell a story about
+the journey of life
+
+292
+00:11:02,670 --> 00:11:07,200
+from the cellular level
+up to galactic expansion
+
+293
+00:11:07,200 --> 00:11:09,720
+and make that kind of
+game like, like a toy?
+
+294
+00:11:09,720 --> 00:11:30,000
+ 
+
+295
+00:11:30,000 --> 00:11:40,670
+ 
+
+296
+00:11:40,670 --> 00:11:46,100
+As a designer I tend to go with
+my gut feel in terms of that's
+
+297
+00:11:46,100 --> 00:11:51,320
+going to be something cool, and
+I can't always express exactly
+
+298
+00:11:51,320 --> 00:11:53,900
+on what dimensions
+it's going to be cool,
+
+299
+00:11:53,900 --> 00:11:56,360
+but I hope that my instincts
+will bring me to a place
+
+300
+00:11:56,360 --> 00:11:59,080
+where a wide range of
+people will enjoy it.
+
+301
+00:11:59,080 --> 00:12:00,000
+And I wasn't always that way.
+
+302
+00:12:00,000 --> 00:12:00,290
+And I wasn't always that way.
+
+303
+00:12:00,290 --> 00:12:03,620
+It took me a while
+to realize that.
+
+304
+00:12:03,620 --> 00:12:07,040
+When I was first working
+on SimCity by myself
+
+305
+00:12:07,040 --> 00:12:08,570
+I showed it to a
+few people and they
+
+306
+00:12:08,570 --> 00:12:09,930
+thought it was kind of cool.
+
+307
+00:12:09,930 --> 00:12:12,030
+I showed it to eventual
+partner, Jeff Braun,
+
+308
+00:12:12,030 --> 00:12:14,570
+and he was like oh yes, we have
+to do, let's start a company.
+
+309
+00:12:14,570 --> 00:12:16,230
+And we started Maxim
+and did SimCity.
+
+310
+00:12:16,230 --> 00:12:18,560
+But in my mind, even at that
+point, I was thinking okay,
+
+311
+00:12:18,560 --> 00:12:21,350
+this is a game that maybe a few
+strategy gamers or architects
+
+312
+00:12:21,350 --> 00:12:22,610
+maybe might enjoy.
+
+313
+00:12:22,610 --> 00:12:24,140
+It didn't occur to me that
+a wide range of people
+
+314
+00:12:24,140 --> 00:12:24,850
+would enjoy that.
+
+315
+00:12:24,850 --> 00:12:25,500
+To Jeff it did.
+
+316
+00:12:25,500 --> 00:12:27,710
+Jeff kind of understood that
+I think more than I did.
+
+317
+00:12:27,710 --> 00:12:29,920
+After that, I started learning
+to trust my instincts,
+
+318
+00:12:29,920 --> 00:12:30,000
+that if I really find
+this cool for some reason
+
+319
+00:12:30,000 --> 00:12:32,120
+that if I really find
+this cool for some reason
+
+320
+00:12:32,120 --> 00:12:34,130
+or I'm gravitating
+toward that, just
+
+321
+00:12:34,130 --> 00:12:37,130
+trust that we can find a
+way to bring other people
+
+322
+00:12:37,130 --> 00:12:39,140
+and they'll enjoy it as well.
+
+323
+00:12:39,140 --> 00:12:40,760
+It's very hard, as
+a designer, for me
+
+324
+00:12:40,760 --> 00:12:42,560
+to design for somebody else.
+
+325
+00:12:42,560 --> 00:12:44,850
+This is how that person
+thinks, this is what they want,
+
+326
+00:12:44,850 --> 00:12:46,980
+this is what they believe.
+
+327
+00:12:46,980 --> 00:12:48,440
+It's easy to do
+for myself and then
+
+328
+00:12:48,440 --> 00:12:51,200
+figure out why am I enjoying
+this, why am I motivated?
+
+329
+00:12:51,200 --> 00:12:55,370
+And what about other
+people's thought process
+
+330
+00:12:55,370 --> 00:12:58,070
+will let them see this and
+enjoy it and experience
+
